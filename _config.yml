@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://pakeapa.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://pakeapa.com
+title: pakeapa
+subtitle: people and their stuff.
+author: dedenf
 simple_search: http://google.com/search
 description:
 
