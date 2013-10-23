@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://pakeapa.github.io/atom.xml" rel="self"/>
-  <link href="http://pakeapa.github.io/"/>
-  <updated>2013-10-23T12:03:46+07:00</updated>
-  <id>http://pakeapa.github.io/</id>
+  <title><![CDATA[pakeapa]]></title>
+  <link href="http://pakeapa.com/atom.xml" rel="self"/>
+  <link href="http://pakeapa.com/"/>
+  <updated>2013-10-23T12:15:16+07:00</updated>
+  <id>http://pakeapa.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[dedenf]]></name>
     
   </author>
 
