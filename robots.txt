@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://pakeapa.github.io/sitemap.xml 
