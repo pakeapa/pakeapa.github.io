@@ -4,13 +4,12 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://pakeapa.github.io/atom.xml" rel="self"/>
   <link href="http://pakeapa.github.io/"/>
-  <updated>2013-10-23T12:01:23+07:00</updated>
+  <updated>2013-10-23T12:03:46+07:00</updated>
   <id>http://pakeapa.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
   </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
 
   
 </feed>
