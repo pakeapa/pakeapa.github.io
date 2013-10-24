@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: blog | pakeapa]]></title>
+  <link href="http://pakeapa.com/blog/categories/blog/atom.xml" rel="self"/>
+  <link href="http://pakeapa.com/"/>
+  <updated>2013-10-24T00:42:44+07:00</updated>
+  <id>http://pakeapa.com/</id>
+  <author>
+    <name><![CDATA[dedenf]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[hello world]]></title>
+    <link href="http://pakeapa.com/blog/2013/10/23/hello-world/"/>
+    <updated>2013-10-23T23:17:00+07:00</updated>
+    <id>http://pakeapa.com/blog/2013/10/23/hello-world</id>
+    <content type="html"><![CDATA[<p>pernah ingin tau bagaimana para techie menyelesaikan pekerjaannya? alat
+penunjang apa saja yang mereka gunakan? apa kira-kira impian mereka?</p>
+
+<p>yak, di sini akan dibuat semacam wawancara yang melibatkan orang-orang yang
+hebat dibidangnya, alat apa yang mereka gunakan. wawancara ini tidak tertutup
+hanya untuk orang IT atau mungkin yang terkenal dibidangnya.</p>
+
+<p>so, stay tune.</p>
+]]></content>
+  </entry>
+  
+</feed>
