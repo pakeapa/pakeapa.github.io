@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://pakeapa.com/blog/2013/10/23/hello-world/</loc>
-        <lastmod>2013-10-24T12:54:29+07:00</lastmod>
+        <loc>http://pakeapa.com/hello-world/</loc>
+        <lastmod>2013-11-03T08:09:06+07:00</lastmod>
     </url>
     <url>
         <loc>http://pakeapa.com/about/</loc>
-        <lastmod>2013-10-24T12:58:56+07:00</lastmod>
+        <lastmod>2013-11-03T08:09:06+07:00</lastmod>
     </url>
     <url>
         <loc>http://pakeapa.com/archives/</loc>
-        <lastmod>2013-10-24T12:54:29+07:00</lastmod>
+        <lastmod>2013-11-03T08:09:06+07:00</lastmod>
     </url>
     <url>
         <loc>http://pakeapa.com/blog/archives/</loc>
-        <lastmod>2013-10-24T12:54:29+07:00</lastmod>
+        <lastmod>2013-11-03T08:09:06+07:00</lastmod>
     </url>
     <url>
         <loc>http://pakeapa.com/blog/</loc>
-        <lastmod>2013-10-24T12:54:29+07:00</lastmod>
+        <lastmod>2013-11-03T08:09:06+07:00</lastmod>
     </url>
     <url>
         <loc>http://pakeapa.com/</loc>
-        <lastmod>2013-10-24T12:54:29+07:00</lastmod>
+        <lastmod>2013-11-03T08:09:06+07:00</lastmod>
     </url>
     <url>
         <loc>http://pakeapa.com/robots.txt</loc>
-        <lastmod>2013-10-24T12:54:29+07:00</lastmod>
+        <lastmod>2013-11-03T08:09:06+07:00</lastmod>
     </url>
 </urlset>
