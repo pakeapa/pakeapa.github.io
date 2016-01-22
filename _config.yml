@@ -6,26 +6,36 @@ highlighter:         pygments
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
+# relative_permalinks: true
 
 # Setup
-title:            Codinfox
-tagline:          'Learning to be Giant.'
-description:      'Blog of YourName. Here are some technical stuff. Some notes about development.'
-url:              http://codinfox.github.io
+title:            Pakeapa
+tagline:          'Setup / Tips / interview'
+description:      'Pakeapa.com, interview dengan professional, daily people di indonesia tentang apa yang mereka kerjakan dan lakukan, peralatan apa yang dibawa buat membantu pekerjaan dan getting things done.'
+url:              http://pakeapa.com
 
-author:
-  name:           'Your Name'
-  url:            http://codinfox.github.io
-  gravatar:       https://en.gravatar.com/yourname
-  photo:          http://2.gravatar.com/avatar/00000000000000000000000000000000?size=350
-  introduction:   'Some introduction words that will be displayed under the avatar. You may include HTML <a href="#">here</a>.'
+# author:
+#   name:           'Deden Fathurahman'
+#   url:            http://github.com/dedef
+#   gravatar:       https://en.gravatar.com/yourname
+#   photo:          /images/sites/logo-pakeapa.png
+#   introduction:   'Some introduction words that will be displayed under the avatar. You may include HTML <a href="#">here</a>.'
 
 paginate:         5
-paginate_path:    '/blog/page:num'
 
 # Custom vars
 version:          1.0.0
 
 github:
-  repo:           https://github.com/codinfox/lanyon-codinfox.github.io
+  repo:           https://github.com/pakeapa/pakeapa.github.io
+
+gems: [jekyll-paginate]
+
+
+paginate_path: "page/:num"
+excerpt_separator: "\n\n"
+
+pages_list:
+  Tentang: '/about'
+  Arsip: '/archive'
+  Feed: '/atom.xml'
