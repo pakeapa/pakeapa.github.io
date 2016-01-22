@@ -4,16 +4,13 @@ title: Putra Setia Utama
 excerpt: <img src="http://127.0.0.1:4000/images/people/putra.jpeg" alt="Putra Setia Utama" />
         <p>Putra Setia Utama, Chief of Developer Outreach di <a href="https://www.techinasia.com/">Tech In Asia</a>.</p>
 
-tags:
-- jurnalis
-- mac
-- developer
-
+category: interview
+tags: [jurnalis, mac, developer]
 permalink: /putra-setia-utama/
 
 ---
 
-<a href="{{ site.baseurl }}/public/images/putra.jpeg"><img src="{{ site.baseurl }}/public/images/putra.jpeg" alt="Putra Setia Utama" /></a>
+<a href="{{ site.baseurl }}/images/people/putra.jpeg"><img src="{{ site.baseurl }}/images/people/putra.jpeg" alt="Putra Setia Utama" /></a>
 
 <p>Putra Setia Utama, Chief of Developer Outreach di <a href="https://www.techinasia.com/">Tech In Asia</a>.</p>
 <!--more-->

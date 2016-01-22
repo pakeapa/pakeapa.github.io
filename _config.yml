@@ -9,7 +9,7 @@ title:               Pakeapa
 tagline:             Setup / Tips / interview
 url:                 http://pakeapa.com
 paginate:            5
-baseurl:             "http://127.0.0.1:4000/"
+baseurl:             ""
 
 # Assets
 #

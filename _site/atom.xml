@@ -4,7 +4,7 @@
  <title>Pakeapa</title>
  <link href="http://pakeapa.com/atom.xml" rel="self"/>
  <link href="http://pakeapa.com/"/>
- <updated>2016-01-22T14:25:59+07:00</updated>
+ <updated>2016-01-22T14:37:58+07:00</updated>
  <id>http://pakeapa.com</id>
  <author>
    <name>Mark Otto</name>
@@ -17,7 +17,7 @@
    <link href="http://pakeapa.com/putra-setia-utama/"/>
    <updated>2015-11-03T00:00:00+07:00</updated>
    <id>http://pakeapa.com/putra-setia-utama</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;/public/images/putra.jpeg&quot;&gt;&lt;img src=&quot;/public/images/putra.jpeg&quot; alt=&quot;Putra Setia Utama&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/putra.jpeg&quot;&gt;&lt;img src=&quot;/images/people/putra.jpeg&quot; alt=&quot;Putra Setia Utama&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Putra Setia Utama, Chief of Developer Outreach di &lt;a href=&quot;https://www.techinasia.com/&quot;&gt;Tech In Asia&lt;/a&gt;.&lt;/p&gt;
 &lt;!--more--&gt;
