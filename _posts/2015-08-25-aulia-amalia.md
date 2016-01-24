@@ -2,7 +2,7 @@
 layout: post
 title: Aulia Amalia
 excerpt:
-        <a href="/images/people/aulia/image1.jpg"><img src="/images/people/aulia/image1-1024x768.jpg" alt="Aulia Amalia" width="700" height="525" class="alignnone size-large wp-image-262" /></a>
+        <a href="/images/people/aulia/image1.jpg"><img src="/images/people/aulia/aamalia.jpg" alt="Aulia Amalia" width="700" height="525" class="alignnone size-large wp-image-262" /></a>
         <p>Aulia Amalia, Product &amp; Development Manager <a href="http://www.wego.co.id/">wego.com</a></p>
 
 tags:
@@ -14,7 +14,7 @@ permalink: /aulia-amalia/
 
 ---
 
-<a href="/images/people/aulia/image1.jpg"><img src="/images/people/aulia/image1-1024x768.jpg" alt="Aulia Amalia" width="700" height="525" class="alignnone size-large wp-image-262" /></a>
+<a href="/images/people/aulia/image1.jpg"><img src="/images/people/aulia/aamalia.jpg" alt="Aulia Amalia" width="700" height="525" class="alignnone size-large wp-image-262" /></a>
 
 <p>Aulia Amalia, Product &amp; Development Manager <a href="http://www.wego.co.id/">wego.com</a></p>
 
