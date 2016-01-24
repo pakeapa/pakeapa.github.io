@@ -2,8 +2,8 @@
 layout: post
 title: Rizki Suluh Adi
 excerpt:
-        <a href="/images/people/rizki/rizki.jpg"><img src="/images/people/rizki/rizki.jpg" alt="rizki suluh adi" width="600" height="424" class="alignnone size-full wp-image-163" /></a>
-        VP Marketing di Happyfresh
+        <a href="/images/people/rizki/rizki.jpg"><img src="/images/people/rizki/rizki.jpg" alt="rizki suluh adi" /></a>
+        <h5>VP Marketing di <a href="https://happyfresh.com/">Happyfresh</a></h5>
 
 tags:
 - desainer
@@ -14,7 +14,6 @@ permalink: /rizki-suluh-adi/
 ---
 
 <a href="/images/people/rizki/rizki.jpg"><img src="/images/people/rizki/rizki.jpg" alt="rizki suluh adi" width="600" height="424" class="alignnone size-full wp-image-163" /></a>
-VP Marketing di Happyfresh
 
 <!--more-->
 

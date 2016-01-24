@@ -2,8 +2,8 @@
 layout: post
 title: Acong De Conte
 excerpt:
-        <a href="/images/people/acong/1800246_1443806555921488_5940057397846639244_n.jpg"><img src="/images/people/acong/1800246_1443806555921488_5940057397846639244_n.jpg" alt="Acong De conte" width="600" height="400" class="alignnone size-full wp-image-211" /></a>
-        Founder dan CEO <a href="https://www.maxindo.net.id/">Maxindo</a>, Founder <a href="http://www.indowebster.com/">Indowebster.com</a>.
+        <a href="/images/people/acong/1800246_1443806555921488_5940057397846639244_n.jpg"><img src="/images/people/acong/1800246_1443806555921488_5940057397846639244_n.jpg" alt="Acong De conte" /></a>
+        <h5>Founder dan CEO <a href="https://www.maxindo.net.id/">Maxindo</a>, Founder <a href="http://www.indowebster.com/">Indowebster.com</a>.</h5>
 
 tags:
 - entrepreneur
@@ -16,7 +16,6 @@ permalink: /acong-de-conte/
 
 <a href="/images/people/acong/1800246_1443806555921488_5940057397846639244_n.jpg"><img src="/images/people/acong/1800246_1443806555921488_5940057397846639244_n.jpg" alt="Acong De conte" width="600" height="400" class="alignnone size-full wp-image-211" /></a>
 
-Founder dan CEO <a href="https://www.maxindo.net.id/">Maxindo</a>, Founder <a href="http://www.indowebster.com/">Indowebster.com</a>.
 
 <!--more-->
 
@@ -38,4 +37,4 @@ sekarang lagi iseng-iseng pakai Plex.tv dan juga mainan seedbox untuk torrent da
 
 
 <h3>Smartphone homescreen</h3>
-<a href="/images/people/acong/Screenshot_2015-07-01-06-49-08.png"><img src="/images/people/acong/Screenshot_2015-07-01-06-49-08.png" alt="Acong De conte Homescreen" width="540" height="960" class="alignnone size-full wp-image-212" /></a>
+<a href="/images/people/acong/Screenshot_2015-07-01-06-49-08.png"><img src="/images/people/acong/Screenshot_2015-07-01-06-49-08.png" alt="Acong De conte Homescreen" /></a>

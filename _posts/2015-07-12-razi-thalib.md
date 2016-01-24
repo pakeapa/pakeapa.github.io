@@ -2,8 +2,8 @@
 layout: post
 title: Razi Thalib
 excerpt:
-        <a href="/images/people/razi/Razi-Setipe-Kantor-e1440167036154.jpg"><img class="alignnone size-large wp-image-235" src="/images/people/razi/Razi-Setipe-Kantor-1024x683.jpg" alt="Razi Thalib, setipe.com" width="640" height="427" /></a>
-        <p>Razi Thalib, CEO <a href="https://setipe.com/">Setipe.com</a></p>
+        <a href="/images/people/razi/Razi-Setipe-Kantor-e1440167036154.jpg"><img class="alignnone size-large wp-image-235" src="/images/people/razi/Razi-Setipe-Kantor-e1440167036154.jpg" alt="Razi Thalib, setipe.com" /></a>
+        <h5>CEO <a href="https://setipe.com/">Setipe.com</a></h5>
 
 tags:
 - startup
@@ -14,9 +14,7 @@ permalink: /razi-thalib/
 
 ---
 
-<a href="/images/people/razi/Razi-Setipe-Kantor-e1440167036154.jpg"><img class="alignnone size-large wp-image-235" src="/images/people/razi/Razi-Setipe-Kantor-1024x683.jpg" alt="Razi Thalib, setipe.com" width="640" height="427" /></a>
-
-<p>Razi Thalib, CEO Setipe.com</p>
+<a href="/images/people/razi/Razi-Setipe-Kantor-1024x683.jpg"><img src="/images/people/razi/Razi-Setipe-Kantor-e1440167036154.jpg" alt="Razi Thalib, setipe.com"  /></a>
 
 <!--more-->
 
@@ -43,4 +41,4 @@ Saya sekarang pakai tas sling bag dari <a href="http://bro.do/en/">Brodo</a> war
     <li>Kumpulan catatan-catatan ide di kertas</li>
 </ul>
 <h3>Smartphone homescreen</h3>
-<a href="/images/people/razi/Screenshot_2015-08-21-14-48-04.jpg"><img class="alignnone size-full wp-image-238" src="/images/people/razi/Screenshot_2015-08-21-14-48-04.jpg" alt="razi homescreen" width="540" height="960" /></a>
+<a href="/images/people/razi/Screenshot_2015-08-21-14-48-04.jpg"><img src="/images/people/razi/Screenshot_2015-08-21-14-48-04.jpg" alt="razi homescreen" /></a>

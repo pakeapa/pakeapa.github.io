@@ -2,8 +2,8 @@
 layout: post
 title: Aulia Amalia
 excerpt:
-        <a href="/images/people/aulia/image1.jpg"><img src="/images/people/aulia/aamalia.jpg" alt="Aulia Amalia" width="700" height="525" class="alignnone size-large wp-image-262" /></a>
-        <p>Aulia Amalia, Product &amp; Development Manager <a href="http://www.wego.co.id/">wego.com</a></p>
+        <a href="/images/people/aulia/image1.jpg"><img src="/images/people/aulia/aamalia.jpg" alt="Aulia Amalia" /></a>
+        <h5>Product &amp; Development Manager <a href="http://www.wego.co.id/">wego.com</a></h5>
 
 tags:
 - developer
@@ -14,9 +14,8 @@ permalink: /aulia-amalia/
 
 ---
 
-<a href="/images/people/aulia/image1.jpg"><img src="/images/people/aulia/aamalia.jpg" alt="Aulia Amalia" width="700" height="525" class="alignnone size-large wp-image-262" /></a>
+<a href="/images/people/aulia/image1.jpg"><img src="/images/people/aulia/aamalia.jpg" alt="Aulia Amalia"/></a>
 
-<p>Aulia Amalia, Product &amp; Development Manager <a href="http://www.wego.co.id/">wego.com</a></p>
 
 <!--more-->
 
@@ -62,4 +61,4 @@ Dan lagi seru banget sekarang main <a href="https://itunes.apple.com/id/app/drag
 Tas sih suka ganti-ganti sesuai sama lagi pake baju apa. Tapi udah seminggu ini pake sling bag Coach warna hitam. Isinya pouch life-kit survival, dompet duit, dompet kartu, <a href="http://www.apple.com/shop/product/MD827LL/A/apple-earpods-with-remote-and-mic">EarPods</a>, charger iPhone dan <a href="https://www.fitbit.com/">Fitbit</a>, lembaran tebel 10rb-an persiapan buat naik ojek, dan buku.
 </p>
 <h3>Smartphone homescreen</h3>
-<a href="/images/people/aulia/image2.png"><img src="/images/people/aulia/image2-576x1024.png" alt="image2" width="576" height="1024" class="alignnone size-large wp-image-264" /></a>
+<a href="/images/people/aulia/aamalia.png"><img src="/images/people/aulia/aamalia.png" alt="aulia amalia" /></a>

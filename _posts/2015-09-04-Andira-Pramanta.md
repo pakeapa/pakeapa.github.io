@@ -2,8 +2,8 @@
 layout: post
 title: Andira Pramanta
 excerpt:
-        <a href="/images/people/andira/IMG_2835.jpg"><img src="/images/people/andira/IMG_2835.jpg" alt="Andira Pramanta" width="600" height="600" class="alignnone size-full wp-image-300" /></a>
-        <p>Andira Pramanta, designer, broadcaster di 87.6 <a href="http://hardrockfm.com/">HardRockFM</a></p>
+        <a href="/images/people/andira/IMG_2835.jpg"><img src="/images/people/andira/IMG_2835.jpg" alt="Andira Pramanta" /></a>
+        <h5>Designer, broadcaster di 87.6 <a href="http://hardrockfm.com/">HardRockFM</a></h5>
 
 tags:
 - entrepreneur
@@ -13,9 +13,7 @@ category: interview
 permalink: /andira-pramanta/
 ---
 
-<a href="/images/people/andira/IMG_2835.jpg"><img src="/images/people/andira/IMG_2835.jpg" alt="Andira Pramanta" width="600" height="600" class="alignnone size-full wp-image-300" /></a>
-
-<p>Andira Pramanta, designer, broadcaster di 87.6 HardRockFM</p>
+<a href="/images/people/andira/IMG_2835.jpg"><img src="/images/people/andira/IMG_2835.jpg" alt="Andira Pramanta" /></a>
 
 <!--more-->
 
@@ -34,4 +32,4 @@ permalink: /andira-pramanta/
 <a href="/images/people/andira/IMG_8423.jpg"><img src="/images/people/andira/IMG_8423-1024x768.jpg" alt="Andira Pramanta in my bag" width="700" height="525" class="alignnone size-large wp-image-302" /></a>
 
 <h3>Smartphone homescreen</h3>
-<a href="/images/people/andira/IMG_8452.jpg"><img src="/images/people/andira/IMG_8452-576x1024.jpg" alt="Andira Pramanta homescreen" width="576" height="1024" class="alignnone size-large wp-image-304" /></a>
+<a href="/images/people/andira/IMG_8452.jpg"><img src="/images/people/andira/IMG_8452-576x1024.jpg" alt="Andira Pramanta homescreen" /></a>

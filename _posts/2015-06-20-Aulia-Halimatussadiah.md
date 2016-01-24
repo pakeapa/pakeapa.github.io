@@ -2,8 +2,8 @@
 layout: post
 title: Aulia Halimatussadiah
 excerpt:
-        <a href="/images/people/ollie/SAM_4816.jpg"><img src="/images/people/ollie/SAM_4816.jpg" alt="Aulia Halimatussadiah, Ollie" width="600" height="400" class="alignnone size-full wp-image-133" /></a>
-        Penulis, co-founder <a href="http://nulisbuku.com">NulisBuku.com</a> dan <a href="http://Kutukutubuku.com">Kutukutubuku.com</a>.
+        <a href="/images/people/ollie/SAM_4816.jpg"><img src="/images/people/ollie/SAM_4816.jpg" alt="Aulia Halimatussadiah, Ollie" /></a>
+        <h5>Penulis, co-founder <a href="http://nulisbuku.com">NulisBuku.com</a> dan <a href="http://Kutukutubuku.com">Kutukutubuku.com</a></h5>
 tags:
 - penulis
 - pc
@@ -13,7 +13,6 @@ permalink: /aulia-halimatussadiah/
 ---
 
 <a href="/images/people/ollie/SAM_4816.jpg"><img src="/images/people/ollie/SAM_4816.jpg" alt="Aulia Halimatussadiah, Ollie" width="600" height="400" class="alignnone size-full wp-image-133" /></a>
-Penulis, co-founder <a href="http://nulisbuku.com">NulisBuku.com</a> dan <a href="http://Kutukutubuku.com">Kutukutubuku.com</a>.
 
 <!--more-->
 
@@ -35,4 +34,4 @@ Tas saya berisi gadget seperti smartphone dan tablet, buku catatan dan buku pape
 
 <h3>Smartphone homescreen</h3>
 
-<a href="/images/people/ollie/Screenshot_2015-06-19-21-29-35.png"><img src="/images/people/ollie/Screenshot_2015-06-19-21-29-35-576x1024.png" alt="homescreen Ollie" width="576" height="1024" class="alignnone size-large wp-image-129" /></a>
+<a href="/images/people/ollie/Screenshot_2015-06-19-21-29-35.png"><img src="/images/people/ollie/Screenshot_2015-06-19-21-29-35-576x1024.png" alt="homescreen Ollie" /></a>

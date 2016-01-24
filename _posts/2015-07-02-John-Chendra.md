@@ -2,8 +2,8 @@
 layout: post
 title: John Chendra
 excerpt:
-        <a href="/images/people/jchendra/john.jpg"><img src="/images/people/jchendra/john.jpg" alt="john chendra" width="479" height="425" class="alignnone size-full wp-image-208" /></a>
-        Coffee Connoisseur di <a href="https://twitter.com/kopiujung">Kopi Ujung</a>
+        <a href="/images/people/jchendra/john.jpg"><img src="/images/people/jchendra/john.jpg" alt="john chendra" /></a>
+        <h5>Coffee Connoisseur di <a href="https://twitter.com/kopiujung">Kopi Ujung</a></h5>
 
 tags:
 - coffee
@@ -14,7 +14,6 @@ permalink: /john-chendra/
 ---
 
 <a href="/images/people/jchendra/john.jpg"><img src="/images/people/jchendra/john.jpg" alt="john chendra" width="479" height="425" class="alignnone size-full wp-image-208" /></a>
-Coffee Connoisseur
 <!--more-->
 
 <h3>Siapa anda dan apa yang anda lakukan?</h3>
@@ -41,4 +40,4 @@ Selain tas selempang ini ada satu "tas pinggang" yang selalu melekat di sisi say
 
 
 <h3>Smartphone homescreen</h3>
-<a href="/images/people/jchendra/IMG_4333.jpg"><img src="/images/people/jchendra/IMG_4333.jpg" alt="John Chendra Homescreen" width="640" height="960" class="alignnone size-full wp-image-206" /></a>
+<a href="/images/people/jchendra/IMG_4333.jpg"><img src="/images/people/jchendra/IMG_4333.jpg" alt="John Chendra Homescreen" /></a>

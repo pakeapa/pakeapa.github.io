@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Didats Triadi
-excerpt: <a href="/images/people/didats/didats2.png"><img src="/images/people/didats/didats2.png" alt="didats triadi" width="600" height="359" /></a>
-         <h3><small>Developer, Founder <a href="http://rimbunesia.com/">Rimbunesia</a></small></h3>
+excerpt: <a href="/images/people/didats/didats2.png"><img src="/images/people/didats/didats2.png" alt="didats triadi" /></a>
+         <h5>Developer, Founder <a href="http://rimbunesia.com/">Rimbunesia</a></h5>
 tags:
 - interview
 - developer
@@ -12,7 +12,6 @@ permalink: /didats-triadi/
 ---
 
 <a href="/images/people/didats/didats2.png"><img src="/images/people/didats/didats2.png" alt="didats triadi" width="600" height="359" /></a>
-<h3><small>Developer, Founder <a href="http://rimbunesia.com/">Rimbunesia</a></small></h3>
 
 <!--more-->
 

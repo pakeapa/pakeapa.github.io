@@ -2,8 +2,8 @@
 layout: post
 title: Didik Wicaksono
 excerpt:
-        <a href="/images/people/didats/didik.jpg"><img src="/images/people/didik/didik.jpg" alt="didik wicaksono" width="600" height="600" class="alignnone size-full wp-image-93" /></a>
-        <h3><small>Developer, CTO <a href="https://cookpad.com/id">Cookpad Indonesia</a></small></h3>
+        <a href="/images/people/didats/didik.jpg"><img src="/images/people/didik/didik.jpg" alt="didik wicaksono"  /></a>
+        <h5>Developer, CTO <a href="https://cookpad.com/id">Cookpad Indonesia</a></h5>
 tags:
 - app
 - mac
@@ -17,7 +17,6 @@ permalink: /didik-wicaksono/
 
 <a href="/images/people/didik/didik.jpg"><img src="/images/people/didik/didik.jpg" alt="didik wicaksono" width="600" height="600" class="alignnone size-full wp-image-93" /></a>
 
-<h3><small>Developer, CTO <a href="https://cookpad.com/id">Cookpad Indonesia</a></small></h3>
 
 <!--more-->
 

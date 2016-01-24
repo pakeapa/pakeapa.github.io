@@ -2,7 +2,7 @@
 layout: post
 title: Putra Setia Utama
 excerpt: <img src="/images/people/putra/putra2.png" alt="Putra Setia Utama" />
-        <p>Putra Setia Utama, Chief of Developer Outreach di <a href="https://www.techinasia.com/">Tech In Asia</a>.</p>
+         <h5>Chief of Developer Outreach di <a href="https://www.techinasia.com/">Tech In Asia</a>.</h5>
 
 category: interview
 tags: [jurnalis, mac, developer]
@@ -11,8 +11,6 @@ permalink: /putra-setia-utama/
 ---
 
 <a href="/images/people/putra/putra2.png"><img src="/images/people/putra/putra2.png" alt="Putra Setia Utama" /></a>
-
-<p>Putra Setia Utama, Chief of Developer Outreach di <a href="https://www.techinasia.com/">Tech In Asia</a>.</p>
 <!--more-->
 
 <h3>Siapa anda dan apa yang anda lakukan?</h3>

@@ -2,8 +2,8 @@
 layout: post
 title: Abiwara Erwin
 excerpt:
-        <a href="/images/people/abiwara/850515082_16495424198644762356.jpg"><img src="/images/people/abiwara/850515082_16495424198644762356.jpg" alt="abiwara erwin" width="600" height="400" class="alignnone size-full wp-image-108" /></a>
-        Motion Graphic Designer dan VFX Compositor di <a href="http://www.orientalpost.com/">Oriental Post Jakarta</a>
+        <a href="/images/people/abiwara/850515082_16495424198644762356.jpg"><img src="/images/people/abiwara/850515082_16495424198644762356.jpg" alt="abiwara erwin" /></a>
+        <h5>Motion Graphic Designer dan VFX Compositor di <a href="http://www.orientalpost.com/">Oriental Post Jakarta</a></h5>
 
 tags:
 - animator
@@ -17,7 +17,6 @@ permalink: /abiwara-erwin/
 ---
 
 <a href="/images/people/abiwara/850515082_16495424198644762356.jpg"><img src="/images/people/abiwara/850515082_16495424198644762356.jpg" alt="abiwara erwin" width="600" height="400" class="alignnone size-full wp-image-108" /></a>
-Motion Graphic Designer dan VFX Compositor di <a href="http://www.orientalpost.com/">Oriental Post Jakarta</a>
 
 <!--more-->
 
@@ -71,4 +70,4 @@ Sebuah tas (backpack) yg lebih kecil berisi Nikon D300, Mobile HDD, Notepad, pul
 
 <h3>Smartphone homescreen</h3>
 
-<a href="/images/people/abiwara/850515405_11964939063006686668.jpg"><img src="/images/people/abiwara/850515405_11964939063006686668.jpg" alt="Abiwara Homescreen" width="640" height="960" class="alignnone size-full wp-image-111" /></a>
+<a href="/images/people/abiwara/850515405_11964939063006686668.jpg"><img src="/images/people/abiwara/850515405_11964939063006686668.jpg" alt="Abiwara Homescreen"  /></a>

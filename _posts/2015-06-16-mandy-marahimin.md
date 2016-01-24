@@ -2,8 +2,8 @@
 layout: post
 title: Mandy Marahimin
 excerpt:
-         <a href="/images/people/mandy/20080606000119.jpg"><img src="/images/people/mandy/20080606000119.jpg" alt="Mandy Marahimin" width="600" height="400" class="alignnone size-full wp-image-65" /></a>
-         <h3><small>Filmmaker, Founder <a href="https://wujudkan.com/">Wujudkan.com</a></small></h3>
+         <a href="/images/people/mandy/20080606000119.jpg"><img src="/images/people/mandy/20080606000119.jpg" alt="Mandy Marahimin"/></a>
+         <h5>Filmmaker, Founder <a href="https://wujudkan.com/">Wujudkan.com</a></h5>
 tags:
 - interview
 - mac
@@ -15,7 +15,6 @@ permalink: /mandy-marahimin/
 
 <a href="/images/people/mandy/20080606000119.jpg"><img src="/images/people/mandy/20080606000119.jpg" alt="Mandy Marahimin" width="600" height="400" /></a>
 
-<h3><small>Filmmaker, Founder <a href="https://wujudkan.com/">Wujudkan.com</a></small></h3>
 <!--more-->
 
 <h3>Siapa anda dan apa yang anda lakukan?</h3>
