@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Putra Setia Utama
-excerpt: <img src="http://127.0.0.1:4000/images/people/putra.jpeg" alt="Putra Setia Utama" />
+excerpt: <img src="/images/people/putra/putra2.png" alt="Putra Setia Utama" />
         <p>Putra Setia Utama, Chief of Developer Outreach di <a href="https://www.techinasia.com/">Tech In Asia</a>.</p>
 
 category: interview
@@ -10,7 +10,7 @@ permalink: /putra-setia-utama/
 
 ---
 
-<a href="{{ site.baseurl }}/images/people/putra.jpeg"><img src="{{ site.baseurl }}/images/people/putra.jpeg" alt="Putra Setia Utama" /></a>
+<a href="/images/people/putra/putra2.png"><img src="/images/people/putra/putra2.png" alt="Putra Setia Utama" /></a>
 
 <p>Putra Setia Utama, Chief of Developer Outreach di <a href="https://www.techinasia.com/">Tech In Asia</a>.</p>
 <!--more-->
@@ -33,4 +33,4 @@ Dan yang gak boleh ketinggalan adalah pulpen 4 warna dari Bic. Pulpen ini memper
 <p>Tas isinya : Buku, kotak pensil, laptop + chargeran, Rubik, earphone standard apple sama parfume (karena lagi sering naik gojek buat meeting) :D</p>
 
 <h3>Smartphone homescreen</h3>
-<a href="http://pakeapa.com/wp-content/uploads/2015/11/IMG_0249.jpg"><img src="http://pakeapa.com/wp-content/uploads/2015/11/IMG_0249-577x1024.jpg" alt="Putra Setia Utama" width="577" height="1024" class="alignnone size-large wp-image-309" /></a>
+<a href="/images/people/putra/IMG_0249.jpg"><img src="/images/people/putra/IMG_0249-577x1024.jpg" alt="Putra Setia Utama" width="577" height="1024" class="alignnone size-large wp-image-309" /></a>

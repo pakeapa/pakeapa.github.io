@@ -2,7 +2,7 @@
 layout: post
 title: John Chendra
 excerpt:
-        <a href="http://pakeapa.com/wp-content/uploads/2015/07/john.jpg"><img src="http://pakeapa.com/wp-content/uploads/2015/07/john.jpg" alt="john chendra" width="479" height="425" class="alignnone size-full wp-image-208" /></a>
+        <a href="/images/people/jchendra/john.jpg"><img src="/images/people/jchendra/john.jpg" alt="john chendra" width="479" height="425" class="alignnone size-full wp-image-208" /></a>
         Coffee Connoisseur di <a href="https://twitter.com/kopiujung">Kopi Ujung</a>
 
 tags:
@@ -13,7 +13,7 @@ permalink: /john-chendra/
 
 ---
 
-<a href="http://pakeapa.com/wp-content/uploads/2015/07/john.jpg"><img src="http://pakeapa.com/wp-content/uploads/2015/07/john.jpg" alt="john chendra" width="479" height="425" class="alignnone size-full wp-image-208" /></a>
+<a href="/images/people/jchendra/john.jpg"><img src="/images/people/jchendra/john.jpg" alt="john chendra" width="479" height="425" class="alignnone size-full wp-image-208" /></a>
 Coffee Connoisseur
 <!--more-->
 
@@ -41,4 +41,4 @@ Selain tas selempang ini ada satu "tas pinggang" yang selalu melekat di sisi say
 
 
 <h3>Smartphone homescreen</h3>
-<a href="http://pakeapa.com/wp-content/uploads/2015/07/IMG_4333.jpg"><img src="http://pakeapa.com/wp-content/uploads/2015/07/IMG_4333.jpg" alt="John Chendra Homescreen" width="640" height="960" class="alignnone size-full wp-image-206" /></a>
+<a href="/images/people/jchendra/IMG_4333.jpg"><img src="/images/people/jchendra/IMG_4333.jpg" alt="John Chendra Homescreen" width="640" height="960" class="alignnone size-full wp-image-206" /></a>

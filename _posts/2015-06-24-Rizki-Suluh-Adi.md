@@ -2,7 +2,7 @@
 layout: post
 title: Rizki Suluh Adi
 excerpt:
-        <a href="https://pakeapa.com/wp-content/uploads/2015/06/rizki.jpg"><img src="http://pakeapa.com/wp-content/uploads/2015/06/rizki.jpg" alt="rizki suluh adi" width="600" height="424" class="alignnone size-full wp-image-163" /></a>
+        <a href="/images/people/rizki/rizki.jpg"><img src="/images/people/rizki/rizki.jpg" alt="rizki suluh adi" width="600" height="424" class="alignnone size-full wp-image-163" /></a>
         VP Marketing di Happyfresh
 
 tags:
@@ -13,7 +13,7 @@ permalink: /rizki-suluh-adi/
 
 ---
 
-<a href="https://pakeapa.com/wp-content/uploads/2015/06/rizki.jpg"><img src="http://pakeapa.com/wp-content/uploads/2015/06/rizki.jpg" alt="rizki suluh adi" width="600" height="424" class="alignnone size-full wp-image-163" /></a>
+<a href="/images/people/rizki/rizki.jpg"><img src="/images/people/rizki/rizki.jpg" alt="rizki suluh adi" width="600" height="424" class="alignnone size-full wp-image-163" /></a>
 VP Marketing di Happyfresh
 
 <!--more-->

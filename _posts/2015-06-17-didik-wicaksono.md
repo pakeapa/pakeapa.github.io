@@ -2,7 +2,7 @@
 layout: post
 title: Didik Wicaksono
 excerpt:
-        <a href="https://pakeapa.com/wp-content/uploads/2015/06/didik.jpg"><img src="https://pakeapa.com/wp-content/uploads/2015/06/didik.jpg" alt="didik wicaksono" width="600" height="600" class="alignnone size-full wp-image-93" /></a>
+        <a href="/images/people/didats/didik.jpg"><img src="/images/people/didik/didik.jpg" alt="didik wicaksono" width="600" height="600" class="alignnone size-full wp-image-93" /></a>
         <h3><small>Developer, CTO <a href="https://cookpad.com/id">Cookpad Indonesia</a></small></h3>
 tags:
 - app
@@ -15,7 +15,7 @@ permalink: /didik-wicaksono/
 
 ---
 
-<a href="https://pakeapa.com/wp-content/uploads/2015/06/didik.jpg"><img src="https://pakeapa.com/wp-content/uploads/2015/06/didik.jpg" alt="didik wicaksono" width="600" height="600" class="alignnone size-full wp-image-93" /></a>
+<a href="/images/people/didik/didik.jpg"><img src="/images/people/didik/didik.jpg" alt="didik wicaksono" width="600" height="600" class="alignnone size-full wp-image-93" /></a>
 
 <h3><small>Developer, CTO <a href="https://cookpad.com/id">Cookpad Indonesia</a></small></h3>
 
@@ -48,4 +48,4 @@ Semua kartu nama hasil networking sana-sini. Permen <a href="http://www.fisherma
 
 <h3>Smartphone homescreen</h3>
 
-<a href="https://pakeapa.com/wp-content/uploads/2015/06/Screenshot_2015-06-17-14-45-07.png"><img src="https://pakeapa.com/wp-content/uploads/2015/06/Screenshot_2015-06-17-14-45-07-169x300.png" alt="Didik Home screen" width="169" height="300" class="alignnone size-medium wp-image-92" /></a>
+<a href="/images/people/didik/Screenshot_2015-06-17-14-45-07.png"><img src="/images/people/didik/Screenshot_2015-06-17-14-45-07.png" alt="Didik Home screen" /></a>

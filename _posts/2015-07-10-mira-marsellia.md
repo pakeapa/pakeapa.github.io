@@ -2,7 +2,7 @@
 layout: post
 title: Mira Marsellia
 excerpt:
-        <a href="http://pakeapa.com/wp-content/uploads/2015/07/photo_2015-07-04_12-44-47-e1435988742176.jpg"><img src="http://pakeapa.com/wp-content/uploads/2015/07/photo_2015-07-04_12-44-47-e1435988742176.jpg" alt="Mira Marsellia" width="600" height="397" class="alignnone size-full wp-image-226" /></a>
+        <a href="/images/people/mira/photo_2015-07-04_12-44-47-e1435988742176.jpg"><img src="/images/people/mira/photo_2015-07-04_12-44-47-e1435988742176.jpg" alt="Mira Marsellia" width="600" height="397" class="alignnone size-full wp-image-226" /></a>
         Mira Marsellia, Blogger, Petani urban.
 
 tags:
@@ -13,7 +13,7 @@ permalink: /mira-marsellia/
 
 ---
 
-<a href="http://pakeapa.com/wp-content/uploads/2015/07/photo_2015-07-04_12-44-47-e1435988742176.jpg"><img src="http://pakeapa.com/wp-content/uploads/2015/07/photo_2015-07-04_12-44-47-e1435988742176.jpg" alt="Mira Marsellia" width="600" height="397" class="alignnone size-full wp-image-226" /></a>
+<a href="/images/people/mira/photo_2015-07-04_12-44-47-e1435988742176.jpg"><img src="/images/people/mira/photo_2015-07-04_12-44-47-e1435988742176.jpg" alt="Mira Marsellia" width="600" height="397" class="alignnone size-full wp-image-226" /></a>
 Mira Marsellia, Blogger, Petani urban.
 
 <!--more-->
@@ -42,4 +42,4 @@ Buku sketsa ukuran A4. Obeng dan pisau lipat serbaguna merk CAT. Powerbank, char
 </p>
 
 <h3>Smartphone homescreen</h3>
-<a href="http://pakeapa.com/wp-content/uploads/2015/07/hs-mira.jpg"><img src="http://pakeapa.com/wp-content/uploads/2015/07/hs-mira.jpg" alt="Homescreen Mira Marsellia " width="506" height="900" class="alignnone size-full wp-image-220" /></a>
+<a href="/images/people/mira/hs-mira.jpg"><img src="/images/people/mira/hs-mira.jpg" alt="Homescreen Mira Marsellia " width="506" height="900" class="alignnone size-full wp-image-220" /></a>

@@ -2,7 +2,7 @@
 layout: post
 title: Dondy Bappedyanto
 excerpt:
-        <a href="http://pakeapa.com/wp-content/uploads/2015/08/dondy-photo3.jpg"><img src="http://pakeapa.com/wp-content/uploads/2015/08/dondy-photo3.jpg" alt="Dondi Bappedyanto" width="768" height="576" class="alignnone size-full wp-image-289" /></a>
+        <a href="/images/people/dondy/dondy-photo3.jpg"><img src="/images/people/dondy/dondy-photo3.jpg" alt="Dondi Bappedyanto" width="768" height="576" class="alignnone size-full wp-image-289" /></a>
         <p>Dondy Bappedyanto, CEO <a href="http://infinyscloud.com/">Infinys System Indonesia</a>.
 
 tags:
@@ -13,7 +13,7 @@ permalink: /dondy-bappedyanto/
 
 ---
 
-<a href="http://pakeapa.com/wp-content/uploads/2015/08/dondy-photo3.jpg"><img src="http://pakeapa.com/wp-content/uploads/2015/08/dondy-photo3.jpg" alt="Dondi Bappedyanto" width="768" height="576" class="alignnone size-full wp-image-289" /></a>
+<a href="/images/people/dondy/dondy-photo3.jpg"><img src="/images/people/dondy/dondy-photo3.jpg" alt="Dondi Bappedyanto" width="768" height="576" class="alignnone size-full wp-image-289" /></a>
 
 <p>Dondy Bappedyanto, CEO <a href="http://infinyscloud.com/">Infinys System Indonesia</a>.
 <!--more-->
@@ -42,4 +42,4 @@ permalink: /dondy-bappedyanto/
 Laptop, tablet, ebook reader beserta chargernya, kabel USB, Apple Earphone, <a href="http://www.monsterproducts.com/collections/headphones">Monster Headphone</a>, Vivan Power Bank plus koin-koin sisa traveling selalu ada di bag pack <a href="http://www.victorinox.com/global/en">Victorinox</a> merah
 
 <h3>Smartphone homescreen</h3>
-<a href="http://pakeapa.com/wp-content/uploads/2015/08/homescreen.jpg"><img src="http://pakeapa.com/wp-content/uploads/2015/08/homescreen-576x1024.jpg" alt="homescreen" width="576" height="1024" class="alignnone size-large wp-image-290" /></a>
+<a href="/images/people/dondy/homescreen.jpg"><img src="/images/people/dondy/homescreen-576x1024.jpg" alt="homescreen" width="576" height="1024" class="alignnone size-large wp-image-290" /></a>

@@ -2,7 +2,7 @@
 layout: post
 title: Soegianto
 excerpt:
-        <a href="https://pakeapa.com/wp-content/uploads/2015/06/Photo-on-5-16-14-at-2.25-PM-2.jpg"><img src="https://pakeapa.com/wp-content/uploads/2015/06/Photo-on-5-16-14-at-2.25-PM-2.jpg" alt="Soegianto Cookpad Indonesia" width="600" height="400" class="alignnone size-full wp-image-180" /></a>
+        <a href="/images/people/soegianto/Photo-on-5-16-14-at-2.25-PM-2.jpg"><img src="/images/people/soegianto/Photo-on-5-16-14-at-2.25-PM-2.jpg" alt="Soegianto Cookpad Indonesia" width="600" height="400" class="alignnone size-full wp-image-180" /></a>
         Soegianto, CEO <a href="https://cookpad.com/id">Cookpad Indonesia</a>
 
 tags:
@@ -13,7 +13,7 @@ permalink: /soegianto/
 
 ---
 
-<a href="https://pakeapa.com/wp-content/uploads/2015/06/Photo-on-5-16-14-at-2.25-PM-2.jpg"><img src="https://pakeapa.com/wp-content/uploads/2015/06/Photo-on-5-16-14-at-2.25-PM-2.jpg" alt="Soegianto Cookpad Indonesia" width="600" height="400" class="alignnone size-full wp-image-180" /></a>
+<a href="/images/people/soegianto/Photo-on-5-16-14-at-2.25-PM-2.jpg"><img src="/images/people/soegianto/Photo-on-5-16-14-at-2.25-PM-2.jpg" alt="Soegianto Cookpad Indonesia" width="600" height="400" class="alignnone size-full wp-image-180" /></a>
 Soegianto, CEO Cookpad Indonesia
 
 <!--more-->
@@ -36,4 +36,4 @@ Kabel charger untuk Macbook, Nexus 5 dan Pebble Watch. Sebuah buku tulis untuk c
 
 <h3>Smartphone homescreen</h3>
 
-<a href="https://pakeapa.com/wp-content/uploads/2015/06/soegi-homescreen.jpg"><img src="https://pakeapa.com/wp-content/uploads/2015/06/soegi-homescreen-576x1024.jpg" alt="soegi-homescreen" width="576" height="1024" class="alignnone size-large wp-image-178" /></a>
+<a href="/images/people/soegianto/soegi-homescreen.jpg"><img src="/images/people/soegianto/soegi-homescreen-576x1024.jpg" alt="soegi-homescreen" width="576" height="1024" class="alignnone size-large wp-image-178" /></a>

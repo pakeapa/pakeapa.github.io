@@ -428,3 +428,11 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+
+@media (max-width: 980px) {
+  img{
+    width:90%;
+    height:70%;
+  }
+}

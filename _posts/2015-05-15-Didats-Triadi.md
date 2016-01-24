@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Didats Triadi
-excerpt: <a href="http://pakeapa.com/wp-content/uploads/2015/06/didats2.png"><img class="alignnone size-full wp-image-55" src="http://pakeapa.com/wp-content/uploads/2015/06/didats2.png" alt="didats triadi" width="600" height="359" /></a>
+excerpt: <a href="/images/people/didats/didats2.png"><img src="/images/people/didats/didats2.png" alt="didats triadi" width="600" height="359" /></a>
          <h3><small>Developer, Founder <a href="http://rimbunesia.com/">Rimbunesia</a></small></h3>
 tags:
 - interview
@@ -11,7 +11,7 @@ permalink: /didats-triadi/
 
 ---
 
-<a href="http://pakeapa.com/wp-content/uploads/2015/06/didats2.png"><img class="alignnone size-full wp-image-55" src="http://pakeapa.com/wp-content/uploads/2015/06/didats2.png" alt="didats triadi" width="600" height="359" /></a>
+<a href="/images/people/didats/didats2.png"><img src="/images/people/didats/didats2.png" alt="didats triadi" width="600" height="359" /></a>
 <h3><small>Developer, Founder <a href="http://rimbunesia.com/">Rimbunesia</a></small></h3>
 
 <!--more-->
@@ -27,6 +27,6 @@ Untuk iseng-isengnya, aplikasi <a href="https://twitter.com/didats">Twitter</a> 
 <h3>Apa isi tas anda</h3>
 Puplen 2 biji, kabel charger iPhone, charger Mac, Macbook dengan bungkusan dari skyscanner hasil hackaton 2014 kemarin di Jakarta, HDD Eksternal 1 TB untuk backup <a href="https://support.apple.com/en-us/HT201250">TimeMachine</a> dan iPad Mini. Gak ada yang lain.
 <h3>Smartphone homescreen</h3>
-<a href="http://pakeapa.com/wp-content/uploads/2015/06/photo_2015-06-15_20-11-05.jpg"><img src="http://pakeapa.com/wp-content/uploads/2015/06/photo_2015-06-15_20-11-05-575x1024.jpg" alt="didats iphone 6 homescreen" width="575" height="1024" class="alignnone size-large wp-image-47" /></a>
+<a href="/images/people/didats/photo_2015-06-15_20-11-05.jpg"><img src="/images/people/didats/photo_2015-06-15_20-11-05-575x1024.jpg" alt="didats iphone 6 homescreen" width="575" height="1024" class="alignnone size-large wp-image-47" /></a>
 
 <p>Di homescreen ada 3 aplikasi sendiri. <a href="https://itunes.apple.com/us/app/ibadah/id540869353?mt=8">Ibadah</a>, <a href="https://itunes.apple.com/id/app/prayer-log-log-your-rawatib/id953933637?mt=8">Prayer Log</a>, sama <a href="https://itunes.apple.com/id/app/quranesia-quran-terjemahan/id866235794?mt=8">Quranesia</a>. Yang lainnya adalah aplikasi <a href="https://itunes.apple.com/us/app/nike+-running/id387771637?mt=8">Nike+</a> sama <a href="https://itunes.apple.com/us/app/running-walking-endomondo/id333210180?mt=8">Endomodo</a> karena mulai suka lari-lari ga jelas.</p>

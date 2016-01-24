@@ -2,7 +2,7 @@
 layout: post
 title: Enda Nasution
 excerpt:
-        <a href="https://pakeapa.com/wp-content/uploads/2015/06/enda.jpeg"><img src="https://pakeapa.com/wp-content/uploads/2015/06/enda.jpeg" alt="enda nasution" width="600" height="400" class="alignnone size-full wp-image-151" /></a>
+        <a href="/images/people/enda/enda.jpeg"><img src="/images/people/enda/enda.jpeg" alt="enda nasution" width="600" height="400" class="alignnone size-full wp-image-151" /></a>
         Blogger, Founder &amp; co-CEO di <a href="https://sebangsa.com">Sebangsa</a>
 
 tags:
@@ -13,7 +13,7 @@ permalink: /enda-nasution/
 
 ---
 
-<a href="https://pakeapa.com/wp-content/uploads/2015/06/enda.jpeg"><img src="https://pakeapa.com/wp-content/uploads/2015/06/enda.jpeg" alt="enda nasution" width="600" height="400" class="alignnone size-full wp-image-151" /></a>
+<a href="/images/people/enda/enda.jpeg"><img src="/images/people/enda/enda.jpeg" alt="enda nasution" width="600" height="400" class="alignnone size-full wp-image-151" /></a>
 Blogger, Founder &amp; co-CEO di <a href="https://sebangsa.com">Sebangsa</a>
 
 <!--more-->
@@ -38,4 +38,4 @@ Tas kecil khusus kabel2 dan perangkat charger lainnya, notebook fisik berisikan 
 
 <h3>Smartphone homescreen</h3>
 
-<a href="https://pakeapa.com/wp-content/uploads/2015/06/At74LLlARJe8rbcovRcvcvT-cdmhyvocGTFDEK2yi1DK.jpg"><img src="https://pakeapa.com/wp-content/uploads/2015/06/At74LLlARJe8rbcovRcvcvT-cdmhyvocGTFDEK2yi1DK.jpg" alt="enda nasution homescreen" width="640" height="960" class="alignnone size-full wp-image-149" /></a>
+<a href="/images/people/enda/At74LLlARJe8rbcovRcvcvT-cdmhyvocGTFDEK2yi1DK.jpg"><img src="/images/people/enda/At74LLlARJe8rbcovRcvcvT-cdmhyvocGTFDEK2yi1DK.jpg" alt="enda nasution homescreen" width="640" height="960" class="alignnone size-full wp-image-149" /></a>
