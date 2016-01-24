@@ -8,7 +8,7 @@ excerpt:
 tags:
 - mac
 - entrepreneur
-
+category: interview
 permalink: /dondy-bappedyanto/
 
 ---

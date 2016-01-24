@@ -10,7 +10,7 @@ tags:
 - developer
 - web
 - interview
-
+category: interview
 permalink: /didik-wicaksono/
 
 ---

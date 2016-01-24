@@ -8,7 +8,7 @@ excerpt:
 tags:
 - coffee
 - mac
-
+category: interview
 permalink: /john-chendra/
 
 ---

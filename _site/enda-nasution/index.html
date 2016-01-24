@@ -1,11 +1,16 @@
 <!DOCTYPE html>
 <html lang="en-us">
-
   <head>
   <link href="http://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="description" content="Pakeapa.com, interview dengan professional, daily people di indonesia tentang apa yang mereka kerjakan dan lakukan, peralatan apa yang dibawa buat membantu pekerjaan dan getting things done.">
+  
+  <meta charset="utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#f4f5f6">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#f4f5f6">
+  <meta name="apple-mobile-web-app-capable" content="yes">
 
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
@@ -23,37 +28,53 @@
   <meta name="twitter:site" content="@PakeApaID" />
   <meta name="twitter:title" content="pakeapa?" />
   <meta name="twitter:description" content="Pakeapa.com, interview dengan professional, daily people di indonesia tentang apa yang mereka kerjakan dan lakukan, peralatan apa yang dibawa buat membantu pekerjaan dan getting things done." />
-  <meta name="twitter:image" content="https://pakeapa.com/wp-content/uploads/2015/06/logo-pakeapa1.png" />
+  <meta name="twitter:image" content="http://pakeapa.com/images/sites/logo-pakeapa.png" />
+  
+  <!-- facebook -->
+  <meta property="og:description" content="Pakeapa.com, interview dengan professional, daily people di indonesia tentang apa yang mereka kerjakan dan lakukan, peralatan apa yang dibawa buat membantu pekerjaan dan getting things done.">
+  <meta property="og:image" content="http://pakeapa.com/images/sites/logo-pakeapa.png">
+  <meta property="og:locale" content="id">
+  <meta property="og:site_name" content="Pakeapa.com | interview dengan professional.">
+  <meta property="og:title" content="Pakeapa? | setup/tips/interview">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="http://pakeapa.com/">
+  <meta property="article:section" content="website">
 
   <!-- CSS -->
-  <link rel="stylesheet" href="/public/css/poole.css">
+  <!-- <link rel="stylesheet" href="/public/css/poole.css">
   <link rel="stylesheet" href="/public/css/syntax.css">
   <link rel="stylesheet" href="/public/css/lanyon.css">
-  <link rel="stylesheet" href="/public/css/codinfox.css">
+  <link rel="stylesheet" href="/public/css/codinfox.css"> -->
+  <link rel="stylesheet" href="/public/css/milligram.min.css">
+  <link rel="stylesheet" href="/public/css/style.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+  <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.css">
 
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
   <!-- <link rel="shortcut icon" href="/public/favicon.ico"> -->
   <link rel="shortcut icon" href="/images/sites/logo-pakeapa-e1434457392280.png"/>
+  
+  <link rel="canonical" href="http://pakeapa.com/">
+  <link rel="image_src" href="http://pakeapa.com/images/sites/logo-pakeapa.png">
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
   <script type="text/x-mathjax-config">
-
- MathJax.Hub.Config({
-     jax: ["input/TeX","output/SVG"],
-     extensions: ["tex2jax.js","mml2jax.js","MathMenu.js","MathZoom.js"],
-     TeX: {
-         extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"]
-     },
-     tex2jax: {
-         inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-         processEscapes: true
-     }
- });
-
- </script>
+   MathJax.Hub.Config({
+       jax: ["input/TeX","output/SVG"],
+       extensions: ["tex2jax.js","mml2jax.js","MathMenu.js","MathZoom.js"],
+       TeX: {
+           extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"]
+       },
+       tex2jax: {
+           inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+           processEscapes: true
+       }
+   });
+   </script>
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
 <script>
@@ -69,117 +90,29 @@
 </script>
 </head>
 
+  <body>
+    <main class="wrapper">
 
-  <body class="theme-base-0d layout-reverse">
+      <nav class="navigation">
+        <section class="container">
+          <a class="navigation-title float-left" href="http://pakeapa.com/">
+            <h1 >Pakeapa | <small>Setup/Tips/Interview</small> </h1>
+          </a>
+          <ul class="navigation-list float-right">
+            <li class="navigation-item">
+              <a class="navigation-link" href="/about/">About</a>
+            </li>
+            <li class="navigation-item">
+              <a class="navigation-link" href="/archive/">Archives</a>
+            </li>
+          </ul>
+        </section>
+      </nav>
 
-    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
-     styles, `#sidebar-checkbox` for behavior. -->
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
-
-<!-- Toggleable sidebar -->
-<div class="sidebar" id="sidebar">
-  <div class="sidebar-item">
-    <!-- <a href="" title="View on Gravatar" class="codinfox-profile-photo"> -->
-      <img src="images/sites/logo-pakeapa.png" alt="Gravatar"/>
-    <!-- </a> -->
-    <p></p>
-  </div>
-
-  <nav class="sidebar-nav">
-    <a class="sidebar-nav-item" href="/">Home</a>
-    <a class="sidebar-nav-item" href="/blog">Blog</a>
-
-    
-
-    
-    
-      
-        
-      
-    
-      
-        
-      
-    
-      
-        
-          <a class="sidebar-nav-item" href="/about/">Tentang Pakeapa</a>
-        
-      
-    
-      
-        
-          <a class="sidebar-nav-item" href="/archive/">Archive</a>
-        
-      
-    
-      
-    
-      
-        
-      
-    
-      
-        
-      
-    
-      
-        
-      
-    
-      
-        
-      
-    
-      
-        
-      
-    
-      
-        
-      
-    
-  </nav>
-
-  <div class="sidebar-item">
-    <p>
-    </p>
-  </div>
-  <div class="sidebar-item">
-    <p>
-      Powered by <a href="http://jekyllrb.com">jekyll</a> and <a href="http://lanyon.getpoole.com">lanyon</a>.
-    </p>
-  </div>
-</div>
-
-
-    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
-         content to avoid any CSS collisions with our real content. -->
-    <div class="wrap">
-      <div class="masthead">
-        <div class="container">
-          <h3 class="masthead-title">
-            <a href="/" title="Home">
-              pakeapa
-            </a>
-            <small>Setup / Tips / interview</small>
-          </h3>
-        </div>
-        <!-- <div class="codinfox-masthead-bg"></div> -->
-      </div>
-
-      <div class="container content">
+      <section class="container" id="post-content">
         <div class="post">
   <h1 class="post-title">Enda Nasution</h1>
-  <span>
-    <span class="post-date" style="display:inline-block;">23 Jun 2015</span> |
-    
-      <span class="codinfox-tag-mark">entrepreneur</span>
-    
-      <span class="codinfox-tag-mark">windows</span>
-    
-  </span>
-
+  <span class="post-date" style="display:inline-block;">23 Jun 2015</span>
   <p><a href="/images/people/enda/enda.jpeg"><img src="/images/people/enda/enda.jpeg" alt="enda nasution" width="600" height="400" class="alignnone size-full wp-image-151" /></a>
 Blogger, Founder &amp; co-CEO di <a href="https://sebangsa.com">Sebangsa</a></p>
 
@@ -206,6 +139,13 @@ Blogger, Founder &amp; co-CEO di <a href="https://sebangsa.com">Sebangsa</a></p>
 <h3>Smartphone homescreen</h3>
 
 <p><a href="/images/people/enda/At74LLlARJe8rbcovRcvcvT-cdmhyvocGTFDEK2yi1DK.jpg"><img src="/images/people/enda/At74LLlARJe8rbcovRcvcvT-cdmhyvocGTFDEK2yi1DK.jpg" alt="enda nasution homescreen" width="640" height="960" class="alignnone size-full wp-image-149" /></a></p>
+
+
+  
+    <a class="button" href="/tag/#entrepreneur" title="View posts tagged with &quot;entrepreneur&quot;">entrepreneur</a>
+  
+    <a class="button" href="/tag/#windows" title="View posts tagged with &quot;windows&quot;">windows</a>
+  
 
 </div>
 
@@ -245,42 +185,18 @@ Blogger, Founder &amp; co-CEO di <a href="https://sebangsa.com">Sebangsa</a></p>
 
 
 
-      </div>
-    </div>
+      </section>
 
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-<!-- Disqus Embeded -->
-    <script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var disqus_shortname = 'yourname'; // required: replace example with your forum shortname
+      <footer class="footer">
+        <section class="container">
+          <p>pakeapa.com | dedenf</p>
+        </section>
+      </footer>
 
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function () {
-        var s = document.createElement('script'); s.async = true;
-        s.type = 'text/javascript';
-        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-    }());
-    </script>
+    </main>
 
-    <script>
-      (function(document) {
-        var toggle = document.querySelector('.sidebar-toggle');
-        var sidebar = document.querySelector('#sidebar');
-        var checkbox = document.querySelector('#sidebar-checkbox');
-
-        document.addEventListener('click', function(e) {
-          var target = e.target;
-
-          if(!checkbox.checked ||
-             sidebar.contains(target) ||
-             (target === checkbox || target === toggle)) return;
-
-          checkbox.checked = false;
-        }, false);
-      })(document);
-    </script>
-
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/prettify/r298/run_prettify.js"></script>
+    <script src="http://milligram.github.io/js/script.js"></script>
   </body>
 </html>

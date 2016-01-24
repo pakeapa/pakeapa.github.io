@@ -8,7 +8,7 @@ tags:
 - interview
 - mac
 - film maker
-
+category: interview
 permalink: /mandy-marahimin/
 
 ---

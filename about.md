@@ -26,3 +26,7 @@ berisi informasi apa saja yang dibawa ketika commuting atau yang biasa dibawa se
 #### Smartphone homescreen
 berisi gambar screenshot dan informasi homescreen smartphone, karena biasanya ini berisi aplikasi yang sering digunakan.
 </article>
+
+
+##### ACK
+<p>Designed using <a target="blank" href="https://github.com/milligram/milligram" title="CJ Patoilo">miligram</a>

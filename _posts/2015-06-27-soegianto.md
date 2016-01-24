@@ -8,7 +8,7 @@ excerpt:
 tags:
 - entrepreneur
 - mac
-
+category: interview
 permalink: /soegianto/
 
 ---

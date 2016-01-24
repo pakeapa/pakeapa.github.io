@@ -9,7 +9,7 @@ tags:
 - startup
 - pc
 - entrepreneur
-
+category: interview
 permalink: /razi-thalib/
 
 ---

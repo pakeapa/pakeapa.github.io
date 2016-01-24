@@ -9,7 +9,7 @@ tags:
 - entrepreneur
 - mac
 - web
-
+category: interview
 permalink: /acong-de-conte/
 
 ---

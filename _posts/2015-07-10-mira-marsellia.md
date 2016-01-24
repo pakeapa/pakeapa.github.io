@@ -8,7 +8,7 @@ excerpt:
 tags:
 - blogger
 - mac
-
+category: interview
 permalink: /mira-marsellia/
 
 ---

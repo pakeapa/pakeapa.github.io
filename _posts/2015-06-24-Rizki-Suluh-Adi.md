@@ -8,7 +8,7 @@ excerpt:
 tags:
 - desainer
 - mac
-
+category: interview
 permalink: /rizki-suluh-adi/
 
 ---

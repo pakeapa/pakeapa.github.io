@@ -4,14 +4,13 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span>
-    <span class="post-date" style="display:inline-block;">{{ page.date | date_to_string }}</span> |
-    {% for tag in page.tags %}
-      <span class="codinfox-tag-mark">{{ tag }}</span>
-    {% endfor %}
-  </span>
-
+  <span class="post-date" style="display:inline-block;">{{ page.date | date_to_string }}</span>
   {{ content }}
+
+  {% for tag in page.tags %}
+    <a class="button" href="/tag/#{{ tag | cgi_escape }}" title="View posts tagged with &quot;{{ tag }}&quot;">{{ tag }}</a>
+  {% endfor %}
+
 </div>
 
 <div class="related">

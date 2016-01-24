@@ -9,7 +9,7 @@ tags:
 - developer
 - hardware
 - mac
-
+category: interview
 permalink: /aulia-amalia/
 
 ---

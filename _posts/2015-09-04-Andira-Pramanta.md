@@ -9,7 +9,7 @@ tags:
 - entrepreneur
 - desainer
 - film maker
-
+category: interview
 permalink: /andira-pramanta/
 ---
 
