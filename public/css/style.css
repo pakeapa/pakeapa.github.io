@@ -697,10 +697,11 @@ img {
     width:90%;
     height:70%;
   }
-}	
+}
 
 .page ul li{list-style: none;list-style-type: '-'; padding-left:10px;}
 
 
 /*type face*/
 h5{font-size: 2rem;}
+.tags {text-decoration: underline;font-size: 1.2em;}

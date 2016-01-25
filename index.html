@@ -30,8 +30,8 @@ title: Home
     {% assign taglist = post.tags | sort %}
     {% for tag in taglist | order: descending %}
     <small>
-      <a class="button" href="/tag/#{{ tag | cgi_escape }}" title="View posts tagged with &quot;{{ tag }}&quot;">{{ tag }}</a>
-      {% if forloop.last != true %}, {% endif %}
+      <a class="tags" href="/tag/#{{ tag | cgi_escape }}" title="View posts tagged with &quot;{{ tag }}&quot;">{{ tag }}</a>
+      {% if forloop.last != true %} / {% endif %}
     </small>
     {% endfor %}
   </div>
