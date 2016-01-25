@@ -271,7 +271,11 @@ img {
 	position: relative;
 	text-decoration: none;
 }
-.navigation-title h1{font-size:2rem;}
+.navigation-title h1{font-size:2rem;text-transform: uppercase;}
+@media (min-width: 980px) {
+	.navigation-title .title{font-size:2.5rem;}
+}
+
 
 .navigation-link {
 	display: inline;
