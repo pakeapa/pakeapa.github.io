@@ -29,4 +29,7 @@ berisi gambar screenshot dan informasi homescreen smartphone, karena biasanya in
 
 
 ##### ACK
-<p>Designed using <a target="blank" href="https://github.com/milligram/milligram" title="CJ Patoilo">miligram</a>
+Designed using <a target="blank" href="https://github.com/milligram/milligram" title="CJ Patoilo">miligram</a>
+<br>
+blog ini terinspirasi oleh [The Setup](http://usesthis.com/)
+
