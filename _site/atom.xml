@@ -4,7 +4,7 @@
  <title>Pakeapa</title>
  <link href="http://pakeapa.com/atom.xml" rel="self"/>
  <link href="http://pakeapa.com/"/>
- <updated>2016-01-25T23:21:04+07:00</updated>
+ <updated>2016-01-26T12:49:55+07:00</updated>
  <id>http://pakeapa.com</id>
  <author>
    <name></name>
@@ -17,8 +17,7 @@
    <link href="http://pakeapa.com/putra-setia-utama/"/>
    <updated>2015-11-03T00:00:00+07:00</updated>
    <id>http://pakeapa.com/putra-setia-utama</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/putra/putra2.png&quot;&gt;&lt;img src=&quot;/images/people/putra/putra2.png&quot; alt=&quot;Putra Setia Utama&quot; /&gt;&lt;/a&gt;
-&amp;lt;!--more--&amp;gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/putra/putra2.png&quot; alt=&quot;Putra Setia Utama&quot; /&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
 
@@ -30,7 +29,7 @@
 
 &lt;p&gt;Smartphone pakai iPhone 5. Selain dibuat kerja smartphone ini sering banget dipake main games&lt;/p&gt;
 
-&lt;p&gt;Hardware lainnya yang berguna banget itu BUKU yang ada kotak kotaknya ukuran 5mm. Sekarang lagi pake buku keluaran maruman (http://www.e-maruman.co.jp/english/products/notebook/mnysn/). Buku ini kepake banget untuk nuangin konsep atau cari wangsit :D
+&lt;p&gt;Hardware lainnya yang berguna banget itu BUKU yang ada kotak kotaknya ukuran 5mm. Sekarang lagi pake buku keluaran &lt;a href=&quot;http://www.e-maruman.co.jp/english/products/notebook/mnysn/&quot;&gt;maruman&lt;/a&gt;. Buku ini kepake banget untuk nuangin konsep atau cari wangsit :D
 &lt;br&gt;
 Dan yang gak boleh ketinggalan adalah pulpen 4 warna dari Bic. Pulpen ini mempermudah untuk nuangin ide lebih rapih dan terbaca dikemudian hari.
 &lt;/p&gt;
@@ -55,8 +54,6 @@ Dan yang gak boleh ketinggalan adalah pulpen 4 warna dari Bic. Pulpen ini memper
    <updated>2015-09-04T00:00:00+07:00</updated>
    <id>http://pakeapa.com/Andira-Pramanta</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/andira/IMG_2835.jpg&quot;&gt;&lt;img src=&quot;/images/people/andira/IMG_2835.jpg&quot; alt=&quot;Andira Pramanta&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;!--more--&gt;
 
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
 
@@ -88,9 +85,7 @@ Dan yang gak boleh ketinggalan adalah pulpen 4 warna dari Bic. Pulpen ini memper
    <link href="http://pakeapa.com/dondy-bappedyanto/"/>
    <updated>2015-08-31T00:00:00+07:00</updated>
    <id>http://pakeapa.com/Dondy-Bappedyanto</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/dondy/dondy-photo3.jpg&quot;&gt;&lt;img src=&quot;/images/people/dondy/dondy-photo3.jpg&quot; alt=&quot;Dondi Bappedyanto&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;!--more--&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/dondy/dondy-photo3.jpg&quot; alt=&quot;Dondi Bappedyanto&quot; /&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
 
@@ -129,9 +124,7 @@ Dan yang gak boleh ketinggalan adalah pulpen 4 warna dari Bic. Pulpen ini memper
    <link href="http://pakeapa.com/aulia-amalia/"/>
    <updated>2015-08-25T00:00:00+07:00</updated>
    <id>http://pakeapa.com/aulia-amalia</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/aulia/image1.jpg&quot;&gt;&lt;img src=&quot;/images/people/aulia/aamalia.jpg&quot; alt=&quot;Aulia Amalia&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;!--more--&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/aulia/aamalia.jpg&quot; alt=&quot;Aulia Amalia&quot;/&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
 
@@ -182,7 +175,7 @@ Tas sih suka ganti-ganti sesuai sama lagi pake baju apa. Tapi udah seminggu ini 
 
 &lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/people/aulia/aamalia.png&quot;&gt;&lt;img src=&quot;/images/people/aulia/aamalia.png&quot; alt=&quot;aulia amalia&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/people/aulia/aamalia.png&quot; alt=&quot;aulia amalia&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -192,8 +185,6 @@ Tas sih suka ganti-ganti sesuai sama lagi pake baju apa. Tapi udah seminggu ini 
    <updated>2015-07-12T00:00:00+07:00</updated>
    <id>http://pakeapa.com/razi-thalib</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/razi/Razi-Setipe-Kantor-1024x683.jpg&quot;&gt;&lt;img src=&quot;/images/people/razi/Razi-Setipe-Kantor-e1440167036154.jpg&quot; alt=&quot;Razi Thalib, setipe.com&quot;  /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;!--more--&gt;
 
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
 
@@ -228,8 +219,7 @@ Saya sekarang pakai tas sling bag dari &lt;a href=&quot;http://bro.do/en/&quot;&
    <link href="http://pakeapa.com/mira-marsellia/"/>
    <updated>2015-07-10T00:00:00+07:00</updated>
    <id>http://pakeapa.com/mira-marsellia</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/mira/photo_2015-07-04_12-44-47-e1435988742176.jpg&quot;&gt;&lt;img src=&quot;/images/people/mira/photo_2015-07-04_12-44-47-e1435988742176.jpg&quot; alt=&quot;Mira Marsellia&quot;  /&gt;&lt;/a&gt;
-&amp;lt;!--more--&amp;gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/mira/photo_2015-07-04_12-44-47-e1435988742176.jpg&quot; alt=&quot;Mira Marsellia&quot;  /&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
 
@@ -271,8 +261,6 @@ Buku sketsa ukuran A4. Obeng dan pisau lipat serbaguna merk CAT. Powerbank, char
    <id>http://pakeapa.com/Acong-De-Conte</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/acong/1800246_1443806555921488_5940057397846639244_n.jpg&quot;&gt;&lt;img src=&quot;/images/people/acong/1800246_1443806555921488_5940057397846639244_n.jpg&quot; alt=&quot;Acong De conte&quot; width=&quot;600&quot; height=&quot;400&quot; class=&quot;alignnone size-full wp-image-211&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;!--more--&gt;
-
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
 
 &lt;p&gt;
@@ -303,8 +291,7 @@ sekarang lagi iseng-iseng pakai Plex.tv dan juga mainan seedbox untuk torrent da
    <link href="http://pakeapa.com/john-chendra/"/>
    <updated>2015-07-02T00:00:00+07:00</updated>
    <id>http://pakeapa.com/John-Chendra</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/jchendra/john.jpg&quot;&gt;&lt;img src=&quot;/images/people/jchendra/john.jpg&quot; alt=&quot;john chendra&quot; width=&quot;479&quot; height=&quot;425&quot; class=&quot;alignnone size-full wp-image-208&quot; /&gt;&lt;/a&gt;
-&amp;lt;!--more--&amp;gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/jchendra/john.jpg&quot;&gt;&lt;img src=&quot;/images/people/jchendra/john.jpg&quot; alt=&quot;john chendra&quot; width=&quot;479&quot; height=&quot;425&quot; class=&quot;alignnone size-full wp-image-208&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
 
@@ -313,7 +300,9 @@ sekarang lagi iseng-iseng pakai Plex.tv dan juga mainan seedbox untuk torrent da
 &lt;h3&gt;Hardware yang anda gunakan&lt;/h3&gt;
 
 &lt;p&gt;
-Hardware non TI yang saya pakai hampir setiap hari adalah mesin-mesin kopi. Mesin espresso &lt;a href=&quot;http://nuovasimonelliusa.com/appia.html&quot;&gt;Nuova Simonelli Appia II&lt;/a&gt;, &lt;a href=&quot;http://www.eureka.co.it/prodotto/zenith-club/?lang=en&quot;&gt;grinder Eureka Zenith Club&lt;/a&gt; dan &lt;a href=&quot;http://www.baratza.com/conical-burr-grinders/preciso-grinder/&quot;&gt;Baratza Preciso&lt;/a&gt;, dilengkapi timbangan digital &lt;a href=&quot;http://acaia.co/products/acaia-pearl&quot;&gt;Acaia Pearl&lt;/a&gt; putih ada di sisi meja yang satu. Di sisi yang lain ada &lt;a href=&quot;http://bonavitaworld.com/products/10l-digital-variable-temperature-gooseneck-kettle&quot;&gt;kettle Bonavita variable temperature&lt;/a&gt;, dan &lt;a href=&quot;http://www.hario.jp/pickup01.html&quot;&gt;Hario Buono&lt;/a&gt; yang saya pakai untuk menuang air ke &lt;a href=&quot;http://www.hario.jp/coffee/dripper.html&quot;&gt;Hario V60&lt;/a&gt;, &lt;a href=&quot;http://www.hario.jp/coffee/syphon.html&quot;&gt;Hario Syphon&lt;/a&gt; TCA-3 Technica, &lt;a href=&quot;http://www.chemexcoffeemaker.com/&quot;&gt;Chemex&lt;/a&gt; 3 cups, atau vietnam dripper yang kecil-kecil itu. Kadang saya juga menyeduh dengan &lt;a href=&quot;http://aerobie.com/products/aeropress.htm&quot;&gt;Aerobie Aeropress&lt;/a&gt;, French Press atau Phoenix70, sebuah alat seduh baru keluaran &lt;a href=&quot;https://www.saintanthonyindustries.com/&quot;&gt;St. Anthony Industries&lt;/a&gt; dari Amerika sana. Untuk keperluan seduh manual saya menggunakan timbangan digital Acaia Pearl hitam dan/atau timbangan Tiamo. Jika disebutkan, peralatan yang lain akan menjadi terlalu banyak, separuh isi dapur akan saya ceritakan di sini :) Mesin besar lain yang saya gunakan adalah mesin sangrai kopi buatan Taiwan, Feima, atau di Indonesia diberi label Latina 801N yang sejak 2012 sudah membantu saya mengubah warna biji-biji kopi agar lebih mudah dinikmati manusia ;)
+Hardware non TI yang saya pakai hampir setiap hari adalah mesin-mesin kopi. Mesin espresso &lt;a href=&quot;http://nuovasimonelliusa.com/appia.html&quot;&gt;Nuova Simonelli Appia II&lt;/a&gt;, &lt;a href=&quot;http://www.eureka.co.it/prodotto/zenith-club/?lang=en&quot;&gt;grinder Eureka Zenith Club&lt;/a&gt; dan &lt;a href=&quot;http://www.baratza.com/conical-burr-grinders/preciso-grinder/&quot;&gt;Baratza Preciso&lt;/a&gt;, dilengkapi timbangan digital &lt;a href=&quot;http://acaia.co/products/acaia-pearl&quot;&gt;Acaia Pearl&lt;/a&gt; putih ada di sisi meja yang satu.&lt;/p&gt;
+&lt;p&gt;Di sisi yang lain ada &lt;a href=&quot;http://bonavitaworld.com/products/10l-digital-variable-temperature-gooseneck-kettle&quot;&gt;kettle Bonavita variable temperature&lt;/a&gt;, dan &lt;a href=&quot;http://www.hario.jp/pickup01.html&quot;&gt;Hario Buono&lt;/a&gt; yang saya pakai untuk menuang air ke &lt;a href=&quot;http://www.hario.jp/coffee/dripper.html&quot;&gt;Hario V60&lt;/a&gt;, &lt;a href=&quot;http://www.hario.jp/coffee/syphon.html&quot;&gt;Hario Syphon&lt;/a&gt; TCA-3 Technica, &lt;a href=&quot;http://www.chemexcoffeemaker.com/&quot;&gt;Chemex&lt;/a&gt; 3 cups, atau vietnam dripper yang kecil-kecil itu. Kadang saya juga menyeduh dengan &lt;a href=&quot;http://aerobie.com/products/aeropress.htm&quot;&gt;Aerobie Aeropress&lt;/a&gt;, French Press atau Phoenix70, sebuah alat seduh baru keluaran &lt;a href=&quot;https://www.saintanthonyindustries.com/&quot;&gt;St. Anthony Industries&lt;/a&gt; dari Amerika sana. Untuk keperluan seduh manual saya menggunakan timbangan digital Acaia Pearl hitam dan/atau timbangan Tiamo.&lt;/p&gt;
+&lt;p&gt;Jika disebutkan, peralatan yang lain akan menjadi terlalu banyak, separuh isi dapur akan saya ceritakan di sini :) Mesin besar lain yang saya gunakan adalah mesin sangrai kopi buatan Taiwan, Feima, atau di Indonesia diberi label Latina 801N yang sejak 2012 sudah membantu saya mengubah warna biji-biji kopi agar lebih mudah dinikmati manusia ;)
 
 Itu saja cukuplah, rasanya tak perlu saya ceritakan juga mengenai vacuum cleaner atau jug rinser kesukaan saya...
 &lt;/p&gt;
@@ -321,13 +310,16 @@ Itu saja cukuplah, rasanya tak perlu saya ceritakan juga mengenai vacuum cleaner
 &lt;h3&gt;Software yang anda gunakan&lt;/h3&gt;
 
 &lt;p&gt;
-Setiap hari menggunakan komputer karangan sendiri (rakitan), baik di toko, kantor maupun kamar tidur. Saat ini sedang belajar pakai &lt;a href=&quot;https://www.apple.com/sg/macbook-air/&quot;&gt;Macbook Air&lt;/a&gt; yang harapannya bisa menggantikan laptop acer tua yang sudah mulai bermasalah (baca: lemot). Untuk yang digenggam-genggam saya pakai iPhone 4S dan Samsung &lt;a href=&quot;https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_3&quot;&gt;Galaxy Note 3&lt;/a&gt;. Kebanyakan sih alat-alat ini dipakai untuk akses gmail, google chrome, bbm, whatsapp, telegram, instagram, dan candy crush soda saga. Itu saja selain menelepon, tentunya. Oh iya, kadang kalo lagi mau pamer atau iseng saya pakai &lt;a href=&quot;http://acaia.co/pages/apps&quot;&gt;Acaia app&lt;/a&gt; untuk menimbang kopi. Ada satu Software yang sering saya pakai tanpa sadar, yaitu Dropbox. Praktis hampir semua file yang saya gunakan tiap hari ada di sana. Berhubung saya menggunakan beberapa komputer untuk bekerja, keberadaan Dropbox menjadi kritis agar saya terus bekerja dengan file yang terkini setelah disunting di komputer lainnya. Software lain yang paling sering saya pakai adalah Microsoft Office (Excel dan publisher khususnya), xplorer2, notepad++, vlc media player, dan iTunes :)
+Setiap hari menggunakan komputer karangan sendiri (rakitan), baik di toko, kantor maupun kamar tidur. Saat ini sedang belajar pakai &lt;a href=&quot;https://www.apple.com/sg/macbook-air/&quot;&gt;Macbook Air&lt;/a&gt; yang harapannya bisa menggantikan laptop acer tua yang sudah mulai bermasalah (baca: lemot).&lt;/p&gt;
+&lt;p&gt;Untuk yang digenggam-genggam saya pakai iPhone 4S dan Samsung &lt;a href=&quot;https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_3&quot;&gt;Galaxy Note 3&lt;/a&gt;. Kebanyakan sih alat-alat ini dipakai untuk akses gmail, google chrome, bbm, whatsapp, telegram, instagram, dan candy crush soda saga. Itu saja selain menelepon, tentunya. Oh iya, kadang kalo lagi mau pamer atau iseng saya pakai &lt;a href=&quot;http://acaia.co/pages/apps&quot;&gt;Acaia app&lt;/a&gt; untuk menimbang kopi. Ada satu Software yang sering saya pakai tanpa sadar, yaitu Dropbox. Praktis hampir semua file yang saya gunakan tiap hari ada di sana. Berhubung saya menggunakan beberapa komputer untuk bekerja, keberadaan Dropbox menjadi kritis agar saya terus bekerja dengan file yang terkini setelah disunting di komputer lainnya.&lt;/p&gt;
+&lt;p&gt;Software lain yang paling sering saya pakai adalah Microsoft Office (Excel dan publisher khususnya), xplorer2, notepad++, vlc media player, dan iTunes :)
 &lt;/p&gt;
 
 &lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
 
 &lt;p&gt;
-Tas saya sering berganti-ganti, tapi akhir-akhir ini saya setia dengan Tas sport Nike hitam model messenger, entah tipe apa dan dibeli kapan :) Di dalamnya ada dompet besar yang hampir tak ada uangnya dan terlalu banyak kartunya, banyak Sharpie, sekotak berisi pin/key untuk internet banking dari beberapa bank berbeda, sekotak obat berisi multivitamin dan suplemen lain, charger dan power bank untuk handphone beserta kabel-kabelnya, ada juga beberapa earphone dalam pouch kecil, dan tentunya macbook air dan chargernya yang belakangan ini selalu saya masukkan dalam tas ini. Oh iya, ada satu barang lagi dalam tas saya, sendok cupping berlapis perak yang tersimpan rapi dalam pouch biru, senjata andalan tukang kopi seperti saya :)
+Tas saya sering berganti-ganti, tapi akhir-akhir ini saya setia dengan Tas sport Nike hitam model messenger, entah tipe apa dan dibeli kapan :) Di dalamnya ada dompet besar yang hampir tak ada uangnya dan terlalu banyak kartunya, banyak Sharpie, sekotak berisi pin/key untuk internet banking dari beberapa bank berbeda, sekotak obat berisi multivitamin dan suplemen lain, charger dan power bank untuk handphone beserta kabel-kabelnya, ada juga beberapa earphone dalam pouch kecil, dan tentunya macbook air dan chargernya yang belakangan ini selalu saya masukkan dalam tas ini.&lt;/p&gt;
+&lt;p&gt;Oh iya, ada satu barang lagi dalam tas saya, sendok cupping berlapis perak yang tersimpan rapi dalam pouch biru, senjata andalan tukang kopi seperti saya :)
 Selain tas selempang ini ada satu &quot;tas pinggang&quot; yang selalu melekat di sisi saya, berisi handphone, dan dompet metal berisi kartu-kartu penting yang paling sering saya pakai.
 &lt;/p&gt;
 
@@ -343,8 +335,6 @@ Selain tas selempang ini ada satu &quot;tas pinggang&quot; yang selalu melekat d
    <updated>2015-06-27T00:00:00+07:00</updated>
    <id>http://pakeapa.com/soegianto</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/soegianto/Photo-on-5-16-14-at-2.25-PM-2.jpg&quot;&gt;&lt;img src=&quot;/images/people/soegianto/Photo-on-5-16-14-at-2.25-PM-2.jpg&quot; alt=&quot;Soegianto Cookpad Indonesia&quot; width=&quot;600&quot; height=&quot;400&quot; class=&quot;alignnone size-full wp-image-180&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;!--more--&gt;
 
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
 
@@ -374,8 +364,6 @@ Selain tas selempang ini ada satu &quot;tas pinggang&quot; yang selalu melekat d
    <updated>2015-06-26T00:00:00+07:00</updated>
    <id>http://pakeapa.com/dian-ina</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/dianina/dian_ina_guggenheim.jpg&quot;&gt;&lt;img src=&quot;/images/people/dianina/dian_ina_guggenheim.jpg&quot; alt=&quot;Dian Ina&quot; width=&quot;600&quot; height=&quot;450&quot; class=&quot;alignnone size-full wp-image-173&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;!--more--&gt;
 
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
 
@@ -408,8 +396,6 @@ Dompet kulit berbentuk babi warna burgundy untuk menyimpan charger iPhone, Dompe
    <updated>2015-06-24T00:00:00+07:00</updated>
    <id>http://pakeapa.com/Rizki-Suluh-Adi</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/rizki/rizki.jpg&quot;&gt;&lt;img src=&quot;/images/people/rizki/rizki.jpg&quot; alt=&quot;rizki suluh adi&quot; width=&quot;600&quot; height=&quot;424&quot; class=&quot;alignnone size-full wp-image-163&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;!--more--&gt;
 
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
 
@@ -451,8 +437,6 @@ eh ada xiaomi redmi 1s nih dalam tas, isinya cuma emulator &lt;a href=&quot;http
    <id>http://pakeapa.com/Enda-Nasution</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/enda/enda.jpeg&quot;&gt;&lt;img src=&quot;/images/people/enda/enda.jpeg&quot; alt=&quot;enda nasution&quot; width=&quot;600&quot; height=&quot;400&quot; class=&quot;alignnone size-full wp-image-151&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;!--more--&gt;
-
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/enda&quot;&gt;Enda Nasution&lt;/a&gt;, Resminya Founder &amp;amp; Co-CEO di &lt;a href=&quot;https://sebangsa.com/&quot;&gt;Sebangsa&lt;/a&gt;, sehari-hari mengikuti mulai dari development-nya Sebangsa, konsep, product development hingga ke marketing, komunikasi-nya.&lt;/p&gt;
@@ -484,8 +468,6 @@ eh ada xiaomi redmi 1s nih dalam tas, isinya cuma emulator &lt;a href=&quot;http
    <id>http://pakeapa.com/Aulia-Halimatussadiah</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/ollie/SAM_4816.jpg&quot;&gt;&lt;img src=&quot;/images/people/ollie/SAM_4816.jpg&quot; alt=&quot;Aulia Halimatussadiah, Ollie&quot; width=&quot;600&quot; height=&quot;400&quot; class=&quot;alignnone size-full wp-image-133&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;!--more--&gt;
-
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
 
 &lt;p&gt;Nama saya &lt;a href=&quot;http://www.salsabeela.com/&quot;&gt;Aulia Halimatussadiah&lt;/a&gt;, biasa dipanggil Ollie dan dikenal sebagai &lt;a href=&quot;https://twitter.com/salsabeela&quot;&gt;@salsabeela&lt;/a&gt;. Saya adalah penulis dari &lt;a href=&quot;http://www.salsabeela.com/my-books/&quot;&gt;27 buku&lt;/a&gt; dan juga co-founder dari &lt;a href=&quot;http://nulisbuku.com&quot;&gt;NulisBuku.com&lt;/a&gt; online self-publishing platform dan &lt;a href=&quot;http://Kutukutubuku.com&quot;&gt;Kutukutubuku.com&lt;/a&gt; online bookstore. Saya aktif sebagai inisiator &lt;a href=&quot;http://startuplokal.org/&quot;&gt;StartupLokal&lt;/a&gt; startup community dan juga rajin menyuarakan pentingnya teknologi digunakan untuk kesuksesan wanita dalam Girls in Tech Indonesia.&lt;/p&gt;
@@ -514,8 +496,6 @@ eh ada xiaomi redmi 1s nih dalam tas, isinya cuma emulator &lt;a href=&quot;http
    <updated>2015-06-19T00:00:00+07:00</updated>
    <id>http://pakeapa.com/abiwara-erwin</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/abiwara/850515082_16495424198644762356.jpg&quot;&gt;&lt;img src=&quot;/images/people/abiwara/850515082_16495424198644762356.jpg&quot; alt=&quot;abiwara erwin&quot; width=&quot;600&quot; height=&quot;400&quot; class=&quot;alignnone size-full wp-image-108&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;!--more--&gt;
 
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
 
@@ -574,8 +554,6 @@ eh ada xiaomi redmi 1s nih dalam tas, isinya cuma emulator &lt;a href=&quot;http
    <id>http://pakeapa.com/didik-wicaksono</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/didik/didik.jpg&quot;&gt;&lt;img src=&quot;/images/people/didik/didik.jpg&quot; alt=&quot;didik wicaksono&quot; width=&quot;600&quot; height=&quot;600&quot; class=&quot;alignnone size-full wp-image-93&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;!--more--&gt;
-
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
 
 &lt;p&gt;Saya &lt;a href=&quot;https://twitter.com/did1k&quot;&gt;Didik Wicaksono&lt;/a&gt;, software engineer yang sehari-hari ngurusin API dan Web di &lt;a href=&quot;https://cookpad.com/&quot;&gt;Cookpad Global&lt;/a&gt;. Jabatan resminya CTO &lt;a href=&quot;https://cookpad.com/id&quot;&gt;Cookpad Indonesia&lt;/a&gt;, membawahi tim engineer kecil yang terdiri dari 5 orang (termasuk saya). Sehari-hari aktif ngoding.&lt;/p&gt;
@@ -611,8 +589,6 @@ eh ada xiaomi redmi 1s nih dalam tas, isinya cuma emulator &lt;a href=&quot;http
    <id>http://pakeapa.com/mandy-marahimin</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/mandy/20080606000119.jpg&quot;&gt;&lt;img src=&quot;/images/people/mandy/20080606000119.jpg&quot; alt=&quot;Mandy Marahimin&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;!--more--&gt;
-
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/somemandy&quot;&gt;Mandy Marahimin&lt;/a&gt;. Filmmaker. Founder &lt;a href=&quot;https://wujudkan.com/&quot;&gt;Wujudkan.com&lt;/a&gt;
@@ -645,8 +621,6 @@ Tas 2: laptop, all chargers, konektor proyektor, ear phone, notebook size A5, pu
    <updated>2015-05-15T00:00:00+07:00</updated>
    <id>http://pakeapa.com/Didats-Triadi</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/didats/didats2.png&quot;&gt;&lt;img src=&quot;/images/people/didats/didats2.png&quot; alt=&quot;didats triadi&quot; width=&quot;600&quot; height=&quot;359&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;!--more--&gt;
 
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
 

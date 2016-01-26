@@ -10,8 +10,7 @@ permalink: /putra-setia-utama/
 
 ---
 
-<a href="/images/people/putra/putra2.png"><img src="/images/people/putra/putra2.png" alt="Putra Setia Utama" /></a>
-<!--more-->
+<img src="/images/people/putra/putra2.png" alt="Putra Setia Utama" />
 
 <h3>Siapa anda dan apa yang anda lakukan?</h3>
 <p>Saya <a href="https://twitter.com/putrasetiautama">Putra Setia Utama</a>, Pekerjaan saya saat ini bekutat di dunia Developer Relation. Dulu pernah jadi programmer mobile tapi sekarang sudah pensiun menjadikan programmer sebagai profesi harian. Status saya sekarang bekerja di <a href="https://id.techinasia.com/author/putrasetiautamagmail-com/">Tech In Asia</a>  sebagai Chief of Developer Outreach. Tugasnya membuat program program yang bisa memberikan value lebih bagi para developer di Indonesia.</p>
@@ -19,7 +18,7 @@ permalink: /putra-setia-utama/
 <h3>Hardware yang anda gunakan</h3>
 <p>Keseharian pakai macbook air 11 inchi (boleh pinjem punya istri) dipake untuk buat olah olah data, research, dan pastinya bales bales email. Pilih macbook ukuran yang ini alasanya cuma satu : RINGAN!</p>
 <p>Smartphone pakai iPhone 5. Selain dibuat kerja smartphone ini sering banget dipake main games</p>
-<p>Hardware lainnya yang berguna banget itu BUKU yang ada kotak kotaknya ukuran 5mm. Sekarang lagi pake buku keluaran maruman (http://www.e-maruman.co.jp/english/products/notebook/mnysn/). Buku ini kepake banget untuk nuangin konsep atau cari wangsit :D
+<p>Hardware lainnya yang berguna banget itu BUKU yang ada kotak kotaknya ukuran 5mm. Sekarang lagi pake buku keluaran <a href="http://www.e-maruman.co.jp/english/products/notebook/mnysn/">maruman</a>. Buku ini kepake banget untuk nuangin konsep atau cari wangsit :D
 <br>
 Dan yang gak boleh ketinggalan adalah pulpen 4 warna dari Bic. Pulpen ini mempermudah untuk nuangin ide lebih rapih dan terbaca dikemudian hari.
 </p>

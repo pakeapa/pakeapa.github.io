@@ -15,7 +15,6 @@ permalink: /mandy-marahimin/
 
 <a href="/images/people/mandy/20080606000119.jpg"><img src="/images/people/mandy/20080606000119.jpg" alt="Mandy Marahimin" width="600" height="400" /></a>
 
-<!--more-->
 
 <h3>Siapa anda dan apa yang anda lakukan?</h3>
 

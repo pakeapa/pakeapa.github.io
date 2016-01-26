@@ -15,7 +15,6 @@ permalink: /andira-pramanta/
 
 <a href="/images/people/andira/IMG_2835.jpg"><img src="/images/people/andira/IMG_2835.jpg" alt="Andira Pramanta" /></a>
 
-<!--more-->
 
 <h3>Siapa anda dan apa yang anda lakukan?</h3>
 <p>Weekdays tiap pagi,jam 6-10, saya penyiar di good morning hardrockers show barengan <a href="https://twitter.com/pergijauh">@pergijauh</a>, di 87.6 <a href="http://hardrockfm.com/">hardrock fm</a>. Di luar itu saya juga freelance graphic designer, terutama book design. Atau ngurusin <a href="http://www.piascycles.com/MMXIV/">pias cycles</a>, usaha frame sepeda kecil-kecilan. Terkadang juga bikin <a href="https://www.youtube.com/user/theandira">video</a> atau jadi sutradara untuk webseries dan videoklip.

@@ -17,8 +17,6 @@ permalink: /acong-de-conte/
 <a href="/images/people/acong/1800246_1443806555921488_5940057397846639244_n.jpg"><img src="/images/people/acong/1800246_1443806555921488_5940057397846639244_n.jpg" alt="Acong De conte" width="600" height="400" class="alignnone size-full wp-image-211" /></a>
 
 
-<!--more-->
-
 <h3>Siapa anda dan apa yang anda lakukan?</h3>
 <p>
 nama saya Acong, saya seorang yg hobi dalam komputer. dari umur 14 tahun sudah hobi computer sampai sekarang juga. suka pemograman dan juga suka sesuatu yg baru berbau-bau komputer maupun internet, sangat menyukai tantangan, dan sekarang lebih hobi mencetak interpreneur dan entrepreneur juga.

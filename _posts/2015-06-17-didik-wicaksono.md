@@ -18,7 +18,6 @@ permalink: /didik-wicaksono/
 <a href="/images/people/didik/didik.jpg"><img src="/images/people/didik/didik.jpg" alt="didik wicaksono" width="600" height="600" class="alignnone size-full wp-image-93" /></a>
 
 
-<!--more-->
 
 <h3>Siapa anda dan apa yang anda lakukan?</h3>
 

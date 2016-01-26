@@ -13,9 +13,7 @@ permalink: /dondy-bappedyanto/
 
 ---
 
-<a href="/images/people/dondy/dondy-photo3.jpg"><img src="/images/people/dondy/dondy-photo3.jpg" alt="Dondi Bappedyanto" /></a>
-
-<!--more-->
+<img src="/images/people/dondy/dondy-photo3.jpg" alt="Dondi Bappedyanto" />
 
 
 <h3>Siapa anda dan apa yang anda lakukan?</h3>

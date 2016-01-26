@@ -16,8 +16,6 @@ permalink: /razi-thalib/
 
 <a href="/images/people/razi/Razi-Setipe-Kantor-1024x683.jpg"><img src="/images/people/razi/Razi-Setipe-Kantor-e1440167036154.jpg" alt="Razi Thalib, setipe.com"  /></a>
 
-<!--more-->
-
 <h3>Siapa anda dan apa yang anda lakukan?</h3>
 Saya Razi, manusia Indonesia yang suka menciptakan hal-hal unik yang berguna dan kalau bisa berdampak sosial. Background saya banyak di industri digital media seringnya sebagai orang product dan sekarang ini sebagai founder <a href="http://setipe.com/">Setipe.com</a> - startup online yang bantu para singles di Indonesia menemukan teman hidupnya. Saat weekend, kalau nggak lagi main basket atau nonton saya bisa ditemukan minum kopi sambil bekerja atau ngobrol-ngobrol dengan teman tentang kerjaan. Untuk sementara ini <a href="http://setipe.com/">Setipe.com</a> adalah hidup saya.
 <h3>Hardware yang anda gunakan</h3>

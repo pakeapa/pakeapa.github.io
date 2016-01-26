@@ -13,7 +13,6 @@ permalink: /didats-triadi/
 
 <a href="/images/people/didats/didats2.png"><img src="/images/people/didats/didats2.png" alt="didats triadi" width="600" height="359" /></a>
 
-<!--more-->
 
 <h3>Siapa anda dan apa yang anda lakukan?</h3>
 <a href="http://didatstriadi.com/">Didats Triadi</a>, saat ini kerja freelance dengan klien tetap dan klien tidak tetap kalo ada. Pengembang iOS yang utama, kadang-kadang ngurusi Desain untuk iOS dan <a href="https://www.android.com/">Android</a> dan API. Tinggal di <a href="http://id.wikipedia.org/wiki/Kota_Malang">Malang</a> dan punya tim dengan nama <a href="http://rimbunesia.com/">Rimbunesia</a> yang menyediakan layanan pembuatan aplikasi iOS dan Android.

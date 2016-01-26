@@ -2,7 +2,7 @@
 layout: post
 title: Mira Marsellia
 excerpt:
-        <a href="/images/people/mira/photo_2015-07-04_12-44-47-e1435988742176.jpg"><img src="/images/people/mira/photo_2015-07-04_12-44-47-e1435988742176.jpg" alt="Mira Marsellia"  /></a>
+        <img src="/images/people/mira/photo_2015-07-04_12-44-47-e1435988742176.jpg" alt="Mira Marsellia"  />
         <h5>Blogger, Petani urban.</h5>
 
 tags:
@@ -13,8 +13,7 @@ permalink: /mira-marsellia/
 
 ---
 
-<a href="/images/people/mira/photo_2015-07-04_12-44-47-e1435988742176.jpg"><img src="/images/people/mira/photo_2015-07-04_12-44-47-e1435988742176.jpg" alt="Mira Marsellia"  /></a>
-<!--more-->
+<img src="/images/people/mira/photo_2015-07-04_12-44-47-e1435988742176.jpg" alt="Mira Marsellia"  />
 
 <h3>Siapa anda dan apa yang anda lakukan?</h3>
 <p>Mira Marsellia saat ini sehari-hari bekerja di PT <a href="http://telkomsel.co.id/">Telkomsel</a>, sebuah perusahaan telekomunikasi selular. Berkantor di Bandung, kota kembang. Pekerjaan sehari-hari di PT Telkomsel tersebut telah berlangsung selama 18 tahun, 6 bulan, 27 hari sampai dengan hari ini saat profil ini ditulis. Di waktu lain mengerjakan hobi tiga hobi utama, yaitu <a href="https://www.facebook.com/RafinaGreen">berkebun</a>, menulis <a href="http://miramarsellia.com/">blog pribadi</a> atau artikel sebagai kontributor lepas, dan menggambar atau membuat sketsa. </p>

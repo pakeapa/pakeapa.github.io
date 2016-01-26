@@ -15,7 +15,6 @@ permalink: /soegianto/
 
 <a href="/images/people/soegianto/Photo-on-5-16-14-at-2.25-PM-2.jpg"><img src="/images/people/soegianto/Photo-on-5-16-14-at-2.25-PM-2.jpg" alt="Soegianto Cookpad Indonesia" width="600" height="400" class="alignnone size-full wp-image-180" /></a>
 
-<!--more-->
 
 <h3>Siapa anda dan apa yang anda lakukan?</h3>
 

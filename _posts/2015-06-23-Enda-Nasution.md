@@ -15,7 +15,6 @@ permalink: /enda-nasution/
 
 <a href="/images/people/enda/enda.jpeg"><img src="/images/people/enda/enda.jpeg" alt="enda nasution" width="600" height="400" class="alignnone size-full wp-image-151" /></a>
 
-<!--more-->
 
 <h3>Siapa anda dan apa yang anda lakukan?</h3>
 

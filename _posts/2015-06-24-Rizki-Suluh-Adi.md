@@ -15,7 +15,6 @@ permalink: /rizki-suluh-adi/
 
 <a href="/images/people/rizki/rizki.jpg"><img src="/images/people/rizki/rizki.jpg" alt="rizki suluh adi" width="600" height="424" class="alignnone size-full wp-image-163" /></a>
 
-<!--more-->
 
 <h3>Siapa anda dan apa yang anda lakukan?</h3>
 

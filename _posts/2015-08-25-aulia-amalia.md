@@ -2,7 +2,7 @@
 layout: post
 title: Aulia Amalia
 excerpt:
-        <a href="/images/people/aulia/image1.jpg"><img src="/images/people/aulia/aamalia.jpg" alt="Aulia Amalia" /></a>
+        <img src="/images/people/aulia/aamalia.jpg" alt="Aulia Amalia" />
         <h5>Product &amp; Development Manager <a href="http://www.wego.co.id/">wego.com</a></h5>
 
 tags:
@@ -14,10 +14,8 @@ permalink: /aulia-amalia/
 
 ---
 
-<a href="/images/people/aulia/image1.jpg"><img src="/images/people/aulia/aamalia.jpg" alt="Aulia Amalia"/></a>
+<img src="/images/people/aulia/aamalia.jpg" alt="Aulia Amalia"/>
 
-
-<!--more-->
 
 <h3>Siapa anda dan apa yang anda lakukan?</h3>
 <p>
@@ -61,4 +59,4 @@ Dan lagi seru banget sekarang main <a href="https://itunes.apple.com/id/app/drag
 Tas sih suka ganti-ganti sesuai sama lagi pake baju apa. Tapi udah seminggu ini pake sling bag Coach warna hitam. Isinya pouch life-kit survival, dompet duit, dompet kartu, <a href="http://www.apple.com/shop/product/MD827LL/A/apple-earpods-with-remote-and-mic">EarPods</a>, charger iPhone dan <a href="https://www.fitbit.com/">Fitbit</a>, lembaran tebel 10rb-an persiapan buat naik ojek, dan buku.
 </p>
 <h3>Smartphone homescreen</h3>
-<a href="/images/people/aulia/aamalia.png"><img src="/images/people/aulia/aamalia.png" alt="aulia amalia" /></a>
+<img src="/images/people/aulia/aamalia.png" alt="aulia amalia" />

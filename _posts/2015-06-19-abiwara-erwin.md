@@ -18,7 +18,6 @@ permalink: /abiwara-erwin/
 
 <a href="/images/people/abiwara/850515082_16495424198644762356.jpg"><img src="/images/people/abiwara/850515082_16495424198644762356.jpg" alt="abiwara erwin" width="600" height="400" class="alignnone size-full wp-image-108" /></a>
 
-<!--more-->
 
 <h3>Siapa anda dan apa yang anda lakukan?</h3>
 

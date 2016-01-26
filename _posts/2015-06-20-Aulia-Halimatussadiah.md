@@ -14,7 +14,6 @@ permalink: /aulia-halimatussadiah/
 
 <a href="/images/people/ollie/SAM_4816.jpg"><img src="/images/people/ollie/SAM_4816.jpg" alt="Aulia Halimatussadiah, Ollie" width="600" height="400" class="alignnone size-full wp-image-133" /></a>
 
-<!--more-->
 
 <h3>Siapa anda dan apa yang anda lakukan?</h3>
 
