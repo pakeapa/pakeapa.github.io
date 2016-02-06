@@ -29,8 +29,9 @@ version:          1.0.0
 github:
   repo:           https://github.com/pakeapa/pakeapa.github.io
 
-gems: [jekyll-paginate]
-
+gems:
+  - jemoji
+  - jekyll-paginate
 
 paginate_path: "page/:num"
 excerpt_separator: "\n\n"

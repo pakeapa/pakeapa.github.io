@@ -25,11 +25,11 @@ berisi informasi apa saja yang dibawa ketika commuting atau yang biasa dibawa se
 
 #### Smartphone homescreen
 berisi gambar screenshot dan informasi homescreen smartphone, karena biasanya ini berisi aplikasi yang sering digunakan.
-</article>
+
 
 
 ##### ACK
-Designed using <a target="blank" href="https://github.com/milligram/milligram" title="CJ Patoilo">miligram</a>
-<br>
-blog ini terinspirasi oleh [The Setup](http://usesthis.com/)
-
+Designed using <a target="blank" href="https://github.com/milligram/milligram" title="CJ Patoilo">miligram</a>.   
+blog ini terinspirasi oleh [The Setup](http://usesthis.com/) oleh [Daniel Bogan](https://twitter.com/waferbaby).   
+dikurasi oleh [@dedenf](https://twitter.com/dedenf) (dedenf at pakeapa.com).   
+jekyll + github.
