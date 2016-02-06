@@ -4,13 +4,49 @@
  <title>Pakeapa</title>
  <link href="http://pakeapa.com/atom.xml" rel="self"/>
  <link href="http://pakeapa.com/"/>
- <updated>2016-02-06T11:22:25+07:00</updated>
+ <updated>2016-02-06T11:54:14+07:00</updated>
  <id>http://pakeapa.com</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Muhammad Arif Rahman</title>
+   <link href="http://pakeapa.com/arif-rahman/"/>
+   <updated>2016-02-06T00:00:00+07:00</updated>
+   <id>http://pakeapa.com/arif-rahman</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/arif-rahman/arif.jpg&quot; alt=&quot;Muhammad Arif Rahman&quot; /&gt;
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
+&lt;p&gt;Halo, saya Muhammad Arif Rahman, seorang travel blogger di &lt;a href=&quot;http://www.backpackstory.me/&quot;&gt;www.backpackstory.me&lt;/a&gt;. Saat ini saya bekerja sehari-hari sebagai seorang karyawan dan selama-lamanya sebagai seorang pejalan.&lt;/p&gt;
+
+&lt;h3 id=&quot;hardware-yang-anda-gunakan&quot;&gt;Hardware yang anda gunakan&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;MacBook Air 11” untuk blogging.&lt;/li&gt;
+  &lt;li&gt;iPhone 5s untuk komunikasi sehari-hari&lt;/li&gt;
+  &lt;li&gt;Kamera &lt;a href=&quot;http://www.fujifilm.com/products/digital_cameras/x/fujifilm_x_t1/&quot;&gt;Fujifilm X-T1&lt;/a&gt; untuk mengambil foto perjalanan&lt;/li&gt;
+  &lt;li&gt;Kamera &lt;a href=&quot;https://shop.gopro.com/cameras&quot;&gt;GoPro Hero 4&lt;/a&gt; untuk mengambil video perjalanan&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;software-yang-anda-gunakan&quot;&gt;Software yang anda gunakan&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://evernote.com/&quot;&gt;Evernote&lt;/a&gt; untuk mencatat pengalaman yang ditemui selama perjalanan.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://toshl.com/&quot;&gt;Toshl&lt;/a&gt; untuk mencatat pengeluaran dan pemasukan keuangan.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://calendar.google.com/calendar/&quot;&gt;Google Calendar&lt;/a&gt; untuk membuat jadwal kegiatan sekaligus sebagai reminder acara.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://path.com&quot;&gt;Path&lt;/a&gt;, &lt;a href=&quot;https://facebook.com&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://instagram.com&quot;&gt;Instagram&lt;/a&gt;, untuk berkomunikasi di media sosial.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;apa-isi-tas-anda&quot;&gt;Apa isi tas anda&lt;/h3&gt;
+&lt;p&gt;Tas berisi laptop, earphone, charger, rain cover, powerbank, buku bacaan, kartu nama, dan terkadang kamera.&lt;/p&gt;
+
+&lt;h3 id=&quot;smartphone-homescreen&quot;&gt;Smartphone homescreen&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/people/arif-rahman/arif-homescreen.png&quot; alt=&quot;Muhammad Arif Rahman smartphone homescreen&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Putra Setia Utama</title>
@@ -20,30 +56,23 @@
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/putra/putra2.png&quot; alt=&quot;Putra Setia Utama&quot; /&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
-
 &lt;p&gt;Saya &lt;a href=&quot;https://twitter.com/putrasetiautama&quot;&gt;Putra Setia Utama&lt;/a&gt;, Pekerjaan saya saat ini bekutat di dunia Developer Relation. Dulu pernah jadi programmer mobile tapi sekarang sudah pensiun menjadikan programmer sebagai profesi harian. Status saya sekarang bekerja di &lt;a href=&quot;https://id.techinasia.com/author/putrasetiautamagmail-com/&quot;&gt;Tech In Asia&lt;/a&gt;  sebagai Chief of Developer Outreach. Tugasnya membuat program program yang bisa memberikan value lebih bagi para developer di Indonesia.&lt;/p&gt;
 
 &lt;h3&gt;Hardware yang anda gunakan&lt;/h3&gt;
-
 &lt;p&gt;Keseharian pakai macbook air 11 inchi (boleh pinjem punya istri) dipake untuk buat olah olah data, research, dan pastinya bales bales email. Pilih macbook ukuran yang ini alasanya cuma satu : RINGAN!&lt;/p&gt;
-
 &lt;p&gt;Smartphone pakai iPhone 5. Selain dibuat kerja smartphone ini sering banget dipake main games&lt;/p&gt;
-
 &lt;p&gt;Hardware lainnya yang berguna banget itu BUKU yang ada kotak kotaknya ukuran 5mm. Sekarang lagi pake buku keluaran &lt;a href=&quot;http://www.e-maruman.co.jp/english/products/notebook/mnysn/&quot;&gt;maruman&lt;/a&gt;. Buku ini kepake banget untuk nuangin konsep atau cari wangsit :D
-&lt;br&gt;
+&lt;br /&gt;
 Dan yang gak boleh ketinggalan adalah pulpen 4 warna dari Bic. Pulpen ini mempermudah untuk nuangin ide lebih rapih dan terbaca dikemudian hari.
 &lt;/p&gt;
 
 &lt;h3&gt;Software yang anda gunakan&lt;/h3&gt;
-
 &lt;p&gt;Untuk task management biasa pakai &lt;a href=&quot;https://www.bitrix24.com/features/task-mananger.php&quot;&gt;bitrix&lt;/a&gt; atau &lt;a href=&quot;https://www.wunderlist.com/&quot;&gt;wunderlist&lt;/a&gt;. Untuk komunikasi antar team biasa pakai &lt;a href=&quot;https://slack.com/&quot;&gt;slack&lt;/a&gt; dan pastinya &lt;a href=&quot;http://line.me/en/&quot;&gt;LINE&lt;/a&gt;! (satu tim suka kirim kirim sticker gak jelas) :D. Untuk bikin bikin dokumen pakai &lt;a href=&quot;https://www.google.com/drive/&quot;&gt;google drive&lt;/a&gt;. Untuk catet catet ide pakai si evernote. Nah ngedraft balesan email ini pakai &lt;a href=&quot;https://ia.net/writer/mac/&quot;&gt;iA Writer&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
-
 &lt;p&gt;Tas isinya : Buku, kotak pensil, laptop + chargeran, Rubik, earphone standard apple sama parfume (karena lagi sering naik gojek buat meeting) :D&lt;/p&gt;
 
 &lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
-
 &lt;p&gt;&lt;a href=&quot;/images/people/putra/IMG_0249.jpg&quot;&gt;&lt;img src=&quot;/images/people/putra/IMG_0249-577x1024.jpg&quot; alt=&quot;Putra Setia Utama&quot; width=&quot;577&quot; height=&quot;1024&quot; class=&quot;alignnone size-large wp-image-309&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
@@ -56,26 +85,20 @@ Dan yang gak boleh ketinggalan adalah pulpen 4 warna dari Bic. Pulpen ini memper
    <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/andira/IMG_2835.jpg&quot;&gt;&lt;img src=&quot;/images/people/andira/IMG_2835.jpg&quot; alt=&quot;Andira Pramanta&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
-
 &lt;p&gt;Weekdays tiap pagi,jam 6-10, saya penyiar di good morning hardrockers show barengan &lt;a href=&quot;https://twitter.com/pergijauh&quot;&gt;@pergijauh&lt;/a&gt;, di 87.6 &lt;a href=&quot;http://hardrockfm.com/&quot;&gt;hardrock fm&lt;/a&gt;. Di luar itu saya juga freelance graphic designer, terutama book design. Atau ngurusin &lt;a href=&quot;http://www.piascycles.com/MMXIV/&quot;&gt;pias cycles&lt;/a&gt;, usaha frame sepeda kecil-kecilan. Terkadang juga bikin &lt;a href=&quot;https://www.youtube.com/user/theandira&quot;&gt;video&lt;/a&gt; atau jadi sutradara untuk webseries dan videoklip.
 &lt;/p&gt;
 
 &lt;h3&gt;Hardware yang anda gunakan?&lt;/h3&gt;
-
 &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/IMac&quot;&gt;iMac&lt;/a&gt; di rumah buat layout design dan video editing. &lt;a href=&quot;https://en.wikipedia.org/wiki/MacBook&quot;&gt;MacBook&lt;/a&gt; unibody angkatan pertama buat mobile. Ada &lt;a href=&quot;https://en.wikipedia.org/wiki/IPad_Mini&quot;&gt;iPad mini&lt;/a&gt; pake stylus &lt;a href=&quot;http://www.fiftythree.com/pencil&quot;&gt;53 pencil&lt;/a&gt;, biar kekinian aja, gambar juga gak bisa-bisa amat. iPhone buat keseharian social media dan lainnya. Kamera &lt;a href=&quot;https://en.wikipedia.org/wiki/Sony_A6000&quot;&gt;Sony A6000&lt;/a&gt; buat nyalirin hobi foto juga produksi video. &lt;a href=&quot;https://www.sharpie.com/&quot;&gt;Sharpie&lt;/a&gt; untuk doodling, atau &lt;a href=&quot;http://www.artline.com.au/&quot;&gt;Artline&lt;/a&gt; juga gak papa.&lt;/p&gt;
 
 &lt;h3&gt;Software yang anda gunakan?&lt;/h3&gt;
-
 &lt;p&gt;Untuk desktop; &lt;a href=&quot;http://www.adobe.com/products/catalog.html&quot;&gt;adobe cs family&lt;/a&gt;, dari illustrator, photoshop, indesign, after effect, premiere pro dan soundbooth. &lt;a href=&quot;http://www.apple.com/mac/pages/&quot;&gt;Pages&lt;/a&gt; buat bikin invoice. &lt;a href=&quot;https://twitter.com/andiraa&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;http://www.apple.com/safari/&quot;&gt;safari&lt;/a&gt;, dan &lt;a href=&quot;http://www.apple.com/itunes/&quot;&gt;iTunes&lt;/a&gt;. Kalo di iOS, &lt;a href=&quot;https://www.fiftythree.com/paper&quot;&gt;paper by 53&lt;/a&gt; buat sketch dan note, &lt;a href=&quot;https://instagram.com/andiraa/&quot;&gt;instagram&lt;/a&gt;, &lt;a href=&quot;http://tapbots.com/tweetbot/&quot;&gt;tweetbot&lt;/a&gt;, &lt;a href=&quot;https://www.facebook.com/andira&quot;&gt;facebook&lt;/a&gt;, &lt;a href=&quot;http://www.apple.com/mac/imovie/&quot;&gt;iMovie&lt;/a&gt; buat edit video simpel. &lt;a href=&quot;https://path.com/&quot;&gt;Path&lt;/a&gt; buat cari perhatian.&lt;/p&gt;
 
 &lt;h3&gt;Apa isi tas anda?&lt;/h3&gt;
-
 &lt;p&gt;MacBook Air, Sony A6000, Lensa, Powerbank, Parfum, Kartu commuterline, Baju ganti, Dompet, Paspor, HD ext, Modem bolt.&lt;/p&gt;
-
 &lt;p&gt;&lt;a href=&quot;/images/people/andira/IMG_8423.jpg&quot;&gt;&lt;img src=&quot;/images/people/andira/IMG_8423-1024x768.jpg&quot; alt=&quot;Andira Pramanta in my bag&quot; width=&quot;700&quot; height=&quot;525&quot; class=&quot;alignnone size-large wp-image-302&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
-
 &lt;p&gt;&lt;a href=&quot;/images/people/andira/IMG_8452.jpg&quot;&gt;&lt;img src=&quot;/images/people/andira/IMG_8452-576x1024.jpg&quot; alt=&quot;Andira Pramanta homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
@@ -88,21 +111,19 @@ Dan yang gak boleh ketinggalan adalah pulpen 4 warna dari Bic. Pulpen ini memper
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/dondy/dondy-photo3.jpg&quot; alt=&quot;Dondi Bappedyanto&quot; /&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
-
 &lt;p&gt;Saya seorang CEO / GM dari &lt;a href=&quot;http://infinyscloud.com/&quot;&gt;PT Infinys System Indonesia&lt;/a&gt;, salah satu penyedia layanan Cloud Computing di Indonesia dengan merek &lt;a href=&quot;http://cloudkilat.com/&quot;&gt;CloudKilat&lt;/a&gt; dan &lt;a href=&quot;http://infinyscloud.com/&quot;&gt;Infinyscloud&lt;/a&gt;. Sehari-hari selain disibukkan dengan urusan pekerjaan seperti meeting, monitoring server dan traffic, memberikan motivasi ke anak buah (baca pressure :D), suka berlama-lama didepan computing device (komputer, tablet, smartphone, apapun yang bisa untuk online) untuk memberikan komentar-komentar &quot;nakal&quot; di social media atau melihat-lihat perkembangan teknologi informasi yang relevan dengan urusan server atau pengembangan software. Kadang-kadang juga suka melakukan riset untuk menggangu (disrupting) pakem-pakem yang selama ini dikenal dengan menggunakan teknologi informasi. Waktu senggang hampir tidak ada, kecuali memang sengaja diadakan untuk menonton TV Series secara marathon atau main game &lt;a href=&quot;http://www.xbox.com/en-US/games/fifa-15&quot;&gt;FIFA&lt;/a&gt; di &lt;a href=&quot;https://en.wikipedia.org/wiki/Xbox_One&quot;&gt;XBOX One&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3&gt;Hardware yang anda gunakan?&lt;/h3&gt;
-
 &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/MacBook_Pro&quot;&gt;MacBookPro Retina Display 15&quot; &lt;/a&gt;custom edition untuk general computing. &lt;a href=&quot;https://en.wikipedia.org/wiki/Surface_Pro_3&quot;&gt;Microsoft Surface Pro 3&lt;/a&gt; kalau sedang traveling atau meeting plus Stylus-nya bisa buat corat-coret ide.&lt;a href=&quot;https://en.wikipedia.org/wiki/IPhone_6&quot;&gt;iPhone 6&lt;/a&gt; buat komunikasi dan light browsing serta untuk Facebook &amp;amp; Twitter kalau sedang di jalan. &lt;a href=&quot;https://en.wikipedia.org/wiki/Apple_Cinema_Display&quot;&gt;Apple Cinema Display&lt;/a&gt; kalau sedang kerja di rumah. &lt;a href=&quot;https://en.wikipedia.org/wiki/IPad_Mini_2&quot;&gt;iPad Mini 2&lt;/a&gt; ngga pernah pergi dari sebelah kasur untuk browsing / chatting  sebelum tidur.
 &lt;a href=&quot;https://en.wikipedia.org/wiki/Amazon_Kindle&quot;&gt;Kindle Paper White&lt;/a&gt; buat baca-baca ebook &lt;a href=&quot;https://en.wikipedia.org/wiki/Xbox_One&quot;&gt;XBOX One&lt;/a&gt; buat main game FIFA series.&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&quot;http://www.supermicro.com/products/system/&quot;&gt;Supermicro Servers&lt;/a&gt;, &lt;a href=&quot;http://www.quantaqct.com/&quot;&gt;Quanta Servers&lt;/a&gt;, &lt;a href=&quot;http://www8.hp.com/us/en/products/servers/&quot;&gt;HP Servers&lt;/a&gt;, &lt;a href=&quot;http://www.juniper.net/us/en/&quot;&gt;Juniper Routers &amp; Switches&lt;/a&gt;, &lt;a href=&quot;http://www8.hp.com/us/en/products/data-storage/storage-networking.html&quot;&gt;HP SAN&lt;/a&gt;, &lt;a href=&quot;https://www.hds.com/products/networking/&quot;&gt;HDS SAN&lt;/a&gt; untuk jualan cloud :D
+&lt;a href=&quot;http://www.supermicro.com/products/system/&quot;&gt;Supermicro Servers&lt;/a&gt;, &lt;a href=&quot;http://www.quantaqct.com/&quot;&gt;Quanta Servers&lt;/a&gt;, &lt;a href=&quot;http://www8.hp.com/us/en/products/servers/&quot;&gt;HP Servers&lt;/a&gt;, &lt;a href=&quot;http://www.juniper.net/us/en/&quot;&gt;Juniper Routers &amp;amp; Switches&lt;/a&gt;, &lt;a href=&quot;http://www8.hp.com/us/en/products/data-storage/storage-networking.html&quot;&gt;HP SAN&lt;/a&gt;, &lt;a href=&quot;https://www.hds.com/products/networking/&quot;&gt;HDS SAN&lt;/a&gt; untuk jualan cloud :D
 &lt;/p&gt;
 
 &lt;h3&gt;Software yang anda gunakan?&lt;/h3&gt;
-
 &lt;p&gt;&lt;a href=&quot;http://airmailapp.com/&quot;&gt;Airmail 2&lt;/a&gt; di OSX dan &lt;a href=&quot;http://www.microsoft.com/en-us/outlook-com/&quot;&gt;MS Outlook&lt;/a&gt; di Windows 10 (2016 beta) dan iOS, Inbox by Gmail di IOS untuk baca email, &lt;a href=&quot;https://products.office.com/&quot;&gt;Microsoft Excel dan Microsoft Word&lt;/a&gt; untuk urusan pekerjaan. &lt;a href=&quot;http://www.apple.com/mac/keynote/&quot;&gt;Apple Keynote&lt;/a&gt; untuk presentasi, &lt;a href=&quot;https://www.jetbrains.com/pycharm/&quot;&gt;PyCharm&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.jetbrains.com/idea/&quot;&gt;IntelliJ&lt;/a&gt; untuk coding serius. &lt;a href=&quot;https://atom.io/&quot;&gt;Atom&lt;/a&gt; atau &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;Visual Studio Code&lt;/a&gt; untuk coding ringan.
-&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
 &lt;a href=&quot;http://www.parallels.com/products/desktop/&quot;&gt;Parallels Desktop&lt;/a&gt; untuk virtualization di OSX, &lt;a href=&quot;http://www.apple.com/music/&quot;&gt;Apple Music&lt;/a&gt;, &lt;a href=&quot;http://www.photoshop.com/products/photoshop&quot;&gt;Adobe Photoshop&lt;/a&gt; dan &lt;a href=&quot;http://www.adobe.com/products/illustrator.html&quot;&gt;Illustrator&lt;/a&gt; kalau sedang ingin mendesain
 &lt;a href=&quot;http://staruml.io/&quot;&gt;StarUML&lt;/a&gt; untuk bikin arsitektur aplikasi dan proses bisnis. Google &lt;a href=&quot;http://www.google.com/chrome/&quot;&gt;Chrome&lt;/a&gt; dan Microsoft &lt;a href=&quot;https://www.microsoft.com/en-us/windows/microsoft-edge&quot;&gt;Edge&lt;/a&gt; untuk Internet browser utama, &lt;a href=&quot;http://www.apple.com/safari/&quot;&gt;Safari&lt;/a&gt; dan &lt;a href=&quot;https://www.mozilla.org/en-US/firefox/new/&quot;&gt;Firefox&lt;/a&gt; kalau untuk testing atau kalau Chrome sedang ngambek.
 &lt;a href=&quot;https://en.wikipedia.org/wiki/Calendar_%28application%29&quot;&gt;Apple Calendar&lt;/a&gt;, &lt;a href=&quot;https://evernote.com/products/scannable/&quot;&gt;Scannable&lt;/a&gt; buat scan kartu nama yang diberikan kalau sedang ketemu orang, Google &lt;a href=&quot;http://maps.google.com/&quot;&gt;Maps&lt;/a&gt; buat GPS karena &lt;a href=&quot;https://www.waze.com/&quot;&gt;Waze&lt;/a&gt; kadang-kadang suka kurang beres kalau memberikan arah.
@@ -110,11 +131,9 @@ Dan yang gak boleh ketinggalan adalah pulpen 4 warna dari Bic. Pulpen ini memper
 &lt;a href=&quot;https://telegram.org&quot;&gt;Telegram&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.whatsapp.com&quot;&gt;WhatsApp&lt;/a&gt; untuk chatting, &lt;a href=&quot;http://tapbots.com/tweetbot/&quot;&gt;Tweetbot&lt;/a&gt; di IOS dan OSX untuk &lt;a href=&quot;https://twitter.com/&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://facebook.com/&quot;&gt;Facebook&lt;/a&gt; App dan &lt;a href=&quot;https://www.messenger.com/&quot;&gt;Facebook Messenger&lt;/a&gt; di iOS, &lt;a href=&quot;https://www.uber.com/&quot;&gt;Uber&lt;/a&gt; kalau sedang traveling ke tempat yang Uber sudah ada&lt;/p&gt;
 
 &lt;h3&gt;Apa isi tas anda?&lt;/h3&gt;
-
 &lt;p&gt;Laptop, tablet, ebook reader beserta chargernya, kabel USB, Apple Earphone, &lt;a href=&quot;http://www.monsterproducts.com/collections/headphones&quot;&gt;Monster Headphone&lt;/a&gt;, Vivan Power Bank plus koin-koin sisa traveling selalu ada di bag pack &lt;a href=&quot;http://www.victorinox.com/global/en&quot;&gt;Victorinox&lt;/a&gt; merah&lt;/p&gt;
 
 &lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
-
 &lt;p&gt;&lt;a href=&quot;/images/people/dondy/homescreen.jpg&quot;&gt;&lt;img src=&quot;/images/people/dondy/homescreen-576x1024.jpg&quot; alt=&quot;homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
@@ -124,21 +143,18 @@ Dan yang gak boleh ketinggalan adalah pulpen 4 warna dari Bic. Pulpen ini memper
    <link href="http://pakeapa.com/aulia-amalia/"/>
    <updated>2015-08-25T00:00:00+07:00</updated>
    <id>http://pakeapa.com/aulia-amalia</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/aulia/aamalia.jpg&quot; alt=&quot;Aulia Amalia&quot;/&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/aulia/aamalia.jpg&quot; alt=&quot;Aulia Amalia&quot; /&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
-
 &lt;p&gt;
 Hi saya &lt;a href=&quot;https://twitter.com/aamalia&quot;&gt;Aulia Amalia&lt;/a&gt;, sekarang sehari-harinya lebih banyak baby sitt produk digital. Karna tuntutan lingkungan sekarang lagi sedikit-sedikit belajar digital marketing. Kebetulan sekarang bekerja di perusahaan IT asal Singapore yang bidang industrinya travel. &lt;/p&gt;
 &lt;p&gt;Background saya teknikal banget, lulus dari &lt;a href=&quot;http://binus.ac.id/&quot;&gt;Binus&lt;/a&gt; dijurusan Teknik Informatika, lalu terjun jadi sofware engineer sejak 2009, sampai sekarang. 3 tahun belakangan lebih banyak jadi orang product sambil sesekali masih ngoding. Cinta banget sama &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby On Rails&lt;/a&gt; dan penggemar berat Agile terutama &lt;a href=&quot;https://en.wikipedia.org/wiki/Scrum_(software_development)&quot;&gt;Scrum&lt;/a&gt;. Suka gak kontrol kalo ketemu mainan Star Wars dan heels. Weekend kalo pagi sukanya lari atau yoga lalu ngedon di kamar tidur lagi sampai pagi kalo lagi gak traveling.
 &lt;/p&gt;
 
 &lt;h3&gt;Hardware yang anda gunakan?&lt;/h3&gt;
-
 &lt;p&gt; &lt;a href=&quot;http://www.everymac.com/systems/apple/macbook-air/specs/macbook-air-core-i5-1.3-13-mid-2013-specs.html&quot;&gt;MacBook Air 2013&lt;/a&gt;, masih rapih jali dan mulus. &lt;em&gt;Just because every Apple product deserve to be treated well&lt;/em&gt; (&lt;em&gt;Apple fangirl&lt;/em&gt;). &lt;a href=&quot;https://en.wikipedia.org/wiki/IPhone_5C&quot;&gt;iPhone 5c&lt;/a&gt;, yang beralih fungsi jadi iPod buat nampung playlist segambreng dan dipake untuk lari. iPhone 6+ buat &lt;em&gt;work and personal stuff&lt;/em&gt;. Setelah Shure SE215 nya rusak jadi cukup puas pake EarPods iPhone sebagai pengganti. Pengen ganti &lt;a href=&quot;http://www.shure.co.uk/products/earphones/se846&quot;&gt;SE846&lt;/a&gt; tapi mahal banget. Haha. &lt;a href=&quot;https://www.fitbit.com/charge&quot;&gt;Fitbit Charge&lt;/a&gt;, ini penting buat tracking sleep dan steps.&lt;/p&gt;
 
 &lt;h3&gt;Software yang anda gunakan?&lt;/h3&gt;
-
 &lt;p&gt;
 Kalo diklasifikasikan, buat di laptop:
 &lt;ul&gt;
@@ -162,19 +178,15 @@ Buat di mobile lebih banyak cuma untuk chat dan baca email aja sih
 &lt;li&gt;Email tetep pake Mail app.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/p&gt;
-
 &lt;p&gt;Selain itu yang sering dipake sehari-hari sih Wego (cek harga tiket), Instagram, FB, Twitter, Uber, Gojek, Kurio (buat baca berita), &lt;a href=&quot;https://itunes.apple.com/us/app/daily-budget-original-fastest/id651896614?mt=8&quot;&gt;Daily Budget&lt;/a&gt;.
 Dan lagi seru banget sekarang main &lt;a href=&quot;https://itunes.apple.com/id/app/dragon-mania-legends/id882507985?mt=8&quot;&gt;Dragon Mania Legends&lt;/a&gt;!
 &lt;/p&gt;
 
 &lt;h3&gt;Apa isi tas anda?&lt;/h3&gt;
-
 &lt;p&gt;
 Tas sih suka ganti-ganti sesuai sama lagi pake baju apa. Tapi udah seminggu ini pake sling bag Coach warna hitam. Isinya pouch life-kit survival, dompet duit, dompet kartu, &lt;a href=&quot;http://www.apple.com/shop/product/MD827LL/A/apple-earpods-with-remote-and-mic&quot;&gt;EarPods&lt;/a&gt;, charger iPhone dan &lt;a href=&quot;https://www.fitbit.com/&quot;&gt;Fitbit&lt;/a&gt;, lembaran tebel 10rb-an persiapan buat naik ojek, dan buku.
 &lt;/p&gt;
-
 &lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
-
 &lt;p&gt;&lt;img src=&quot;/images/people/aulia/aamalia.png&quot; alt=&quot;aulia amalia&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
@@ -184,13 +196,12 @@ Tas sih suka ganti-ganti sesuai sama lagi pake baju apa. Tapi udah seminggu ini 
    <link href="http://pakeapa.com/razi-thalib/"/>
    <updated>2015-07-12T00:00:00+07:00</updated>
    <id>http://pakeapa.com/razi-thalib</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/razi/Razi-Setipe-Kantor-1024x683.jpg&quot;&gt;&lt;img src=&quot;/images/people/razi/Razi-Setipe-Kantor-e1440167036154.jpg&quot; alt=&quot;Razi Thalib, setipe.com&quot;  /&gt;&lt;/a&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/razi/Razi-Setipe-Kantor-1024x683.jpg&quot;&gt;&lt;img src=&quot;/images/people/razi/Razi-Setipe-Kantor-e1440167036154.jpg&quot; alt=&quot;Razi Thalib, setipe.com&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
-
-&lt;p&gt;Saya Razi, manusia Indonesia yang suka menciptakan hal-hal unik yang berguna dan kalau bisa berdampak sosial. Background saya banyak di industri digital media seringnya sebagai orang product dan sekarang ini sebagai founder &lt;a href=&quot;http://setipe.com/&quot;&gt;Setipe.com&lt;/a&gt; - startup online yang bantu para singles di Indonesia menemukan teman hidupnya. Saat weekend, kalau nggak lagi main basket atau nonton saya bisa ditemukan minum kopi sambil bekerja atau ngobrol-ngobrol dengan teman tentang kerjaan. Untuk sementara ini &lt;a href=&quot;http://setipe.com/&quot;&gt;Setipe.com&lt;/a&gt; adalah hidup saya.
+&lt;p&gt;Saya Razi, manusia Indonesia yang suka menciptakan hal-hal unik yang berguna dan kalau bisa berdampak sosial. Background saya banyak di industri digital media seringnya sebagai orang product dan sekarang ini sebagai founder &lt;a href=&quot;http://setipe.com/&quot;&gt;Setipe.com&lt;/a&gt; - startup online yang bantu para singles di Indonesia menemukan teman hidupnya. Saat weekend, kalau nggak lagi main basket atau nonton saya bisa ditemukan minum kopi sambil bekerja atau ngobrol-ngobrol dengan teman tentang kerjaan. Untuk sementara ini &lt;a href=&quot;http://setipe.com/&quot;&gt;Setipe.com&lt;/a&gt; adalah hidup saya.&lt;/p&gt;
 &lt;h3&gt;Hardware yang anda gunakan&lt;/h3&gt;
-Untuk keperluan kerjaan, hiburan dan komunikasi saya menggunakan:
+&lt;p&gt;Untuk keperluan kerjaan, hiburan dan komunikasi saya menggunakan:&lt;/p&gt;
 &lt;ul&gt;
     &lt;li style=&quot;text-align: left;&quot;&gt;&lt;a href=&quot;http://shop.lenovo.com/us/en/laptops/lenovo/yoga-laptop-series/&quot;&gt;Lenovo yoga series&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;http://www.mi.com/id/redmi2/&quot;&gt;Redmi 2&lt;/a&gt; (yang paling murah)&lt;/li&gt;
@@ -198,9 +209,9 @@ Untuk keperluan kerjaan, hiburan dan komunikasi saya menggunakan:
     &lt;li&gt;Kertas dan pencil untuk visualisasi ide-ide&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Software yang anda gunakan&lt;/h3&gt;
-Yang sering saya pakai sehari-hari: &lt;a href=&quot;https://www.whatsapp.com/&quot;&gt;WhatsApp&lt;/a&gt;, &lt;a href=&quot;https://telegram.org/&quot;&gt;Telegram&lt;/a&gt;, &lt;a href=&quot;http://slack.com/&quot;&gt;Slack&lt;/a&gt;, &lt;a href=&quot;http://gmail.com/&quot;&gt;Gmail&lt;/a&gt;, MS Office, Photoshop, &lt;a href=&quot;https://balsamiq.com/&quot;&gt;Balsamiq&lt;/a&gt;, Google Maps/Drive/Chrome, Dropbox, &lt;a href=&quot;http://www.go-jek.com/&quot;&gt;Go-Jek&lt;/a&gt;, Twitter, Facebook, Instagram dan nggak lama lagi Setipe.com Android app!
+&lt;p&gt;Yang sering saya pakai sehari-hari: &lt;a href=&quot;https://www.whatsapp.com/&quot;&gt;WhatsApp&lt;/a&gt;, &lt;a href=&quot;https://telegram.org/&quot;&gt;Telegram&lt;/a&gt;, &lt;a href=&quot;http://slack.com/&quot;&gt;Slack&lt;/a&gt;, &lt;a href=&quot;http://gmail.com/&quot;&gt;Gmail&lt;/a&gt;, MS Office, Photoshop, &lt;a href=&quot;https://balsamiq.com/&quot;&gt;Balsamiq&lt;/a&gt;, Google Maps/Drive/Chrome, Dropbox, &lt;a href=&quot;http://www.go-jek.com/&quot;&gt;Go-Jek&lt;/a&gt;, Twitter, Facebook, Instagram dan nggak lama lagi Setipe.com Android app!&lt;/p&gt;
 &lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
-Saya sekarang pakai tas sling bag dari &lt;a href=&quot;http://bro.do/en/&quot;&gt;Brodo&lt;/a&gt; warna coklat dan isinya
+&lt;p&gt;Saya sekarang pakai tas sling bag dari &lt;a href=&quot;http://bro.do/en/&quot;&gt;Brodo&lt;/a&gt; warna coklat dan isinya&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Laptop&lt;/li&gt;
     &lt;li&gt;Charger laptop dan HP&lt;/li&gt;
@@ -210,7 +221,7 @@ Saya sekarang pakai tas sling bag dari &lt;a href=&quot;http://bro.do/en/&quot;&
     &lt;li&gt;Kumpulan catatan-catatan ide di kertas&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
-&lt;a href=&quot;/images/people/razi/Screenshot_2015-08-21-14-48-04.jpg&quot;&gt;&lt;img src=&quot;/images/people/razi/Screenshot_2015-08-21-14-48-04.jpg&quot; alt=&quot;razi homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/images/people/razi/Screenshot_2015-08-21-14-48-04.jpg&quot;&gt;&lt;img src=&quot;/images/people/razi/Screenshot_2015-08-21-14-48-04.jpg&quot; alt=&quot;razi homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -219,14 +230,12 @@ Saya sekarang pakai tas sling bag dari &lt;a href=&quot;http://bro.do/en/&quot;&
    <link href="http://pakeapa.com/mira-marsellia/"/>
    <updated>2015-07-10T00:00:00+07:00</updated>
    <id>http://pakeapa.com/mira-marsellia</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/mira/photo_2015-07-04_12-44-47-e1435988742176.jpg&quot; alt=&quot;Mira Marsellia&quot;  /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/mira/photo_2015-07-04_12-44-47-e1435988742176.jpg&quot; alt=&quot;Mira Marsellia&quot; /&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
-
 &lt;p&gt;Mira Marsellia saat ini sehari-hari bekerja di PT &lt;a href=&quot;http://telkomsel.co.id/&quot;&gt;Telkomsel&lt;/a&gt;, sebuah perusahaan telekomunikasi selular. Berkantor di Bandung, kota kembang. Pekerjaan sehari-hari di PT Telkomsel tersebut telah berlangsung selama 18 tahun, 6 bulan, 27 hari sampai dengan hari ini saat profil ini ditulis. Di waktu lain mengerjakan hobi tiga hobi utama, yaitu &lt;a href=&quot;https://www.facebook.com/RafinaGreen&quot;&gt;berkebun&lt;/a&gt;, menulis &lt;a href=&quot;http://miramarsellia.com/&quot;&gt;blog pribadi&lt;/a&gt; atau artikel sebagai kontributor lepas, dan menggambar atau membuat sketsa. &lt;/p&gt;
 
 &lt;h3&gt;Hardware yang anda gunakan&lt;/h3&gt;
-
 &lt;p&gt;
 Di kantor menggunakan &lt;a href=&quot;http://h20564.www2.hp.com/hpsc/doc/public/display?docId=emr_na-c03331542&quot;&gt;HP Probook 4340S&lt;/a&gt;,  di rumah menggunakan &lt;a href=&quot;https://www.apple.com/macbook-pro/&quot;&gt;Macbook Pro&lt;/a&gt; dan &lt;a href=&quot;https://www.apple.com/ipad/&quot;&gt;Ipad&lt;/a&gt; untuk browsing. Tapi saat ini lebih suka menggunakan Samsung Android untuk membuat artikel karena lebih ringan dan bisa dipakai sambil tiduran saat membuat tulisan. Ipad sering jatuh menimpa hidung saat ketiduran dan lebih berat dibanding handphone..
 Handphone yang dipakai Samsung &lt;a href=&quot;https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_4&quot;&gt;Galaxy Note&lt;/a&gt; dan &lt;a href=&quot;https://en.wikipedia.org/wiki/Samsung_Galaxy_Duos&quot;&gt;Samsung Grand Duos&lt;/a&gt;, dan tidak ada alasan yang jelas dan pasti kenapa menggunakannya.
@@ -234,14 +243,12 @@ Lebih suka membawa-bawa buku sketsa untuk menggambar dan pinsil, karena praktis 
 &lt;/p&gt;
 
 &lt;h3&gt;Software yang anda gunakan&lt;/h3&gt;
-
 &lt;p&gt;Menulis artikel atau ngeblog di handphone menggunakan aplikasi &lt;a href=&quot;https://wordpress.org/&quot;&gt;wordpress&lt;/a&gt;, Sehari-hari untuk kerja kebanyakan pake MS Word dan MS Excel karena banyak pekerjaan surat-menyurat dan berurusan dengan dokumen.
 Menyimpan file di internet saya menggunakan dropbox. Browser menggunakan &lt;a href=&quot;https://www.mozilla.org/en-US/firefox/new/&quot;&gt;Firefox&lt;/a&gt;, dan lagi suka ngutak-ngatik Webmaker dan Webmaker for Android dari &lt;a href=&quot;https://www.mozilla.org/en-US/&quot;&gt;Mozilla&lt;/a&gt;.
 Aplikasi sosmed sehari-hari: &lt;a href=&quot;https://telegram.org/&quot;&gt;Telegram&lt;/a&gt;, &lt;a href=&quot;https://www.whatsapp.com/&quot;&gt;Whatsapp&lt;/a&gt;, LINE, Facebook dan Path, Google Maps selalui dipakai karena sering nyasar, tapi engga install Waze karena suka stress kalau lihat macet dan merah di layar, mendingan hadapi dan nikmati saja.
 &lt;/p&gt;
 
 &lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
-
 &lt;p&gt;
 Kemana-mana pakai backpack karena muat macam-macam. Isinya: Laptop dinas punya perusahaan. Dompet kapasitas besar yang bentuknya seperti buku, yang berisi segala macam kartu,  recehan, dan bisa memuat 2 buah handphone, juga berbagai bon tidak jelas.
 Pouch berisi: bedak, pelembab bibir, pelembab wajah, pinsil mata, pinsil alis, pinsil gambar untuk menggambar, pulpen.
@@ -249,7 +256,6 @@ Buku sketsa ukuran A4. Obeng dan pisau lipat serbaguna merk CAT. Powerbank, char
 &lt;/p&gt;
 
 &lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
-
 &lt;p&gt;&lt;a href=&quot;/images/people/mira/hs-mira.jpg&quot;&gt;&lt;img src=&quot;/images/people/mira/hs-mira.jpg&quot; alt=&quot;Homescreen Mira Marsellia &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
@@ -262,26 +268,21 @@ Buku sketsa ukuran A4. Obeng dan pisau lipat serbaguna merk CAT. Powerbank, char
    <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/acong/1800246_1443806555921488_5940057397846639244_n.jpg&quot;&gt;&lt;img src=&quot;/images/people/acong/1800246_1443806555921488_5940057397846639244_n.jpg&quot; alt=&quot;Acong De conte&quot; width=&quot;600&quot; height=&quot;400&quot; class=&quot;alignnone size-full wp-image-211&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
-
 &lt;p&gt;
 nama saya Acong, saya seorang yg hobi dalam komputer. dari umur 14 tahun sudah hobi computer sampai sekarang juga. suka pemograman dan juga suka sesuatu yg baru berbau-bau komputer maupun internet, sangat menyukai tantangan, dan sekarang lebih hobi mencetak interpreneur dan entrepreneur juga.
 &lt;/p&gt;
 
 &lt;h3&gt;Hardware yang anda gunakan&lt;/h3&gt;
-
 &lt;p&gt;perangkat yg saya gunakan cuman laptop dengan &lt;a href=&quot;https://www.apple.com/sg/macbook-pro/&quot;&gt;Macbook Pro&lt;/a&gt; dan beberapa PC plus remote dan monitoring pekerjaan saya. untuk komunikasi saya mengunakan handphone Android DGTel dual sim dan juga &lt;a href=&quot;http://www.google.com/nexus/5/&quot;&gt;Nexus 5&lt;/a&gt; untuk oprek2an&lt;/p&gt;
 
 &lt;h3&gt;Software yang anda gunakan&lt;/h3&gt;
-
 &lt;p&gt;saya mengunakan banyak apps dan mencoba apps yg sifatnya fungsional, seperti: BBM, &lt;a href=&quot;https://www.whatsapp.com/&quot;&gt;Whatapp&lt;/a&gt;, &lt;a href=&quot;https://telegram.org/&quot;&gt;Telegram,&lt;/a&gt; Grabtaxi, Uber, dan aplikasi yg sejenisnya.
 sekarang lagi iseng-iseng pakai Plex.tv dan juga mainan seedbox untuk torrent dan tentunya pake &lt;a href=&quot;http://idws.id/&quot;&gt;idws.id&lt;/a&gt; yg dulunya berdomain &lt;a href=&quot;http://www.indowebster.com/&quot;&gt;indowebster.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
-
 &lt;p&gt;isinya cuman laptop, charger, kartu nama, powerbank, charger, sama kadang-kadang bawa laporan kerja beberapa perusahaan. &lt;/p&gt;
 
 &lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
-
 &lt;p&gt;&lt;a href=&quot;/images/people/acong/Screenshot_2015-07-01-06-49-08.png&quot;&gt;&lt;img src=&quot;/images/people/acong/Screenshot_2015-07-01-06-49-08.png&quot; alt=&quot;Acong De conte Homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
@@ -298,7 +299,6 @@ sekarang lagi iseng-iseng pakai Plex.tv dan juga mainan seedbox untuk torrent da
 &lt;p&gt;John Chendra, sehari-hari bertugas di Toko Ujung, Makassar sebagai petugas seduh kopi (PSK) dan tukang sangrai kopi (TSK). Selain itu kadang-kadang ngajar juga kalau lagi ada kelas soal kopi, atau cek-cek hasil sangrai dengan nyicip-nyicipin kopi secara baik dan benar. Itu kalau sudah selesai tugas ngawasin barang yang keluar-masuk toko dan sebagai-bagainyalah.&lt;/p&gt;
 
 &lt;h3&gt;Hardware yang anda gunakan&lt;/h3&gt;
-
 &lt;p&gt;
 Hardware non TI yang saya pakai hampir setiap hari adalah mesin-mesin kopi. Mesin espresso &lt;a href=&quot;http://nuovasimonelliusa.com/appia.html&quot;&gt;Nuova Simonelli Appia II&lt;/a&gt;, &lt;a href=&quot;http://www.eureka.co.it/prodotto/zenith-club/?lang=en&quot;&gt;grinder Eureka Zenith Club&lt;/a&gt; dan &lt;a href=&quot;http://www.baratza.com/conical-burr-grinders/preciso-grinder/&quot;&gt;Baratza Preciso&lt;/a&gt;, dilengkapi timbangan digital &lt;a href=&quot;http://acaia.co/products/acaia-pearl&quot;&gt;Acaia Pearl&lt;/a&gt; putih ada di sisi meja yang satu.&lt;/p&gt;
 &lt;p&gt;Di sisi yang lain ada &lt;a href=&quot;http://bonavitaworld.com/products/10l-digital-variable-temperature-gooseneck-kettle&quot;&gt;kettle Bonavita variable temperature&lt;/a&gt;, dan &lt;a href=&quot;http://www.hario.jp/pickup01.html&quot;&gt;Hario Buono&lt;/a&gt; yang saya pakai untuk menuang air ke &lt;a href=&quot;http://www.hario.jp/coffee/dripper.html&quot;&gt;Hario V60&lt;/a&gt;, &lt;a href=&quot;http://www.hario.jp/coffee/syphon.html&quot;&gt;Hario Syphon&lt;/a&gt; TCA-3 Technica, &lt;a href=&quot;http://www.chemexcoffeemaker.com/&quot;&gt;Chemex&lt;/a&gt; 3 cups, atau vietnam dripper yang kecil-kecil itu. Kadang saya juga menyeduh dengan &lt;a href=&quot;http://aerobie.com/products/aeropress.htm&quot;&gt;Aerobie Aeropress&lt;/a&gt;, French Press atau Phoenix70, sebuah alat seduh baru keluaran &lt;a href=&quot;https://www.saintanthonyindustries.com/&quot;&gt;St. Anthony Industries&lt;/a&gt; dari Amerika sana. Untuk keperluan seduh manual saya menggunakan timbangan digital Acaia Pearl hitam dan/atau timbangan Tiamo.&lt;/p&gt;
@@ -308,7 +308,6 @@ Itu saja cukuplah, rasanya tak perlu saya ceritakan juga mengenai vacuum cleaner
 &lt;/p&gt;
 
 &lt;h3&gt;Software yang anda gunakan&lt;/h3&gt;
-
 &lt;p&gt;
 Setiap hari menggunakan komputer karangan sendiri (rakitan), baik di toko, kantor maupun kamar tidur. Saat ini sedang belajar pakai &lt;a href=&quot;https://www.apple.com/sg/macbook-air/&quot;&gt;Macbook Air&lt;/a&gt; yang harapannya bisa menggantikan laptop acer tua yang sudah mulai bermasalah (baca: lemot).&lt;/p&gt;
 &lt;p&gt;Untuk yang digenggam-genggam saya pakai iPhone 4S dan Samsung &lt;a href=&quot;https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_3&quot;&gt;Galaxy Note 3&lt;/a&gt;. Kebanyakan sih alat-alat ini dipakai untuk akses gmail, google chrome, bbm, whatsapp, telegram, instagram, dan candy crush soda saga. Itu saja selain menelepon, tentunya. Oh iya, kadang kalo lagi mau pamer atau iseng saya pakai &lt;a href=&quot;http://acaia.co/pages/apps&quot;&gt;Acaia app&lt;/a&gt; untuk menimbang kopi. Ada satu Software yang sering saya pakai tanpa sadar, yaitu Dropbox. Praktis hampir semua file yang saya gunakan tiap hari ada di sana. Berhubung saya menggunakan beberapa komputer untuk bekerja, keberadaan Dropbox menjadi kritis agar saya terus bekerja dengan file yang terkini setelah disunting di komputer lainnya.&lt;/p&gt;
@@ -316,7 +315,6 @@ Setiap hari menggunakan komputer karangan sendiri (rakitan), baik di toko, kanto
 &lt;/p&gt;
 
 &lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
-
 &lt;p&gt;
 Tas saya sering berganti-ganti, tapi akhir-akhir ini saya setia dengan Tas sport Nike hitam model messenger, entah tipe apa dan dibeli kapan :) Di dalamnya ada dompet besar yang hampir tak ada uangnya dan terlalu banyak kartunya, banyak Sharpie, sekotak berisi pin/key untuk internet banking dari beberapa bank berbeda, sekotak obat berisi multivitamin dan suplemen lain, charger dan power bank untuk handphone beserta kabel-kabelnya, ada juga beberapa earphone dalam pouch kecil, dan tentunya macbook air dan chargernya yang belakangan ini selalu saya masukkan dalam tas ini.&lt;/p&gt;
 &lt;p&gt;Oh iya, ada satu barang lagi dalam tas saya, sendok cupping berlapis perak yang tersimpan rapi dalam pouch biru, senjata andalan tukang kopi seperti saya :)
@@ -324,7 +322,6 @@ Selain tas selempang ini ada satu &quot;tas pinggang&quot; yang selalu melekat d
 &lt;/p&gt;
 
 &lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
-
 &lt;p&gt;&lt;a href=&quot;/images/people/jchendra/IMG_4333.jpg&quot;&gt;&lt;img src=&quot;/images/people/jchendra/IMG_4333.jpg&quot; alt=&quot;John Chendra Homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
@@ -342,11 +339,11 @@ Selain tas selempang ini ada satu &quot;tas pinggang&quot; yang selalu melekat d
 
 &lt;h3&gt;Hardware yang anda gunakan&lt;/h3&gt;
 
-&lt;p&gt;Setiap hari saya menggunakan &lt;a href=&quot;http://www.apple.com/macbook-air/&quot;&gt;Macbook Air 13&amp;quot;&lt;/a&gt; untuk menyelesaikan pekerjaan, &lt;a href=&quot;https://www.google.co.id/nexus/5/&quot;&gt;Nexus 5&lt;/a&gt; untuk komunikasi mobile dan juga kerja remote, &lt;a href=&quot;https://getpebble.com/pebble_steel&quot;&gt;Pebble Watch Steel&lt;/a&gt; untuk bergaya kekinian. Saya juga masih pengguna laptop windows &lt;a href=&quot;https://en.wikipedia.org/wiki/Vaio&quot;&gt;Sony Vaio&lt;/a&gt; untuk bermain games di rumah (&lt;a href=&quot;http://www.civilization5.com/&quot;&gt;Civ 5&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Setiap hari saya menggunakan &lt;a href=&quot;http://www.apple.com/macbook-air/&quot;&gt;Macbook Air 13”&lt;/a&gt; untuk menyelesaikan pekerjaan, &lt;a href=&quot;https://www.google.co.id/nexus/5/&quot;&gt;Nexus 5&lt;/a&gt; untuk komunikasi mobile dan juga kerja remote, &lt;a href=&quot;https://getpebble.com/pebble_steel&quot;&gt;Pebble Watch Steel&lt;/a&gt; untuk bergaya kekinian. Saya juga masih pengguna laptop windows &lt;a href=&quot;https://en.wikipedia.org/wiki/Vaio&quot;&gt;Sony Vaio&lt;/a&gt; untuk bermain games di rumah (&lt;a href=&quot;http://www.civilization5.com/&quot;&gt;Civ 5&lt;/a&gt;)&lt;/p&gt;
 
 &lt;h3&gt;Software yang anda gunakan&lt;/h3&gt;
 
-&lt;p&gt;Untuk mengerjakan dokumen saya menggunakan &lt;a href=&quot;https://www.google.com/docs/about/&quot;&gt;Google Doc&lt;/a&gt;, &lt;a href=&quot;https://www.google.com/sheets/about/&quot;&gt;Google Sheet&lt;/a&gt; dan Google &lt;a href=&quot;https://www.google.com/slides/about/&quot;&gt;Slides&lt;/a&gt;, untuk menyimpan dokumen saya menggunakan Google &lt;a href=&quot;https://www.google.com/drive/&quot;&gt;Drive&lt;/a&gt; dan &lt;a href=&quot;https://dropbox.com/&quot;&gt;Dropbox&lt;/a&gt;, untuk mencatat things to do dan catatan kecil lainnya saya menggunakan Google &lt;a href=&quot;http://www.google.com/keep/&quot;&gt;Notes&lt;/a&gt; dan Notes bawaan Macbook. Social media saya menggunakan Facebook, Twitter, Instagram, Tumblr, dan LinkedIn. Untuk chatting saya menggunakan Whatsapp, BBM, Hipchat dan Slack. Browser favorit selalu menggunakan Chrome. Untuk mencari inspirasi memasak pastinya saya menggunakan apps Cookpad. Aplikasi lainnya adalah Alkitab dari &lt;a href=&quot;https://play.google.com/store/apps/details?id=yuku.alkitab&amp;hl=en&quot;&gt;Yuku&lt;/a&gt;, Youtube Kids buat nonton bareng anak, dan berbagai macam aplikasi bawaan Google.&lt;/p&gt;
+&lt;p&gt;Untuk mengerjakan dokumen saya menggunakan &lt;a href=&quot;https://www.google.com/docs/about/&quot;&gt;Google Doc&lt;/a&gt;, &lt;a href=&quot;https://www.google.com/sheets/about/&quot;&gt;Google Sheet&lt;/a&gt; dan Google &lt;a href=&quot;https://www.google.com/slides/about/&quot;&gt;Slides&lt;/a&gt;, untuk menyimpan dokumen saya menggunakan Google &lt;a href=&quot;https://www.google.com/drive/&quot;&gt;Drive&lt;/a&gt; dan &lt;a href=&quot;https://dropbox.com/&quot;&gt;Dropbox&lt;/a&gt;, untuk mencatat things to do dan catatan kecil lainnya saya menggunakan Google &lt;a href=&quot;http://www.google.com/keep/&quot;&gt;Notes&lt;/a&gt; dan Notes bawaan Macbook. Social media saya menggunakan Facebook, Twitter, Instagram, Tumblr, dan LinkedIn. Untuk chatting saya menggunakan Whatsapp, BBM, Hipchat dan Slack. Browser favorit selalu menggunakan Chrome. Untuk mencari inspirasi memasak pastinya saya menggunakan apps Cookpad. Aplikasi lainnya adalah Alkitab dari &lt;a href=&quot;https://play.google.com/store/apps/details?id=yuku.alkitab&amp;amp;hl=en&quot;&gt;Yuku&lt;/a&gt;, Youtube Kids buat nonton bareng anak, dan berbagai macam aplikasi bawaan Google.&lt;/p&gt;
 
 &lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
 
@@ -354,7 +351,7 @@ Selain tas selempang ini ada satu &quot;tas pinggang&quot; yang selalu melekat d
 
 &lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/people/soegianto/soegi-homescreen.jpg&quot;&gt;&lt;img src=&quot;/images/people/soegianto/soegi-homescreen-576x1024.jpg&quot; alt=&quot;soegi-homescreen&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/images/people/soegianto/soegi-homescreen.jpg&quot;&gt;&lt;img src=&quot;/images/people/soegianto/soegi-homescreen-576x1024.jpg&quot; alt=&quot;soegi-homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -381,8 +378,8 @@ Transportasi menggunakan Uber, Google Maps, Juga sering memakai Compass (karena 
 
 &lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
 
-&lt;p&gt;Backpack &lt;a href=&quot;http://herschelsupply.com/&quot;&gt;Herschel&lt;/a&gt; Woodside Knitted Collection warna Navy, berisi: MacbookAir 13, iPhone 4S, Redmi 2, Pouch kanvas warna hitam dari pameran Shirin Neshat di MMCA, Seoul--berisi Token e-banking, Pulpen PILOT Hi-Tec-C, dan flash disk.
-Dompet kulit berbentuk babi warna burgundy untuk menyimpan charger iPhone, Dompet Felt Scandinavian Touch untuk menyimpan uang kertas dan logam. Dompet kulit dengan aksen tenun Bife (NTT) untuk menyimpan kartu-kartu (ATM, Commuter Line, Flazz, SIM, NPWP dll). Beaded pouch warna merah tua untuk menyimpan iPod dan earphone. Kipas sutra motif batik berciri oriental warna kelabu, Scarf untuk kalau-kalau naik ojek, Satu kemasan tisu kering, Kartu akses masuk tower apartemen (yang sering ketinggalan), Kartu akses kantor, Face blotting paper, Lip balm, 2 Macam lipstick cair berbeda warna; pink glossy dan merah matte. Permen Fisherman&amp;#39;s Friends, Buku yang sedang dibaca&lt;/p&gt;
+&lt;p&gt;Backpack &lt;a href=&quot;http://herschelsupply.com/&quot;&gt;Herschel&lt;/a&gt; Woodside Knitted Collection warna Navy, berisi: MacbookAir 13, iPhone 4S, Redmi 2, Pouch kanvas warna hitam dari pameran Shirin Neshat di MMCA, Seoul–berisi Token e-banking, Pulpen PILOT Hi-Tec-C, dan flash disk.
+Dompet kulit berbentuk babi warna burgundy untuk menyimpan charger iPhone, Dompet Felt Scandinavian Touch untuk menyimpan uang kertas dan logam. Dompet kulit dengan aksen tenun Bife (NTT) untuk menyimpan kartu-kartu (ATM, Commuter Line, Flazz, SIM, NPWP dll). Beaded pouch warna merah tua untuk menyimpan iPod dan earphone. Kipas sutra motif batik berciri oriental warna kelabu, Scarf untuk kalau-kalau naik ojek, Satu kemasan tisu kering, Kartu akses masuk tower apartemen (yang sering ketinggalan), Kartu akses kantor, Face blotting paper, Lip balm, 2 Macam lipstick cair berbeda warna; pink glossy dan merah matte. Permen Fisherman’s Friends, Buku yang sedang dibaca&lt;/p&gt;
 
 &lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
 
@@ -409,12 +406,12 @@ Dan random phones yang kebetulan lagi dipake. &lt;a href=&quot;https://www.motor
 
 &lt;h3&gt;Software yang anda gunakan&lt;/h3&gt;
 
-&lt;p&gt;Mail client di smartphone pake &lt;a href=&quot;https://www.gmail.com/intl/en_us/mail/help/mobile.html&quot;&gt;Gmail&lt;/a&gt;. Di desktop pake &lt;a href=&quot;https://www.apple.com/support/mac-apps/mail/&quot;&gt;Mail.app&lt;/a&gt;, heavy di &lt;a href=&quot;https://www.whatsapp.com/&quot;&gt;whatsapp&lt;/a&gt;, &lt;a href=&quot;http://line.me/en/&quot;&gt;Line&lt;/a&gt;, &lt;a href=&quot;https://www.skype.com/en/&quot;&gt;Skype&lt;/a&gt; dan &lt;a href=&quot;https://telegram.org/&quot;&gt;Telegram&lt;/a&gt;. Sekarang juga &lt;a href=&quot;http://www.wechat.com/en/&quot;&gt;Wechat&lt;/a&gt;. &lt;a href=&quot;https://en.wikipedia.org/?title=Microsoft_Excel&quot;&gt;xls&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Microsoft_PowerPoint&quot;&gt;ppt&lt;/a&gt;, &lt;a href=&quot;https://www.apple.com/mac/keynote/&quot;&gt;Keynote&lt;/a&gt;, &lt;a href=&quot;http://www.apple.com/mac/numbers/&quot;&gt;Numbers&lt;/a&gt;, &lt;a href=&quot;https://evernote.com/&quot;&gt;Evernote&lt;/a&gt;, &lt;a href=&quot;https://telegram.org/&quot;&gt;Telegram&lt;/a&gt;?&lt;br&gt;
+&lt;p&gt;Mail client di smartphone pake &lt;a href=&quot;https://www.gmail.com/intl/en_us/mail/help/mobile.html&quot;&gt;Gmail&lt;/a&gt;. Di desktop pake &lt;a href=&quot;https://www.apple.com/support/mac-apps/mail/&quot;&gt;Mail.app&lt;/a&gt;, heavy di &lt;a href=&quot;https://www.whatsapp.com/&quot;&gt;whatsapp&lt;/a&gt;, &lt;a href=&quot;http://line.me/en/&quot;&gt;Line&lt;/a&gt;, &lt;a href=&quot;https://www.skype.com/en/&quot;&gt;Skype&lt;/a&gt; dan &lt;a href=&quot;https://telegram.org/&quot;&gt;Telegram&lt;/a&gt;. Sekarang juga &lt;a href=&quot;http://www.wechat.com/en/&quot;&gt;Wechat&lt;/a&gt;. &lt;a href=&quot;https://en.wikipedia.org/?title=Microsoft_Excel&quot;&gt;xls&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Microsoft_PowerPoint&quot;&gt;ppt&lt;/a&gt;, &lt;a href=&quot;https://www.apple.com/mac/keynote/&quot;&gt;Keynote&lt;/a&gt;, &lt;a href=&quot;http://www.apple.com/mac/numbers/&quot;&gt;Numbers&lt;/a&gt;, &lt;a href=&quot;https://evernote.com/&quot;&gt;Evernote&lt;/a&gt;, &lt;a href=&quot;https://telegram.org/&quot;&gt;Telegram&lt;/a&gt;?&lt;br /&gt;
 kebanyakan pekerjaan saya ada di cloud, &lt;a href=&quot;https://www.google.com/docs/about/&quot;&gt;Google Docs&lt;/a&gt; dan &lt;a href=&quot;https://www.dropbox.com/&quot;&gt;Dropbox&lt;/a&gt;. Atau tergantung preferensi ada juga rekan kerja yang lebih suka pake &lt;a href=&quot;https://en.wikipedia.org/wiki/Office_365&quot;&gt;Office 365&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Selalu ada juga app untuk commuting seperti &lt;a href=&quot;https://www.uber.com/&quot;&gt;Uber&lt;/a&gt;, &lt;a href=&quot;http://www.go-jek.com/&quot;&gt;Go-jek&lt;/a&gt;, &lt;a href=&quot;http://grabtaxi.com/&quot;&gt;Grab taxi&lt;/a&gt;, dan &lt;a href=&quot;https://www.waze.com/&quot;&gt;Waze&lt;/a&gt; (&lt;a href=&quot;https://maps.google.com/&quot;&gt;google map&lt;/a&gt; juga), untuk offline map pake &lt;a href=&quot;http://www.sygic.com/&quot;&gt;sygic&lt;/a&gt; (jaga jaga kalau lagi gak ada sinyal data atau lagi roaming), untuk music saya pake &lt;a href=&quot;http://deezer.com&quot;&gt;Deezer&lt;/a&gt;. Streaming ataupun offline download.&lt;/p&gt;
 
-&lt;p&gt;untuk productivity pake campur-campur, kantor pake &lt;a href=&quot;https://asana.com/&quot;&gt;Asana&lt;/a&gt;, teman-teman pake &lt;a href=&quot;https://en.todoist.com/&quot;&gt;Todoist&lt;/a&gt;, personal pake &lt;a href=&quot;https://trello.com/&quot;&gt;Trello&lt;/a&gt; atau &lt;a href=&quot;https://www.wunderlist.com/&quot;&gt;Wunderlist&lt;/a&gt;. Sketching pake &lt;a href=&quot;https://www.fiftythree.com/paper&quot;&gt;Paper&lt;/a&gt;. Ada &lt;a href=&quot;http://drawingpadapp.com/&quot;&gt;drawing Pad&lt;/a&gt; juga (dipake anak gua!).&lt;br&gt;
+&lt;p&gt;untuk productivity pake campur-campur, kantor pake &lt;a href=&quot;https://asana.com/&quot;&gt;Asana&lt;/a&gt;, teman-teman pake &lt;a href=&quot;https://en.todoist.com/&quot;&gt;Todoist&lt;/a&gt;, personal pake &lt;a href=&quot;https://trello.com/&quot;&gt;Trello&lt;/a&gt; atau &lt;a href=&quot;https://www.wunderlist.com/&quot;&gt;Wunderlist&lt;/a&gt;. Sketching pake &lt;a href=&quot;https://www.fiftythree.com/paper&quot;&gt;Paper&lt;/a&gt;. Ada &lt;a href=&quot;http://drawingpadapp.com/&quot;&gt;drawing Pad&lt;/a&gt; juga (dipake anak gua!).&lt;br /&gt;
 untuk referensi saya pake &lt;a href=&quot;https://quora.com/&quot;&gt;Quora&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;untuk majalah lokal saya pake &lt;a href=&quot;http://www.getscoop.com/en&quot;&gt;Scoop&lt;/a&gt;. majalah luar pake &lt;a href=&quot;http://www.zinio.com/&quot;&gt;Zinio&lt;/a&gt;, Manga reader saya pake &lt;a href=&quot;http://www.mangarockapp.com/&quot;&gt;Mangarock&lt;/a&gt;, baik di android dan iOS paid version, untuk ebook reader di iOS saya cukup pake &lt;a href=&quot;https://www.apple.com/ibooks/&quot;&gt;iBooks&lt;/a&gt;, untuk ebook reader di android saya pake &lt;a href=&quot;http://www.mantano.com/&quot;&gt;Mantano e-reader&lt;/a&gt;.&lt;/p&gt;
@@ -423,7 +420,7 @@ untuk referensi saya pake &lt;a href=&quot;https://quora.com/&quot;&gt;Quora&lt;
 
 &lt;p&gt;&lt;a href=&quot;http://noknbag.com/&quot;&gt;Nokn&lt;/a&gt; bag made in indonesia asli, Macbook Pro + kabel charger, Powerbank + kabel charger, map dan folder berisi kertas2 dokumen, kadang juga random dokumen berapa tahun lalu juga masih kebawa. bolpen, notebook &lt;a href=&quot;http://www.moleskine.com/en/&quot;&gt;Moleskin&lt;/a&gt; ada dua (there is no such thing as too much moleskins).&lt;/p&gt;
 
-&lt;p&gt;ada moleskin envelope folder juga yang berfungsi sebagai satelit carrier, didalamnya naruh ipad air dan notebook gua, kadang juga nyemplungin dompet dan nyangkutin bolpen, Macbook Pro taruh di meja dan commuting / meeting bawa ipad air saja.&lt;br&gt;
+&lt;p&gt;ada moleskin envelope folder juga yang berfungsi sebagai satelit carrier, didalamnya naruh ipad air dan notebook gua, kadang juga nyemplungin dompet dan nyangkutin bolpen, Macbook Pro taruh di meja dan commuting / meeting bawa ipad air saja.&lt;br /&gt;
 eh ada xiaomi redmi 1s nih dalam tas, isinya cuma emulator &lt;a href=&quot;http://www.emulator-zone.com/doc.php/snes/&quot;&gt;SNES&lt;/a&gt; :P&lt;/p&gt;
 
 &lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
@@ -453,7 +450,7 @@ eh ada xiaomi redmi 1s nih dalam tas, isinya cuma emulator &lt;a href=&quot;http
 
 &lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
 
-&lt;p&gt;Tas kecil khusus kabel2 dan perangkat charger lainnya, notebook fisik berisikan kertas yang sekaligus ada amplopnya juga  buat kartu nama sama materi promo &lt;a href=&quot;https://sebangsa.com/&quot;&gt;Sebangsa&lt;/a&gt;, yang di hardware di atas, iPad Mini sama Camera, payung, jaket rompi, alat tulis, headphones &lt;a href=&quot;https://www.nuforce.com/index.php?option=com_k2&amp;view=item&amp;layout=item&amp;id=12&amp;Itemid=197&quot;&gt;Nuforce NE-600X&lt;/a&gt;, &lt;a href=&quot;http://www.panadol.com/id/temukan-panadol-yang-tepat-untuk-anda/panadol-extra.html&quot;&gt;Panadol Extra&lt;/a&gt;, &lt;a href=&quot;http://www.kalbestore.com/Product/Brand/Fitbar&quot;&gt;Fitbar&lt;/a&gt;, Masuk Angin &lt;a href=&quot;https://id.wikipedia.org/wiki/Bintang_Toedjoe&quot;&gt;Bintang Toedjoe&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Tas kecil khusus kabel2 dan perangkat charger lainnya, notebook fisik berisikan kertas yang sekaligus ada amplopnya juga  buat kartu nama sama materi promo &lt;a href=&quot;https://sebangsa.com/&quot;&gt;Sebangsa&lt;/a&gt;, yang di hardware di atas, iPad Mini sama Camera, payung, jaket rompi, alat tulis, headphones &lt;a href=&quot;https://www.nuforce.com/index.php?option=com_k2&amp;amp;view=item&amp;amp;layout=item&amp;amp;id=12&amp;amp;Itemid=197&quot;&gt;Nuforce NE-600X&lt;/a&gt;, &lt;a href=&quot;http://www.panadol.com/id/temukan-panadol-yang-tepat-untuk-anda/panadol-extra.html&quot;&gt;Panadol Extra&lt;/a&gt;, &lt;a href=&quot;http://www.kalbestore.com/Product/Brand/Fitbar&quot;&gt;Fitbar&lt;/a&gt;, Masuk Angin &lt;a href=&quot;https://id.wikipedia.org/wiki/Bintang_Toedjoe&quot;&gt;Bintang Toedjoe&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
 
@@ -514,7 +511,7 @@ eh ada xiaomi redmi 1s nih dalam tas, isinya cuma emulator &lt;a href=&quot;http
 &lt;li&gt;&lt;a href=&quot;http://en-id.sennheiser.com/over-ear-headphones-hd-202&quot;&gt;Senheisser HD202&lt;/a&gt; untuk mengusir para pengganggu&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.apple.com/lae/iphone-4s/specs/&quot;&gt;iPhone 4s&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Nokia_N95&quot;&gt;Nokia N95&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.p4c.philips.com/cgi-bin/cpindex.pl?ctn=SPD5220CC/00&amp;hlt=Link_Overview&amp;scy=MX&amp;slg=AEN&quot;&gt;Phillips 120 G&lt;/a&gt;B Mobile Harddrive&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.p4c.philips.com/cgi-bin/cpindex.pl?ctn=SPD5220CC/00&amp;amp;hlt=Link_Overview&amp;amp;scy=MX&amp;amp;slg=AEN&quot;&gt;Phillips 120 G&lt;/a&gt;B Mobile Harddrive&lt;/li&gt;
 &lt;li&gt;A5 Notepad&lt;/li&gt;
 &lt;li&gt;Pen and Pencil&lt;/li&gt;
 &lt;/ul&gt;
@@ -543,7 +540,7 @@ eh ada xiaomi redmi 1s nih dalam tas, isinya cuma emulator &lt;a href=&quot;http
 
 &lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/people/abiwara/850515405_11964939063006686668.jpg&quot;&gt;&lt;img src=&quot;/images/people/abiwara/850515405_11964939063006686668.jpg&quot; alt=&quot;Abiwara Homescreen&quot;  /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/images/people/abiwara/850515405_11964939063006686668.jpg&quot;&gt;&lt;img src=&quot;/images/people/abiwara/850515405_11964939063006686668.jpg&quot; alt=&quot;Abiwara Homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -570,11 +567,19 @@ eh ada xiaomi redmi 1s nih dalam tas, isinya cuma emulator &lt;a href=&quot;http
 
 &lt;p&gt;&lt;a href=&quot;https://panic.com/transmit/&quot;&gt;Transmit&lt;/a&gt; buat transfer file ke server atau &lt;a href=&quot;https://aws.amazon.com/s3/&quot;&gt;S3&lt;/a&gt;. &lt;a href=&quot;https://www.google.com/chrome/browser/canary.html&quot;&gt;Chrome Canary&lt;/a&gt;, karena Chrome biasa terlalu mainstream. Segala macam aplikasi yang ada di &lt;a href=&quot;https://www.google.com/drive/&quot;&gt;Google Drive&lt;/a&gt;. &lt;a href=&quot;https://soundcloud.com&quot;&gt;SoundCloud&lt;/a&gt; buat dengerin musik yang saya suka. &lt;a href=&quot;https://www.pushbullet.com/&quot;&gt;PushBullet&lt;/a&gt; buat menyatukan semua notif mobile ke desktop.&lt;/p&gt;
 
-&lt;p&gt;Di Mobile, baru-baru ini lagi nyobain mindmapping pakai &lt;a href=&quot;http://www.mindlyapp.com/&quot;&gt;Mindly&lt;/a&gt;. &lt;a href=&quot;https://cookpad.com/id/unduh&quot;&gt;App Cookpad&lt;/a&gt; buat nyari resep untuk masak-masak weekend. &lt;a href=&quot;https://instagram.com/&quot;&gt;Instagram&lt;/a&gt; buat ngeliat promo-promo dari resto favorit atau ngeliat akun &lt;a href=&quot;https://instagram.com/marutaro/&quot;&gt;anjing Marutaro&lt;/a&gt;. Baca komik pakai &lt;a href=&quot;http://www.webtoons.com/en/&quot;&gt;Line&amp;#39;s Webtoon&lt;/a&gt;. Nonton anime pakai &lt;a href=&quot;http://www.crunchyroll.com/&quot;&gt;Crunchyroll&lt;/a&gt;. Liat meetup pakai &lt;a href=&quot;http://www.meetup.com/&quot;&gt;Meetup&lt;/a&gt; (badum tsss). Lagi suka main game mobile Nekoatsume(&lt;a href=&quot;https://itunes.apple.com/us/app/nekoatsume/id923917775&quot;&gt;ios&lt;/a&gt;|&lt;a href=&quot;https://play.google.com/store/apps/details?id=jp.co.hit_point.nekoatsume&amp;hl=en&quot;&gt;android&lt;/a&gt;) dan Tap Titans (&lt;a href=&quot;https://itunes.apple.com/id/app/tap-titans/id940596201?mt=8&quot;&gt;ios&lt;/a&gt;|&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.gamehivecorp.taptitans&amp;hl=en&quot;&gt;android&lt;/a&gt;). Messenger dengan &lt;a href=&quot;https://web.whatsapp.com/&quot;&gt;WhatsApp&lt;/a&gt;, &lt;a href=&quot;https://www.google.com/+/learnmore/hangouts/&quot;&gt;Hangouts&lt;/a&gt;, &lt;a href=&quot;https://telegram.org/&quot;&gt;Telegram&lt;/a&gt;, &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt;, &lt;a href=&quot;https://www.hipchat.com&quot;&gt;Hipchat&lt;/a&gt;, dan &lt;a href=&quot;https://www.messenger.com/&quot;&gt;FB Messenger&lt;/a&gt;.&lt;/p&gt;
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Di Mobile, baru-baru ini lagi nyobain mindmapping pakai &lt;a href=&quot;http://www.mindlyapp.com/&quot;&gt;Mindly&lt;/a&gt;. &lt;a href=&quot;https://cookpad.com/id/unduh&quot;&gt;App Cookpad&lt;/a&gt; buat nyari resep untuk masak-masak weekend. &lt;a href=&quot;https://instagram.com/&quot;&gt;Instagram&lt;/a&gt; buat ngeliat promo-promo dari resto favorit atau ngeliat akun &lt;a href=&quot;https://instagram.com/marutaro/&quot;&gt;anjing Marutaro&lt;/a&gt;. Baca komik pakai &lt;a href=&quot;http://www.webtoons.com/en/&quot;&gt;Line’s Webtoon&lt;/a&gt;. Nonton anime pakai &lt;a href=&quot;http://www.crunchyroll.com/&quot;&gt;Crunchyroll&lt;/a&gt;. Liat meetup pakai &lt;a href=&quot;http://www.meetup.com/&quot;&gt;Meetup&lt;/a&gt; (badum tsss). Lagi suka main game mobile Nekoatsume(&lt;a href=&quot;https://itunes.apple.com/us/app/nekoatsume/id923917775&quot;&gt;ios&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=jp.co.hit_point.nekoatsume&amp;amp;hl=en&quot;&gt;android&lt;/a&gt;) dan Tap Titans (&lt;a href=&quot;https://itunes.apple.com/id/app/tap-titans/id940596201?mt=8&quot;&gt;ios&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.gamehivecorp.taptitans&amp;amp;hl=en&quot;&gt;android&lt;/a&gt;). Messenger dengan &lt;a href=&quot;https://web.whatsapp.com/&quot;&gt;WhatsApp&lt;/a&gt;, &lt;a href=&quot;https://www.google.com/+/learnmore/hangouts/&quot;&gt;Hangouts&lt;/a&gt;, &lt;a href=&quot;https://telegram.org/&quot;&gt;Telegram&lt;/a&gt;, &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt;, &lt;a href=&quot;https://www.hipchat.com&quot;&gt;Hipchat&lt;/a&gt;, dan &lt;a href=&quot;https://www.messenger.com/&quot;&gt;FB Messenger&lt;/a&gt;.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
 
-&lt;p&gt;Semua kartu nama hasil networking sana-sini. Permen &lt;a href=&quot;http://www.fishermansfriend.com/en-gb/&quot;&gt;Fisherman&amp;#39;s Friend&lt;/a&gt; rasa Aniseed. Kertas-kertas bon makan. Kartu KRL. Duit receh kecil buat ojek.&lt;/p&gt;
+&lt;p&gt;Semua kartu nama hasil networking sana-sini. Permen &lt;a href=&quot;http://www.fishermansfriend.com/en-gb/&quot;&gt;Fisherman’s Friend&lt;/a&gt; rasa Aniseed. Kertas-kertas bon makan. Kartu KRL. Duit receh kecil buat ojek.&lt;/p&gt;
 
 &lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
 
@@ -602,7 +607,7 @@ Saat ini sedang menyiapkan produksi sebuah film layar lebar (ini yg jangka panja
 
 &lt;p&gt;Camera, &lt;a href=&quot;www.google.com/chrome/&quot;&gt;chrome&lt;/a&gt;, Microsoft Office, &lt;a href=&quot;https://gmail.com&quot;&gt;Gmail&lt;/a&gt;, &lt;a href=&quot;https://www.apple.com/mac/keynote/&quot;&gt;Keynote&lt;/a&gt;, &lt;a href=&quot;http://www.skype.com/en/&quot;&gt;Skype&lt;/a&gt;, &lt;a href=&quot;https://www.waze.com/&quot;&gt;Waze&lt;/a&gt;, &lt;a href=&quot;https://www.apple.com/itunes/&quot;&gt;iTunes&lt;/a&gt;, &lt;a href=&quot;http://www.apple.com/quicktime/&quot;&gt;Quicktime&lt;/a&gt;, &lt;a href=&quot;http://mplayerx.org/&quot;&gt;MPlayerX&lt;/a&gt;, kalkulator, &lt;a href=&quot;https://evernote.com/&quot;&gt;Evernote&lt;/a&gt;, &lt;a href=&quot;https://dropbox.com/&quot;&gt;Dropbox&lt;/a&gt;, &lt;a href=&quot;https://www.google.com/drive/&quot;&gt;Drive&lt;/a&gt;, &lt;a href=&quot;https://www.whatsapp.com/&quot;&gt;Whatsapp&lt;/a&gt;, &lt;a href=&quot;https://instagram.com/&quot;&gt;instagram&lt;/a&gt;, &lt;a href=&quot;https://path.com/&quot;&gt;Path&lt;/a&gt;, &lt;a href=&quot;https://toshl.com/&quot;&gt;Toshl&lt;/a&gt;, &lt;a href=&quot;https://www.google.com/calendar&quot;&gt;Google Cal&lt;/a&gt;, &lt;a href=&quot;https://basecamp.com/&quot;&gt;Basecamp&lt;/a&gt;, &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt;, &lt;a href=&quot;https://trello.com/&quot;&gt;Trello&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Untuk game, lagi sering main &lt;a href=&quot;http://altosadventure.com/&quot;&gt;Alto&amp;#39;s Adventure&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Untuk game, lagi sering main &lt;a href=&quot;http://altosadventure.com/&quot;&gt;Alto’s Adventure&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
 
@@ -623,18 +628,17 @@ Tas 2: laptop, all chargers, konektor proyektor, ear phone, notebook size A5, pu
    <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/didats/didats2.png&quot;&gt;&lt;img src=&quot;/images/people/didats/didats2.png&quot; alt=&quot;didats triadi&quot; width=&quot;600&quot; height=&quot;359&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://didatstriadi.com/&quot;&gt;Didats Triadi&lt;/a&gt;, saat ini kerja freelance dengan klien tetap dan klien tidak tetap kalo ada. Pengembang iOS yang utama, kadang-kadang ngurusi Desain untuk iOS dan &lt;a href=&quot;https://www.android.com/&quot;&gt;Android&lt;/a&gt; dan API. Tinggal di &lt;a href=&quot;http://id.wikipedia.org/wiki/Kota_Malang&quot;&gt;Malang&lt;/a&gt; dan punya tim dengan nama &lt;a href=&quot;http://rimbunesia.com/&quot;&gt;Rimbunesia&lt;/a&gt; yang menyediakan layanan pembuatan aplikasi iOS dan Android.
+&lt;p&gt;&lt;a href=&quot;http://didatstriadi.com/&quot;&gt;Didats Triadi&lt;/a&gt;, saat ini kerja freelance dengan klien tetap dan klien tidak tetap kalo ada. Pengembang iOS yang utama, kadang-kadang ngurusi Desain untuk iOS dan &lt;a href=&quot;https://www.android.com/&quot;&gt;Android&lt;/a&gt; dan API. Tinggal di &lt;a href=&quot;http://id.wikipedia.org/wiki/Kota_Malang&quot;&gt;Malang&lt;/a&gt; dan punya tim dengan nama &lt;a href=&quot;http://rimbunesia.com/&quot;&gt;Rimbunesia&lt;/a&gt; yang menyediakan layanan pembuatan aplikasi iOS dan Android.&lt;/p&gt;
 &lt;h3&gt;Hardware yang anda gunakan&lt;/h3&gt;
-&lt;a href=&quot;https://support.apple.com/kb/SP669?locale=en_US&quot;&gt;Macbook Pro 15&amp;quot; 2013&lt;/a&gt;, &lt;a href=&quot;https://www.apple.com/iphone-6/&quot;&gt;iPhone 6&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/IPad_Mini_(1st_generation)&quot;&gt;iPad Mini&lt;/a&gt; generasi pertama, HDD Eksternal &lt;a href=&quot;http://www.seagate.com/id/id/external-hard-drives/portable-hard-drives/standard/backup-plus/&quot;&gt;Seagate&lt;/a&gt; 1 TB.
+&lt;p&gt;&lt;a href=&quot;https://support.apple.com/kb/SP669?locale=en_US&quot;&gt;Macbook Pro 15” 2013&lt;/a&gt;, &lt;a href=&quot;https://www.apple.com/iphone-6/&quot;&gt;iPhone 6&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/IPad_Mini_(1st_generation)&quot;&gt;iPad Mini&lt;/a&gt; generasi pertama, HDD Eksternal &lt;a href=&quot;http://www.seagate.com/id/id/external-hard-drives/portable-hard-drives/standard/backup-plus/&quot;&gt;Seagate&lt;/a&gt; 1 TB.&lt;/p&gt;
 &lt;h3&gt;Software yang anda gunakan&lt;/h3&gt;
-&lt;a href=&quot;https://en.wikipedia.org/wiki/OS_X_Yosemite&quot;&gt;OS X Yosemite&lt;/a&gt; sebagai sistem operasi, &lt;a href=&quot;https://developer.apple.com/xcode/&quot;&gt;Xcode&lt;/a&gt; sebagai kode editor yang paling sering digunakan untuk membuat aplikasi &lt;a href=&quot;https://www.apple.com/ios/&quot;&gt;iOS&lt;/a&gt;, &lt;a href=&quot;https://panic.com/coda/&quot;&gt;Coda&lt;/a&gt; untuk API dan &lt;a href=&quot;https://en.wikipedia.org/wiki/Secure_Shell&quot;&gt;SSH&lt;/a&gt; ke server, &lt;a href=&quot;http://bohemiancoding.com/sketch/&quot;&gt;Sketch 3&lt;/a&gt; untuk desain, &lt;a href=&quot;http://www.sequelpro.com/&quot;&gt;Sequel Pro&lt;/a&gt; untuk koneksi ke database di server, &lt;a href=&quot;https://www.sourcetreeapp.com/&quot;&gt;SourceTree&lt;/a&gt; untuk &lt;abbr title=&quot;Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency&quot;&gt;GIT&lt;/abbr&gt;, &lt;a href=&quot;https://imageoptim.com/&quot;&gt;ImageOptim&lt;/a&gt; untuk ngurangi ukuran berkas gambar untuk di aplikasi.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/OS_X_Yosemite&quot;&gt;OS X Yosemite&lt;/a&gt; sebagai sistem operasi, &lt;a href=&quot;https://developer.apple.com/xcode/&quot;&gt;Xcode&lt;/a&gt; sebagai kode editor yang paling sering digunakan untuk membuat aplikasi &lt;a href=&quot;https://www.apple.com/ios/&quot;&gt;iOS&lt;/a&gt;, &lt;a href=&quot;https://panic.com/coda/&quot;&gt;Coda&lt;/a&gt; untuk API dan &lt;a href=&quot;https://en.wikipedia.org/wiki/Secure_Shell&quot;&gt;SSH&lt;/a&gt; ke server, &lt;a href=&quot;http://bohemiancoding.com/sketch/&quot;&gt;Sketch 3&lt;/a&gt; untuk desain, &lt;a href=&quot;http://www.sequelpro.com/&quot;&gt;Sequel Pro&lt;/a&gt; untuk koneksi ke database di server, &lt;a href=&quot;https://www.sourcetreeapp.com/&quot;&gt;SourceTree&lt;/a&gt; untuk &lt;abbr title=&quot;Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency&quot;&gt;GIT&lt;/abbr&gt;, &lt;a href=&quot;https://imageoptim.com/&quot;&gt;ImageOptim&lt;/a&gt; untuk ngurangi ukuran berkas gambar untuk di aplikasi.&lt;/p&gt;
 
-&lt;p&gt;Untuk iseng-isengnya, aplikasi &lt;a href=&quot;https://twitter.com/didats&quot;&gt;Twitter&lt;/a&gt; yang &lt;a href=&quot;https://itunes.apple.com/id/app/twitter/id409789998?mt=12&quot;&gt;resmi&lt;/a&gt;, &lt;a href=&quot;https://www.apple.com/ios/messages/&quot;&gt;iMessage&lt;/a&gt;, &lt;a href=&quot;http://www.google.com/chrome/&quot;&gt;Chrome&lt;/a&gt;, dan &lt;a href=&quot;https://desktop.telegram.org&quot;&gt;Telegram Desktop&lt;/a&gt;.
+&lt;p&gt;Untuk iseng-isengnya, aplikasi &lt;a href=&quot;https://twitter.com/didats&quot;&gt;Twitter&lt;/a&gt; yang &lt;a href=&quot;https://itunes.apple.com/id/app/twitter/id409789998?mt=12&quot;&gt;resmi&lt;/a&gt;, &lt;a href=&quot;https://www.apple.com/ios/messages/&quot;&gt;iMessage&lt;/a&gt;, &lt;a href=&quot;http://www.google.com/chrome/&quot;&gt;Chrome&lt;/a&gt;, dan &lt;a href=&quot;https://desktop.telegram.org&quot;&gt;Telegram Desktop&lt;/a&gt;.&lt;/p&gt;
 &lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
-Puplen 2 biji, kabel charger iPhone, charger Mac, Macbook dengan bungkusan dari skyscanner hasil hackaton 2014 kemarin di Jakarta, HDD Eksternal 1 TB untuk backup &lt;a href=&quot;https://support.apple.com/en-us/HT201250&quot;&gt;TimeMachine&lt;/a&gt; dan iPad Mini. Gak ada yang lain.
+&lt;p&gt;Puplen 2 biji, kabel charger iPhone, charger Mac, Macbook dengan bungkusan dari skyscanner hasil hackaton 2014 kemarin di Jakarta, HDD Eksternal 1 TB untuk backup &lt;a href=&quot;https://support.apple.com/en-us/HT201250&quot;&gt;TimeMachine&lt;/a&gt; dan iPad Mini. Gak ada yang lain.&lt;/p&gt;
 &lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
-&lt;a href=&quot;/images/people/didats/photo_2015-06-15_20-11-05.jpg&quot;&gt;&lt;img src=&quot;/images/people/didats/photo_2015-06-15_20-11-05-575x1024.jpg&quot; alt=&quot;didats iphone 6 homescreen&quot; width=&quot;575&quot; height=&quot;1024&quot; class=&quot;alignnone size-large wp-image-47&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/images/people/didats/photo_2015-06-15_20-11-05.jpg&quot;&gt;&lt;img src=&quot;/images/people/didats/photo_2015-06-15_20-11-05-575x1024.jpg&quot; alt=&quot;didats iphone 6 homescreen&quot; width=&quot;575&quot; height=&quot;1024&quot; class=&quot;alignnone size-large wp-image-47&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Di homescreen ada 3 aplikasi sendiri. &lt;a href=&quot;https://itunes.apple.com/us/app/ibadah/id540869353?mt=8&quot;&gt;Ibadah&lt;/a&gt;, &lt;a href=&quot;https://itunes.apple.com/id/app/prayer-log-log-your-rawatib/id953933637?mt=8&quot;&gt;Prayer Log&lt;/a&gt;, sama &lt;a href=&quot;https://itunes.apple.com/id/app/quranesia-quran-terjemahan/id866235794?mt=8&quot;&gt;Quranesia&lt;/a&gt;. Yang lainnya adalah aplikasi &lt;a href=&quot;https://itunes.apple.com/us/app/nike+-running/id387771637?mt=8&quot;&gt;Nike+&lt;/a&gt; sama &lt;a href=&quot;https://itunes.apple.com/us/app/running-walking-endomondo/id333210180?mt=8&quot;&gt;Endomodo&lt;/a&gt; karena mulai suka lari-lari ga jelas.&lt;/p&gt;
 </content>
