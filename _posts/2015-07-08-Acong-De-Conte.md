@@ -14,25 +14,24 @@ permalink: /acong-de-conte/
 
 ---
 
-<a href="/images/people/acong/1800246_1443806555921488_5940057397846639244_n.jpg"><img src="/images/people/acong/1800246_1443806555921488_5940057397846639244_n.jpg" alt="Acong De conte" width="600" height="400" class="alignnone size-full wp-image-211" /></a>
+![Acong De conte](/images/people/acong/1800246_1443806555921488_5940057397846639244_n.jpg)
 
 
-<h3>Siapa anda dan apa yang anda lakukan?</h3>
-<p>
-nama saya Acong, saya seorang yg hobi dalam komputer. dari umur 14 tahun sudah hobi computer sampai sekarang juga. suka pemograman dan juga suka sesuatu yg baru berbau-bau komputer maupun internet, sangat menyukai tantangan, dan sekarang lebih hobi mencetak interpreneur dan entrepreneur juga.
-</p>
-
-<h3>Hardware yang anda gunakan</h3>
-<p>perangkat yg saya gunakan cuman laptop dengan <a href="https://www.apple.com/sg/macbook-pro/">Macbook Pro</a> dan beberapa PC plus remote dan monitoring pekerjaan saya. untuk komunikasi saya mengunakan handphone Android DGTel dual sim dan juga <a href="http://www.google.com/nexus/5/">Nexus 5</a> untuk oprek2an</p>
-
-<h3>Software yang anda gunakan</h3>
-<p>saya mengunakan banyak apps dan mencoba apps yg sifatnya fungsional, seperti: BBM, <a href="https://www.whatsapp.com/">Whatapp</a>, <a href="https://telegram.org/">Telegram,</a> Grabtaxi, Uber, dan aplikasi yg sejenisnya.
-sekarang lagi iseng-iseng pakai Plex.tv dan juga mainan seedbox untuk torrent dan tentunya pake <a href="http://idws.id/">idws.id</a> yg dulunya berdomain <a href="http://www.indowebster.com/">indowebster.com</a></p>
+### Siapa anda dan apa yang anda lakukan?
+Nama saya Acong, saya seorang yg hobi dalam komputer. dari umur 14 tahun sudah hobi computer sampai sekarang juga. suka pemograman dan juga suka sesuatu yg baru berbau-bau komputer maupun internet, sangat menyukai tantangan, dan sekarang lebih hobi mencetak interpreneur dan entrepreneur juga.
 
 
-<h3>Apa isi tas anda</h3>
-<p>isinya cuman laptop, charger, kartu nama, powerbank, charger, sama kadang-kadang bawa laporan kerja beberapa perusahaan. </p>
+### Hardware yang anda gunakan
+Perangkat yg saya gunakan cuman laptop dengan [Macbook Pro](https://www.apple.com/sg/macbook-pro/) dan beberapa PC plus remote dan monitoring pekerjaan saya. untuk komunikasi saya mengunakan handphone Android DGTel dual sim dan juga [Nexus 5](http://www.google.com/nexus/5/) untuk oprek2an.
+
+### Software yang anda gunakan
+Saya mengunakan banyak apps dan mencoba apps yg sifatnya fungsional, seperti: BBM, [Whatapp](https://www.whatsapp.com/), [Telegram](https://telegram.org/), Grabtaxi, Uber, dan aplikasi yg sejenisnya.
+sekarang lagi iseng-iseng pakai Plex.tv dan juga mainan seedbox untuk torrent dan tentunya pake [idws.id](http://idws.id/) yg dulunya berdomain [indowebster.com](http://www.indowebster.com/).
 
 
-<h3>Smartphone homescreen</h3>
-<a href="/images/people/acong/Screenshot_2015-07-01-06-49-08.png"><img src="/images/people/acong/Screenshot_2015-07-01-06-49-08.png" alt="Acong De conte Homescreen" /></a>
+### Apa isi tas anda
+Isinya cuman laptop, charger, kartu nama, powerbank, charger, sama kadang-kadang bawa laporan kerja beberapa perusahaan.
+
+
+### Smartphone homescreen
+![Acong De conte Homescreen](/images/people/acong/Screenshot_2015-07-01-06-49-08.png)
