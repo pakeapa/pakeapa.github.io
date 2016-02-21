@@ -26,7 +26,7 @@ Layanan Cloud yang saya gunakan ada [Google Drive](https://www.google.com/drive/
 
 
 ### Apa isi tas anda
-What’s in my bag? God, it’s a lot. 
+What's in my bag? God, it’s a lot. 
 
 - Tasnya sendiri adalah Hershel backpack warna hitam untuk laptop 15".
 - MacbookPro Retina 15” & Charger.
@@ -38,7 +38,7 @@ What’s in my bag? God, it’s a lot.
 - [Joby Gorilla Pod](http://joby.com/gorillapod).
 - Usb Sticks & Cables
 - Bank Tokens.
-- [Xiaomi Piston](Xiaomi Piston Earphone).
+- [Xiaomi Piston Earphone](http://www.mi.com/en/headphones/).
 - Business Cards.
 
 
