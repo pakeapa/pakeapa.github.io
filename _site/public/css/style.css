@@ -636,7 +636,7 @@ a.tags {border-bottom: 1px solid #ccc;}
 	display: block;
 	padding-left: 10px;
 }
-
+h3.tags-header{text-decoration: uppercase;}
 /* Related posts */
 .related {
   padding-top: 2rem;
