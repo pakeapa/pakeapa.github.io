@@ -8,6 +8,9 @@ excerpt:
 tags:
 - entrepreneur
 - windows
+- startup
+
+
 category: interview
 permalink: /enda-nasution/
 

@@ -6,6 +6,8 @@ excerpt: <a href="/images/people/didats/didats2.png"><img src="/images/people/di
 tags:
 - interview
 - developer
+- startup
+
 category: interview
 permalink: /didats-triadi/
 

@@ -8,6 +8,8 @@ tags:
 - interview
 - mac
 - film maker
+- startup
+
 category: interview
 permalink: /mandy-marahimin/
 

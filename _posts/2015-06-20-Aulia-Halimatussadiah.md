@@ -7,6 +7,9 @@ excerpt:
 tags:
 - penulis
 - pc
+- startup
+- blogger
+
 category: interview
 permalink: /aulia-halimatussadiah/
 
