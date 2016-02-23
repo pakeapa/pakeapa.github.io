@@ -4,15 +4,32 @@ title: Home
 ---
 
 <div class="posts">
+
+
   {% for post in paginator.posts %}
   <article class="post">
+
     <h1 class="post-title">
       <a href="{{site.baseurl}}{{post.url}}">
         {{ post.title }}
       </a>
     </h1>
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_long_string }}</time>
-    {{ post.excerpt }}
+
+    {% assign foundImage = 0 %}
+    {% assign images = post.content | split:"<img " %}
+    {% for image in images %}
+      {% if image contains 'src' %}
+
+          {% if foundImage == 0 %}
+              {% assign html = image | split:"/>" | first %}
+              <img {{ html }} />
+              {% assign foundImage = 1 %}
+          {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    <h5>{{ post.excerpt }}</h5>
 
     {% capture content_words %}
       {{ post.content | number_of_words }}

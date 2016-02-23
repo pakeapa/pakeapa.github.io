@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Acong De Conte
-excerpt:
-        <a href="/images/people/acong/1800246_1443806555921488_5940057397846639244_n.jpg"><img src="/images/people/acong/1800246_1443806555921488_5940057397846639244_n.jpg" alt="Acong De conte" /></a>
-        <h5>Founder dan CEO <a href="https://www.maxindo.net.id/">Maxindo</a>, Founder <a href="http://www.indowebster.com/">Indowebster.com</a>.</h5>
-
+excerpt: Founder dan CEO <a href="https://www.maxindo.net.id/">Maxindo</a>, Founder <a href="http://www.indowebster.com/">Indowebster.com</a>.
+desc: "Founder dan CEO Maxindo.net.id, Founder Indowebster.com"
+image: '/images/people/acong/1800246_1443806555921488_5940057397846639244_n.jpg'
 tags:
 - entrepreneur
 - mac

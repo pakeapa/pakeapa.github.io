@@ -1,10 +1,9 @@
 ---
 layout: post
 title: John Chendra
-excerpt:
-        <a href="/images/people/jchendra/john.jpg"><img src="/images/people/jchendra/john.jpg" alt="john chendra" /></a>
-        <h5>Coffee Connoisseur di <a href="https://twitter.com/kopiujung">Kopi Ujung</a></h5>
-
+excerpt: Coffee Connoisseur di <a href="https://twitter.com/kopiujung">Kopi Ujung</a>
+desc: "coffee connoisseur, geek residen di Toko Ujung"
+image: '/images/people/jchendra/john.jpg'
 tags:
 - coffee
 - mac

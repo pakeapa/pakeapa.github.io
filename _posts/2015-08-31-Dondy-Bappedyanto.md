@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Dondy Bappedyanto
-excerpt:
-        <a href="/images/people/dondy/dondy-photo3.jpg"><img src="/images/people/dondy/dondy-photo3.jpg" alt="Dondi Bappedyanto"/></a>
-        <h5>CEO <a href="http://infinyscloud.com/">Infinys System Indonesia</a></h5>
-
+excerpt: CEO <a href="http://infinyscloud.com/">Infinys System Indonesia</a>
+desc: "CEO Infinys System Indonesia, CloudKilat"
+image: /images/people/dondy/dondy-photo3.jpg
 tags:
 - mac
 - entrepreneur

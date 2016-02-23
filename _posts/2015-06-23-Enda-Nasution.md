@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Enda Nasution
-excerpt:
-        <a href="/images/people/enda/enda.jpg"><img src="/images/people/enda/enda.jpg" alt="enda nasution" /></a>
-        <h5>Blogger, Founder &amp; co-CEO di <a href="https://sebangsa.com">Sebangsa</a></h5>
+excerpt: Blogger, Founder &amp; co-CEO di <a href="https://sebangsa.com">Sebangsa</a>
+desc: "extraordinaire blogger, entrepreneur dan CO-CEO di Sebangsa.com"
+image: '/images/people/enda/enda.jpg'
 
 tags:
 - entrepreneur

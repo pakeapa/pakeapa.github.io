@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Didats Triadi
-excerpt: <a href="/images/people/didats/didats2.png"><img src="/images/people/didats/didats2.png" alt="didats triadi" /></a>
-         <h5>Developer, Founder <a href="http://rimbunesia.com/">Rimbunesia</a></h5>
+excerpt: Developer, Founder <a href="http://rimbunesia.com/">Rimbunesia</a>
+desc: "Developer, Founder Rimbunesia, web dan mobile app studio"
+image: '/images/people/didats/didats2.png'
 tags:
 - interview
 - developer

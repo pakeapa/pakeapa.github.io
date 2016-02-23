@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Aulia Amalia
-excerpt:
-        <img src="/images/people/aulia/aamalia.jpg" alt="Aulia Amalia" />
-        ##### Product &amp; Development Manager [wego.com](http://www.wego.co.id/)
-
+excerpt: Product &amp; Development Manager <a href="http://www.wego.co.id/">wego.co.id</a>
+desc: "Product Manager di wego.co.id"
+image: '/images/people/aulia/aamalia.jpg'
 tags:
 - developer
 - hardware

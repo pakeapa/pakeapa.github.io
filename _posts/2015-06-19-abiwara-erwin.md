@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Abiwara Erwin
-excerpt:
-        <a href="/images/people/abiwara/850515082_16495424198644762356.jpg"><img src="/images/people/abiwara/850515082_16495424198644762356.jpg" alt="abiwara erwin" /></a>
-        <h5>Motion Graphic Designer dan VFX Compositor di <a href="http://www.orientalpost.com/">Oriental Post Jakarta</a></h5>
-
+excerpt: Motion Graphic Designer dan VFX Compositor di <a href="http://www.orientalpost.com/">Oriental Post Jakarta</a>
+desc: "Motion Graphic Designer, VFX Compositor"
+image: '/images/people/abiwara/850515082_16495424198644762356.jpg'
 tags:
 - animator
 - mac

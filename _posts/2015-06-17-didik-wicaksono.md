@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Didik Wicaksono
-excerpt:
-        <a href="/images/people/didats/didik.jpg"><img src="/images/people/didik/didik.jpg" alt="didik wicaksono"  /></a>
-        <h5>Developer, CTO <a href="https://cookpad.com/id">Cookpad Indonesia</a></h5>
+excerpt: Developer, CTO <a href="https://cookpad.com/id">Cookpad Indonesia</a>
+desc: "CTO Cookpad Indonesia, Situs resep terbaik di Indonesia"
+image: '/images/people/didik/didik.jpg'
 tags:
 - app
 - mac

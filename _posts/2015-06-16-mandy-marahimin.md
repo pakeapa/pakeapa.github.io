@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mandy Marahimin
-excerpt:
-         <a href="/images/people/mandy/20080606000119.jpg"><img src="/images/people/mandy/20080606000119.jpg" alt="Mandy Marahimin"/></a>
-         <h5>Filmmaker, Founder <a href="https://wujudkan.com/">Wujudkan.com</a></h5>
+excerpt: Filmmaker, Founder <a href="https://wujudkan.com/">Wujudkan.com</a>
+desc: "Film Maker, co-founder Wujudkan.com, situs crowdfunding Indonesia"
+image: '/images/people/mandy/20080606000119.jpg'
 tags:
 - interview
 - mac

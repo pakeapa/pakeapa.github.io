@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Soegianto
-excerpt:
-        <a href="/images/people/soegianto/Photo-on-5-16-14-at-2.25-PM-2.jpg"><img src="/images/people/soegianto/Photo-on-5-16-14-at-2.25-PM-2.jpg" alt="Soegianto Cookpad Indonesia"  /></a>
-        <h5>Soegianto, CEO <a href="https://cookpad.com/id">Cookpad Indonesia</a></h5>
-
+excerpt: Soegianto, CEO <a href="https://cookpad.com/id">Cookpad Indonesia</a>
+desc: "CEO Cookpad Indonesia, Situs resep masak terbaik di indonesia"
+image: '/images/people/soegianto/Photo-on-5-16-14-at-2.25-PM-2.jpg'
 tags:
 - entrepreneur
 - mac

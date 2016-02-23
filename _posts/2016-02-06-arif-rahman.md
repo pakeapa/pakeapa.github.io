@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Muhammad Arif Rahman
-excerpt: <img src="/images/people/arif-rahman/arif.jpg" alt="Muhammad Arif Rahman" />
-         <h5>Travel Blogger, <a href="http://www.backpackstory.me/">backpackstory.me</a>.</h5>
-
+excerpt: Travel Blogger, <a href="http://www.backpackstory.me/">backpackstory.me</a>.
+desc: "Travel Blogger, http://backpackstory.me"
+image: '/images/people/arif-rahman/arif.jpg'
 category: interview
 tags: [blogger, traveller, mac]
 permalink: /arif-rahman/

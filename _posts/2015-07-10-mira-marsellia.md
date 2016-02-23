@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Mira Marsellia
-excerpt:
-        <img src="/images/people/mira/photo_2015-07-04_12-44-47-e1435988742176.jpg" alt="Mira Marsellia"  />
-        <h5>Blogger, Petani urban.</h5>
-
+excerpt: Blogger, Petani urban.
+desc: "Blogger, petani urban"
+image: "/images/people/mira/photo_2015-07-04_12-44-47-e1435988742176.jpg"
 tags:
 - blogger
 - mac

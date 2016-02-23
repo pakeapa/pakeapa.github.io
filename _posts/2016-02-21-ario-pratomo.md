@@ -1,16 +1,15 @@
 ---
 layout: post
 title: Ario Pratomo
-excerpt: <img src="/images/people/ario-pratomo/ario.jpg" alt="Ario Pratomo" />
-         <h5>Tech Blogger, <a href="http://sheggario.com/">sheggario.com</a>.</h5>
-
+excerpt: Tech blogger, vlogger <a href="https://sheggario.com">sheggario.com</a>
+desc: "Penggiat social media, tech blogger dan vlogger"
+image: "/images/people/ario-pratomo/ario.jpg"
 category: interview
 tags: [blogger, tech, vlogger]
 permalink: /ario-pratomo/
 ---
 
 ![Ario Pratomo](/images/people/ario-pratomo/ario.jpg)
-
 
 ### Siapa anda dan apa yang anda lakukan?
 Saya [Ario Pratomo](http://sheggario.com), menyambung hidup sebagai pengusaha agen penjualan kargo, sambil mencari passion dengan menulis (tech blogger), membuat [video](https://www.youtube.com/user/sheggario) (vlogger), dan penggiat [social](https://twitter.com/sheggario) [media](https://instagram.com/sheggario). 

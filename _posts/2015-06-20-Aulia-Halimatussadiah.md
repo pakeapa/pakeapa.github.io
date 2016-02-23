@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Aulia Halimatussadiah
-excerpt:
-        <a href="/images/people/ollie/SAM_4816.jpg"><img src="/images/people/ollie/SAM_4816.jpg" alt="Aulia Halimatussadiah, Ollie" /></a>
-        <h5>Penulis, co-founder <a href="http://nulisbuku.com">NulisBuku.com</a> dan <a href="http://Kutukutubuku.com">Kutukutubuku.com</a></h5>
+excerpt: Penulis, co-founder <a href="http://nulisbuku.com">NulisBuku.com</a> dan <a href="http://Kutukutubuku.com">Kutukutubuku.com</a>
+desc: "Penulis, co-founder nulisbuku.com, kutukutubuku.com"
+image: '/images/people/ollie/SAM_4816.jpg'
 tags:
 - penulis
 - pc

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Razi Thalib
-excerpt:
-        <a href="/images/people/razi/Razi-Setipe-Kantor-e1440167036154.jpg"><img class="alignnone size-large wp-image-235" src="/images/people/razi/Razi-Setipe-Kantor-e1440167036154.jpg" alt="Razi Thalib, setipe.com" /></a>
-        <h5>CEO <a href="https://setipe.com/">Setipe.com</a></h5>
+excerpt: CEO <a href="https://setipe.com/">Setipe.com</a>
+desc: "CEO Setipe.com, situs perjodohan terbaik di Indonesia"
+image: "/images/people/razi/Razi-Setipe-Kantor-e1440167036154.jpg"
 
 tags:
 - startup

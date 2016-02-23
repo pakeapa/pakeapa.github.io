@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Andira Pramanta
-excerpt:
-        <a href="/images/people/andira/IMG_2835.jpg"><img src="/images/people/andira/IMG_2835.jpg" alt="Andira Pramanta" /></a>
-        <h5>Designer, broadcaster di 87.6 <a href="http://hardrockfm.com/">HardRockFM</a></h5>
-
+excerpt: Designer, broadcaster di 87.6 <a href="http://hardrockfm.com/">HardRockFM</a>
+desc: "Designer, broadcaster di 87.6 HardRockFM"
+image: /images/people/andira/IMG_2835.jpg
 tags:
 - entrepreneur
 - desainer
