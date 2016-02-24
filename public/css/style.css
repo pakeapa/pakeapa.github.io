@@ -595,7 +595,7 @@ a.tags {border-bottom: 1px solid #ccc;}
   font-weight: normal;
 }
 
-.post img, .page img{width:100%;}
+.post img, .page img{max-width:100%;}
 .post h3, .page h3{
 	font-size: 1.7em;
 	margin-bottom: .5em;

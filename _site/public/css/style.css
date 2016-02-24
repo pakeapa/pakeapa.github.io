@@ -595,7 +595,7 @@ a.tags {border-bottom: 1px solid #ccc;}
   font-weight: normal;
 }
 
-.post img, .page img{width:100%;}
+.post img, .page img{max-width:100%;}
 .post h3, .page h3{
 	font-size: 1.7em;
 	margin-bottom: .5em;
@@ -629,13 +629,7 @@ a.tags {border-bottom: 1px solid #ccc;}
 	/*display: block;*/
 	padding-left: 10px;
 }
-.page ul,
-.page ul li
-{
-	font-size: 1em;
-	display: block;
-	padding-left: 10px;
-}
+
 h3.tags-header{text-decoration: uppercase;}
 /* Related posts */
 .related {
