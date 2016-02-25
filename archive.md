@@ -3,8 +3,11 @@ layout: page
 title: Archive
 ---
 
-### Blog Posts
+##### Blog Posts
+
+{% assign openpar = "<p>" %}
+{% assign closepar = "</p>" %}
 
 {% for post in site.posts %}
-  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+ * {{ post.date | strip_html | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
 {% endfor %}

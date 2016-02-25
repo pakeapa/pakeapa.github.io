@@ -630,6 +630,11 @@ a.tags {border-bottom: 1px solid #ccc;}
 	padding-left: 10px;
 }
 
+.page ul li p
+{
+    display: inline;
+    font-size: 1em;
+}
 h3.tags-header{text-decoration: uppercase;}
 /* Related posts */
 .related {

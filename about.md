@@ -30,4 +30,5 @@ berisi gambar screenshot dan informasi homescreen smartphone, karena biasanya in
 CSS Styling and design using [miligram](https://github.com/milligram/milligram).   
 blog ini terinspirasi oleh [The Setup](http://usesthis.com/) oleh [Daniel Bogan](https://twitter.com/waferbaby).   
 dikurasi oleh [@dedenf](https://twitter.com/dedenf) (dedenf at pakeapa.com).   
-jekyll + github.
+jekyll + github.   
+@pakeapa punya saya juga sih, tapi lupa password dan emailnya apaan :p
