@@ -23,7 +23,7 @@ title: Home
 
           {% if foundImage == 0 %}
               {% assign html = image | split:"/>" | first %}
-              <img {{ html }} />
+              <figure><img {{ html }} /></figure>
               {% assign foundImage = 1 %}
           {% endif %}
       {% endif %}
