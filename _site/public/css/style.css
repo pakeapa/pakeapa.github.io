@@ -635,6 +635,11 @@ a.tags {border-bottom: 1px solid #ccc;}
     display: inline;
     font-size: 1em;
 }
+
+.post figure, .page figure {
+    margin:0;
+}
+
 h3.tags-header{text-decoration: uppercase;}
 /* Related posts */
 .related {
