@@ -7,6 +7,8 @@ image: "/images/people/ario-pratomo/ario.jpg"
 category: interview
 tags: [blogger, tech, vlogger]
 permalink: /ario-pratomo/
+publishDate: "2016-02-21"
+
 ---
 
 ![Ario Pratomo](/images/people/ario-pratomo/ario.jpg)

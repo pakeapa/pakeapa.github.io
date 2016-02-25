@@ -10,6 +10,7 @@ tags:
 - mac
 category: interview
 permalink: /aulia-amalia/
+publishDate: "2015-08-25"
 
 ---
 

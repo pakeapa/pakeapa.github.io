@@ -13,6 +13,7 @@ tags:
 
 category: interview
 permalink: /enda-nasution/
+publishDate: "2015-07-02"
 
 ---
 

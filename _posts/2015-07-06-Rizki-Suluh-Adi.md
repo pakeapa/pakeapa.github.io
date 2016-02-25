@@ -10,6 +10,7 @@ tags:
 - mac
 category: interview
 permalink: /rizki-suluh-adi/
+publishDate: "2015-07-06"
 
 ---
 

@@ -11,7 +11,7 @@ tags:
 
 category: interview
 permalink: /didats-triadi/
-
+publishDate: "2015-05-15"
 ---
 
 ![Didats Triadi](/images/people/didats/didats2.png)

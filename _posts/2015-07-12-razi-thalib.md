@@ -11,6 +11,7 @@ tags:
 - entrepreneur
 category: interview
 permalink: /razi-thalib/
+publishDate: "2015-07-12"
 
 ---
 

@@ -3,10 +3,11 @@ layout: post
 title: Bisri Mustova
 excerpt: Designer, Illustrator, Motion Graphic <a href="http://mustova.com/">mustova.com</a>, <a href="http://parampaa.net/">parampaa.net</a>
 desc: "Freelance, creative consultant. Menggarap desain, ilustrasi, komik dan belakangan motion graphic. Mengurus mustova.com, parampaa.net, h2o.kolamkomik.com dan kanal youtube Chuba TV"
-image: "/images/bisri-mustova/masova.jpg"
+image: "/images/people/bisri-mustova/masova.jpg"
 category: interview
 tags: [illustrator, blogger, vlogger]
-permalink: /bisri-mustova/
+permalink: "/bisri-mustova/"
+publishDate: "2016-02-25"
 ---
 
 ![Bisri Mustova]({{ site.url }}/images/people/bisri-mustova/masova.jpg)

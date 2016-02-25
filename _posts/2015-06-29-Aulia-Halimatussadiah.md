@@ -12,6 +12,7 @@ tags:
 
 category: interview
 permalink: /aulia-halimatussadiah/
+publishDate: "2015-06-29"
 
 ---
 

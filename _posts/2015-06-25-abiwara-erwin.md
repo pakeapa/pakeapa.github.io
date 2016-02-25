@@ -12,6 +12,7 @@ tags:
 - illustrator
 category: interview
 permalink: /abiwara-erwin/
+publishDate: "2015-06-25"
 
 ---
 

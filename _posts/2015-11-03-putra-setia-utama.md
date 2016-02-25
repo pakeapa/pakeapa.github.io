@@ -7,6 +7,7 @@ image: /images/people/putra/putra2.png
 category: interview
 tags: [jurnalis, mac, developer]
 permalink: /putra-setia-utama/
+publishDate: "2015-11-03"
 
 ---
 

@@ -11,6 +11,7 @@ tags:
 
 category: interview
 permalink: /soegianto/
+publishDate: "2015-07-13"
 
 ---
 

@@ -12,6 +12,7 @@ tags:
 - interview
 category: interview
 permalink: /didik-wicaksono/
+publishDate: "2015-06-22"
 
 ---
 

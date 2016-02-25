@@ -9,6 +9,7 @@ tags:
 - mac
 category: interview
 permalink: /john-chendra/
+publishDate: "2015-07-02"
 
 ---
 

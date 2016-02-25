@@ -7,6 +7,8 @@ image: '/images/people/arif-rahman/arif.jpg'
 category: interview
 tags: [blogger, traveller, mac]
 permalink: /arif-rahman/
+publishDate: "2016-02-06"
+
 ---
 
 ![Muhammad Arif Rahman](/images/people/arif-rahman/arif.jpg)

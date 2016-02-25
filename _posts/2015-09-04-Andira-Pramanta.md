@@ -10,6 +10,7 @@ tags:
 - film maker
 category: interview
 permalink: /andira-pramanta/
+publishDate: "2015-09-04"
 ---
 
 ![Andira Pramanta](/images/people/andira/IMG_2835.jpg)
