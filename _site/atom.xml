@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Pakeapa</title>
- <link href="http://pakeapa.com/atom.xml" rel="self"/>
- <link href="http://pakeapa.com/"/>
- <updated>2016-02-25T18:34:57+07:00</updated>
- <id>http://pakeapa.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2018-08-15T20:07:22+07:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
@@ -13,11 +13,86 @@
 
  
  <entry>
+   <title>Endy Muhardin</title>
+   <link href="http://localhost:4000/endy-muhardin/"/>
+   <updated>2018-08-15T00:00:00+07:00</updated>
+   <id>http://localhost:4000/endy-muhardin</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/people/endy-muhardin/endy-bdg.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/people/endy-muhardin/endy-muhardin-small.jpg&quot; alt=&quot;Endy Muhardin&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
+&lt;p&gt;Founder/ CEO/ Senior Consultant di &lt;a href=&quot;https://artivisi.com&quot;&gt;ArtiVisi Intermedia&lt;/a&gt;, perusahaan software development, consulting, &amp;amp; training di Jakarta. Bantu-bantu juga di kampus Tazkia Sentul City bikin aplikasi, setting wifi, dan kadang setting proyektor juga.&lt;/p&gt;
+
+&lt;p&gt;Sehari-hari diisi dengan coding, meeting, training, coaching, dan kadang-kadang vlogging. Kalau sedang tidak di depan laptop, bisa ditemui sedang foto-foto street photography di seputaran pedestrian KRB atau menyiksa sepeda di tanjakan &lt;a href=&quot;https://goo.gl/maps/A3nM9SCWLU42&quot;&gt;Gunung Pancar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;hardware-yang-anda-gunakan&quot;&gt;Hardware yang anda gunakan?&lt;/h3&gt;
+&lt;p&gt;Coding dan komputasi menggunakan &lt;a href=&quot;https://support.apple.com/kb/SP713?locale=en_US&quot;&gt;Macbook Air 11” Early 2015&lt;/a&gt; + &lt;a href=&quot;https://www.sandisk.com/home/usb-flash/ultra-fit-usb&quot;&gt;SanDisk UltraFit 128GB&lt;/a&gt; untuk penyimpanan external, untuk komunikasi menggunakan &lt;a href=&quot;https://www.apple.com/sg/iphone-se/&quot;&gt;iPhone SE&lt;/a&gt;, &lt;a href=&quot;https://us-store.wacom.com/Product/intuos-pen-touch-small#/undefined1&quot;&gt;Wacom Intuos CTH480&lt;/a&gt;, &lt;a href=&quot;https://www.jabra.com/music/jabra-move-wireless?v2=1&quot;&gt;Jabra Move Wireless&lt;/a&gt;, &lt;a href=&quot;https://www.nikonusa.com/en/nikon-products/product/dslr-cameras/d5600.html&quot;&gt;Nikon D5600&lt;/a&gt;, &lt;a href=&quot;http://sea.audio-technica.com/products/microphones/wireless-systems/wireless/system-10/system-10&quot;&gt;Audio Technica System 10 Wireless Lav Mic&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;software-yang-anda-gunakan&quot;&gt;Software yang anda gunakan?&lt;/h3&gt;
+&lt;p&gt;Coding :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://netbeans.org/&quot;&gt;Netbeans&lt;/a&gt; (untuk ngajar)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/idea/&quot;&gt;Intellij IDEA&lt;/a&gt; (untuk kerjaan kampus)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;Visual Studio Code&lt;/a&gt; (untuk kerjaan project)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Terminal_(macOS)&quot;&gt;Terminal.app&lt;/a&gt; (untuk remote server, akses database, upload/download file, dsb)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://git-scm.com/&quot;&gt;Git&lt;/a&gt; via command line&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Multimedia Editing:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://support.apple.com/downloads/quicktime&quot;&gt;Quicktime Player&lt;/a&gt; (untuk rekam screencast)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/imovie/&quot;&gt;iMovie&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://snapbridge.nikon.com/&quot;&gt;Nikon Snapbridge&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Snapseed&quot;&gt;Snapseed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Document &amp;amp; Files&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.com/docs/about/&quot;&gt;Google Docs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/&quot;&gt;Dropbox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sports Related&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.endomondo.com/&quot;&gt;Endomondo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.strava.com/&quot;&gt;Strava&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Everything else&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.com/chrome/&quot;&gt;Google Chrome&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sketchbook.com/&quot;&gt;Autodesk Sketchbook&lt;/a&gt; (untuk gambar-gambar waktu lagi ngamen)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;apa-isi-tas-anda&quot;&gt;Apa isi tas anda?&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/people/endy-muhardin/endy-bags-small.jpg&quot; alt=&quot;Endy Muhardin what's in his bag&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tas &lt;a href=&quot;https://eigeradventure.com/&quot;&gt;Eiger Path Series 12L&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Pocketable Mushaf&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://support.apple.com/kb/SP713?locale=en_US&quot;&gt;Macbook Air 11” Early 2015&lt;/a&gt; + Charger&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kleankanteen.com.au/collections/insulated-bottles&quot;&gt;Klean Kanteen Insulated 355 ml&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kabel Rol&lt;/li&gt;
+  &lt;li&gt;Stationery&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.anker.com/products/variant/powerport-ii-2/A2027121&quot;&gt;Anker PowerPort 2 Charger&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nikonusa.com/en/nikon-products/product/dslr-cameras/d5600.html&quot;&gt;Nikon D5600&lt;/a&gt; + AF-P 15-55 + AF-P 70-300&lt;/li&gt;
+  &lt;li&gt;Bike to work extras&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.lezyne.com/product-hpumps-hv-microfldrhvg.php&quot;&gt;Lezyne Micro Floor Drive HPG Pump&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.topeak.com/global/de/products/mini-tools/769-tool-monster&quot;&gt;Topeak Tool Monster&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Spare Tube&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;smartphone-homescreen&quot;&gt;Smartphone homescreen&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/people/endy-muhardin/endy-homescreen.jpeg&quot; alt=&quot;Endy Muhardin Homescreen&quot; /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>Bisri Mustova</title>
-   <link href="http://pakeapa.com/bisri-mustova/"/>
+   <link href="http://localhost:4000/bisri-mustova/"/>
    <updated>2016-02-25T00:00:00+07:00</updated>
-   <id>http://pakeapa.com/bisri-mustova</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://pakeapa.com/images/people/bisri-mustova/masova.jpg&quot; alt=&quot;Bisri Mustova&quot; /&gt;&lt;/p&gt;
+   <id>http://localhost:4000/bisri-mustova</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/people/bisri-mustova/masova.jpg&quot; alt=&quot;Bisri Mustova&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
 &lt;p&gt;Nama saya Bisri Mustova tapi biasa dipanggil &lt;a href=&quot;https://twitter.com/Masova&quot;&gt;Masova&lt;/a&gt;. Sehari-hari ngasih makan kucing, main game dan baca manga. Bekerja kalau sempet saja. Freelance, creative consultant. Menggarap desain, ilustrasi, komik dan belakangan motion graphic. Mengurus &lt;a href=&quot;http://mustova.com/&quot;&gt;mustova.com&lt;/a&gt;, &lt;a href=&quot;http://parampaa.net/&quot;&gt;parampaa.net&lt;/a&gt;, &lt;a href=&quot;http://h2o.kolamkomik.com/&quot;&gt;h2o.kolamkomik.com&lt;/a&gt; dan kanal youtube &lt;a href=&quot;https://www.youtube.com/channel/UCfj6hwy5mw_MxqsYuQk7pdw&quot;&gt;Chuba TV&lt;/a&gt;.&lt;/p&gt;
@@ -71,15 +146,15 @@ Game-game iOS keren macem &lt;a href=&quot;http://www.monumentvalleygame.com/&qu
 &lt;p&gt;Benda yang selalu dibawa-bawa itu: dompet (gak dikantongin karena mengganjal pantat), sketchbook, buku atau komik, iPad, kamera dan lensa, roll pen case dari Saki Collection, earphone Mi Piston 3 atau Philips XT2 (tergantung mana yang terjangkau tangan saat itu), adapter charger iPad tapi dipake buat iPhone, power bank (lebih sering dipinjem sama pacar), Fisherman Friend rasa lemon, nota dan bon random yang entah dari tahun kapan, botol air mineral dan barang belanjaan ringan.&lt;/p&gt;
 
 &lt;h3 id=&quot;smartphone-homescreen&quot;&gt;Smartphone homescreen&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://pakeapa.com/images/people/bisri-mustova/hs-masova.jpg&quot; alt=&quot;Bisri Mustova&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/people/bisri-mustova/hs-masova.jpg&quot; alt=&quot;Bisri Mustova&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Ario Pratomo</title>
-   <link href="http://pakeapa.com/ario-pratomo/"/>
+   <link href="http://localhost:4000/ario-pratomo/"/>
    <updated>2016-02-21T00:00:00+07:00</updated>
-   <id>http://pakeapa.com/ario-pratomo</id>
+   <id>http://localhost:4000/ario-pratomo</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/ario-pratomo/ario.jpg&quot; alt=&quot;Ario Pratomo&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
@@ -128,9 +203,9 @@ Dan puluhan aplikasi di smartphone yang kalau disebutkan satu-satu mungkin akan 
  
  <entry>
    <title>Muhammad Arif Rahman</title>
-   <link href="http://pakeapa.com/arif-rahman/"/>
+   <link href="http://localhost:4000/arif-rahman/"/>
    <updated>2016-02-06T00:00:00+07:00</updated>
-   <id>http://pakeapa.com/arif-rahman</id>
+   <id>http://localhost:4000/arif-rahman</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/arif-rahman/arif.jpg&quot; alt=&quot;Muhammad Arif Rahman&quot; /&gt;
 &lt;!--more--&gt;&lt;/p&gt;
 
@@ -164,9 +239,9 @@ Dan puluhan aplikasi di smartphone yang kalau disebutkan satu-satu mungkin akan 
  
  <entry>
    <title>Putra Setia Utama</title>
-   <link href="http://pakeapa.com/putra-setia-utama/"/>
+   <link href="http://localhost:4000/putra-setia-utama/"/>
    <updated>2015-11-03T00:00:00+07:00</updated>
-   <id>http://pakeapa.com/putra-setia-utama</id>
+   <id>http://localhost:4000/putra-setia-utama</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/putra/putra2.png&quot; alt=&quot;Putra Setia Utama&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
@@ -194,9 +269,9 @@ Dan puluhan aplikasi di smartphone yang kalau disebutkan satu-satu mungkin akan 
  
  <entry>
    <title>Andira Pramanta</title>
-   <link href="http://pakeapa.com/andira-pramanta/"/>
+   <link href="http://localhost:4000/andira-pramanta/"/>
    <updated>2015-09-04T00:00:00+07:00</updated>
-   <id>http://pakeapa.com/Andira-Pramanta</id>
+   <id>http://localhost:4000/Andira-Pramanta</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/andira/IMG_2835.jpg&quot; alt=&quot;Andira Pramanta&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
@@ -219,9 +294,9 @@ Dan puluhan aplikasi di smartphone yang kalau disebutkan satu-satu mungkin akan 
  
  <entry>
    <title>Dondy Bappedyanto</title>
-   <link href="http://pakeapa.com/dondy-bappedyanto/"/>
+   <link href="http://localhost:4000/dondy-bappedyanto/"/>
    <updated>2015-08-31T00:00:00+07:00</updated>
-   <id>http://pakeapa.com/Dondy-Bappedyanto</id>
+   <id>http://localhost:4000/Dondy-Bappedyanto</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/dondy/dondy-photo3.jpg&quot; alt=&quot;Dondi Bappedyanto&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
@@ -252,9 +327,9 @@ Dan puluhan aplikasi di smartphone yang kalau disebutkan satu-satu mungkin akan 
  
  <entry>
    <title>Aulia Amalia</title>
-   <link href="http://pakeapa.com/aulia-amalia/"/>
+   <link href="http://localhost:4000/aulia-amalia/"/>
    <updated>2015-08-25T00:00:00+07:00</updated>
-   <id>http://pakeapa.com/aulia-amalia</id>
+   <id>http://localhost:4000/aulia-amalia</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/aulia/aamalia.jpg&quot; alt=&quot;Aulia Amalia&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
@@ -304,9 +379,9 @@ Dan lagi seru banget sekarang main &lt;a href=&quot;https://itunes.apple.com/id/
  
  <entry>
    <title>Soegianto</title>
-   <link href="http://pakeapa.com/soegianto/"/>
+   <link href="http://localhost:4000/soegianto/"/>
    <updated>2015-07-13T00:00:00+07:00</updated>
-   <id>http://pakeapa.com/soegianto</id>
+   <id>http://localhost:4000/soegianto</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/soegianto/Photo-on-5-16-14-at-2.25-PM-2.jpg&quot; alt=&quot;Soegianto Cookpad Indonesia&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
@@ -330,9 +405,9 @@ Dan lagi seru banget sekarang main &lt;a href=&quot;https://itunes.apple.com/id/
  
  <entry>
    <title>Razi Thalib</title>
-   <link href="http://pakeapa.com/razi-thalib/"/>
+   <link href="http://localhost:4000/razi-thalib/"/>
    <updated>2015-07-12T00:00:00+07:00</updated>
-   <id>http://pakeapa.com/razi-thalib</id>
+   <id>http://localhost:4000/razi-thalib</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/razi/Razi-Setipe-Kantor-e1440167036154.jpg&quot; alt=&quot;Razi Thalib, setipe.com&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
@@ -352,13 +427,15 @@ Dan lagi seru banget sekarang main &lt;a href=&quot;https://itunes.apple.com/id/
 &lt;p&gt;Yang sering saya pakai sehari-hari: &lt;a href=&quot;https://www.whatsapp.com/&quot;&gt;WhatsApp&lt;/a&gt;, &lt;a href=&quot;https://telegram.org/&quot;&gt;Telegram&lt;/a&gt;, &lt;a href=&quot;http://slack.com/&quot;&gt;Slack&lt;/a&gt;, &lt;a href=&quot;http://gmail.com/&quot;&gt;Gmail&lt;/a&gt;, MS Office, Photoshop, &lt;a href=&quot;https://balsamiq.com/&quot;&gt;Balsamiq&lt;/a&gt;, Google Maps/Drive/Chrome, Dropbox, &lt;a href=&quot;http://www.go-jek.com/&quot;&gt;Go-Jek&lt;/a&gt;, Twitter, Facebook, Instagram dan nggak lama lagi Setipe.com Android app!&lt;/p&gt;
 
 &lt;h3 id=&quot;apa-isi-tas-anda&quot;&gt;Apa isi tas anda&lt;/h3&gt;
-&lt;p&gt;Saya sekarang pakai tas sling bag dari &lt;a href=&quot;http://bro.do/en/&quot;&gt;Brodo&lt;/a&gt; warna coklat dan isinya
-- Laptop.
-- Charger laptop dan HP.
-- Wireless mouse.
-- Earphone beats.
-- 1 buku yang lagi saya baca bulan ini.
-- Kumpulan catatan-catatan ide di kertas.&lt;/p&gt;
+&lt;p&gt;Saya sekarang pakai tas sling bag dari &lt;a href=&quot;http://bro.do/en/&quot;&gt;Brodo&lt;/a&gt; warna coklat dan isinya&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Laptop.&lt;/li&gt;
+  &lt;li&gt;Charger laptop dan HP.&lt;/li&gt;
+  &lt;li&gt;Wireless mouse.&lt;/li&gt;
+  &lt;li&gt;Earphone beats.&lt;/li&gt;
+  &lt;li&gt;1 buku yang lagi saya baca bulan ini.&lt;/li&gt;
+  &lt;li&gt;Kumpulan catatan-catatan ide di kertas.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;smartphone-homescreen&quot;&gt;Smartphone homescreen&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/images/people/razi/Screenshot_2015-08-21-14-48-04.jpg&quot; alt=&quot;razi homescreen&quot; /&gt;&lt;/p&gt;
@@ -367,9 +444,9 @@ Dan lagi seru banget sekarang main &lt;a href=&quot;https://itunes.apple.com/id/
  
  <entry>
    <title>Mira Marsellia</title>
-   <link href="http://pakeapa.com/mira-marsellia/"/>
+   <link href="http://localhost:4000/mira-marsellia/"/>
    <updated>2015-07-10T00:00:00+07:00</updated>
-   <id>http://pakeapa.com/mira-marsellia</id>
+   <id>http://localhost:4000/mira-marsellia</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/mira/photo_2015-07-04_12-44-47-e1435988742176.jpg&quot; alt=&quot;Mira Marsellia&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
@@ -403,9 +480,9 @@ Aplikasi sosmed sehari-hari: &lt;a href=&quot;https://telegram.org/&quot;&gt;Tel
  
  <entry>
    <title>Dian Ina</title>
-   <link href="http://pakeapa.com/dian-ina/"/>
+   <link href="http://localhost:4000/dian-ina/"/>
    <updated>2015-07-09T00:00:00+07:00</updated>
-   <id>http://pakeapa.com/dian-ina</id>
+   <id>http://localhost:4000/dian-ina</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/dianina/dian_ina_guggenheim.jpg&quot; alt=&quot;Dian Ina&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
@@ -437,9 +514,9 @@ Permen Fisherman’s Friends, Buku yang sedang dibaca&lt;/p&gt;
  
  <entry>
    <title>Acong De Conte</title>
-   <link href="http://pakeapa.com/acong-de-conte/"/>
+   <link href="http://localhost:4000/acong-de-conte/"/>
    <updated>2015-07-08T00:00:00+07:00</updated>
-   <id>http://pakeapa.com/Acong-De-Conte</id>
+   <id>http://localhost:4000/Acong-De-Conte</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/acong/1800246_1443806555921488_5940057397846639244_n.jpg&quot; alt=&quot;Acong De conte&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
@@ -462,9 +539,9 @@ sekarang lagi iseng-iseng pakai Plex.tv dan juga mainan seedbox untuk torrent da
  
  <entry>
    <title>Rizki Suluh Adi</title>
-   <link href="http://pakeapa.com/rizki-suluh-adi/"/>
+   <link href="http://localhost:4000/rizki-suluh-adi/"/>
    <updated>2015-07-06T00:00:00+07:00</updated>
-   <id>http://pakeapa.com/Rizki-Suluh-Adi</id>
+   <id>http://localhost:4000/Rizki-Suluh-Adi</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/rizki/rizki.jpg&quot; alt=&quot;Rizki Suluh adi&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
@@ -497,9 +574,9 @@ eh ada xiaomi redmi 1s nih dalam tas, isinya cuma emulator &lt;a href=&quot;http
  
  <entry>
    <title>John Chendra</title>
-   <link href="http://pakeapa.com/john-chendra/"/>
+   <link href="http://localhost:4000/john-chendra/"/>
    <updated>2015-07-02T00:00:00+07:00</updated>
-   <id>http://pakeapa.com/John-Chendra</id>
+   <id>http://localhost:4000/John-Chendra</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/jchendra/john.jpg&quot; alt=&quot;John Chendra&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
@@ -536,9 +613,9 @@ eh ada xiaomi redmi 1s nih dalam tas, isinya cuma emulator &lt;a href=&quot;http
  
  <entry>
    <title>Enda Nasution</title>
-   <link href="http://pakeapa.com/enda-nasution/"/>
+   <link href="http://localhost:4000/enda-nasution/"/>
    <updated>2015-07-02T00:00:00+07:00</updated>
-   <id>http://pakeapa.com/Enda-Nasution</id>
+   <id>http://localhost:4000/Enda-Nasution</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/enda/enda.jpg&quot; alt=&quot;Enda Nasution&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan&lt;/h3&gt;
@@ -562,9 +639,9 @@ eh ada xiaomi redmi 1s nih dalam tas, isinya cuma emulator &lt;a href=&quot;http
  
  <entry>
    <title>Aulia Halimatussadiah</title>
-   <link href="http://pakeapa.com/aulia-halimatussadiah/"/>
+   <link href="http://localhost:4000/aulia-halimatussadiah/"/>
    <updated>2015-06-29T00:00:00+07:00</updated>
-   <id>http://pakeapa.com/Aulia-Halimatussadiah</id>
+   <id>http://localhost:4000/Aulia-Halimatussadiah</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/ollie/SAM_4816.jpg&quot; alt=&quot;Aulia Halimatussadiah, Ollie&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
@@ -590,9 +667,9 @@ Untuk chatting saya menggunakan &lt;a href=&quot;https://www.whatsapp.com/&quot;
  
  <entry>
    <title>Abiwara Erwin</title>
-   <link href="http://pakeapa.com/abiwara-erwin/"/>
+   <link href="http://localhost:4000/abiwara-erwin/"/>
    <updated>2015-06-25T00:00:00+07:00</updated>
-   <id>http://pakeapa.com/abiwara-erwin</id>
+   <id>http://localhost:4000/abiwara-erwin</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/abiwara/850515082_16495424198644762356.jpg&quot; alt=&quot;Abiwara Erwin&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
@@ -642,9 +719,9 @@ perlengkapan Mandi: sabun cair, handuk kecil, pasta gigi dan sikat gigi. Charger
  
  <entry>
    <title>Didik Wicaksono</title>
-   <link href="http://pakeapa.com/didik-wicaksono/"/>
+   <link href="http://localhost:4000/didik-wicaksono/"/>
    <updated>2015-06-22T00:00:00+07:00</updated>
-   <id>http://pakeapa.com/didik-wicaksono</id>
+   <id>http://localhost:4000/didik-wicaksono</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/didik/didik.jpg&quot; alt=&quot;Didik Wicaksono&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
@@ -673,9 +750,9 @@ Liat meetup pakai &lt;a href=&quot;http://www.meetup.com/&quot;&gt;Meetup&lt;/a&
  
  <entry>
    <title>Mandy Marahimin</title>
-   <link href="http://pakeapa.com/mandy-marahimin/"/>
+   <link href="http://localhost:4000/mandy-marahimin/"/>
    <updated>2015-06-18T00:00:00+07:00</updated>
-   <id>http://pakeapa.com/mandy-marahimin</id>
+   <id>http://localhost:4000/mandy-marahimin</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/mandy/20080606000119.jpg&quot; alt=&quot;Mandy Marahimin&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
@@ -703,9 +780,9 @@ Saat ini sedang menyiapkan produksi sebuah film layar lebar (ini yg jangka panja
  
  <entry>
    <title>Didats Triadi</title>
-   <link href="http://pakeapa.com/didats-triadi/"/>
+   <link href="http://localhost:4000/didats-triadi/"/>
    <updated>2015-05-15T00:00:00+07:00</updated>
-   <id>http://pakeapa.com/Didats-Triadi</id>
+   <id>http://localhost:4000/Didats-Triadi</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/people/didats/didats2.png&quot; alt=&quot;Didats Triadi&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
