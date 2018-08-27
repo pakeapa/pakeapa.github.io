@@ -39,4 +39,4 @@ Untuk meeting dan interview saya memilih menggunakan pen and paper, menggunakan 
 - [Kokuyo pen case](https://www.amazon.com/gp/product/B000NNNRVI/)
 
 ### Smartphone homescreen 
-[![homescreen](/images/people/michel-alexandre-salim/homescreen-michel.png)](/images/people/michel-alexandre-salim/homescreen-michel.png)
+[![homescreen](/images/people/michel-alexandre-salim/homescreen-michel-small.jpg)](/images/people/michel-alexandre-salim/homescreen-michel.png)
