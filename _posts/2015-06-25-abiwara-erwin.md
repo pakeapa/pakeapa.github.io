@@ -8,7 +8,6 @@ tags:
 - animator
 - mac
 - graphic design
-- interview
 - illustrator
 category: interview
 permalink: /abiwara-erwin/

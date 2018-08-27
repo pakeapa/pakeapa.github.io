@@ -4,13 +4,55 @@
  <title>Pakeapa</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-08-15T20:07:22+07:00</updated>
+ <updated>2018-08-27T20:28:21+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Michel Alexandre Salim</title>
+   <link href="http://localhost:4000/michel-alexandre-salim/"/>
+   <updated>2018-08-27T00:00:00+07:00</updated>
+   <id>http://localhost:4000/michel-salim</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;/images/people/michel-alexandre-salim/michel-alexandre-salim.jpg&quot;&gt;&lt;img src=&quot;/images/people/michel-alexandre-salim/michel-alexandre-salim.jpg&quot; alt=&quot;Michel Alexandre Salim&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;siapa-anda-dan-apa-yang-anda-lakukan&quot;&gt;Siapa anda dan apa yang anda lakukan?&lt;/h3&gt;
+&lt;p&gt;Saya &lt;a href=&quot;https://michel-slm.name/&quot;&gt;Michel Alexandre Salim&lt;/a&gt;, seorang &lt;a href=&quot;https://www.facebook.com/careers/jobs/a0I1H00000MoPiQUAV/&quot;&gt;Production Engineer&lt;/a&gt; di Facebook. Role ini cukup unik, perpaduan dari &lt;em&gt;software engineering&lt;/em&gt; dan &lt;em&gt;systems engineering&lt;/em&gt; dengan fokus ke skalabilitas dan keandalan. Sebelum di Facebook, saya bekerja di &lt;a href=&quot;https://www.traveloka.com/en/careers&quot;&gt;Traveloka&lt;/a&gt;, berfokus pada developer infrastructure dan cloud infrastructure.&lt;/p&gt;
+
+&lt;p&gt;Di luar pekerjaan sehari-hari, saya telah menjadi kontributor &lt;a href=&quot;https://getfedora.org/&quot;&gt;Fedora&lt;/a&gt; (distribusi Linux yang menjadi basis untuk Red Hat Enterprise Linux dan CentOS) sejak 2004, terutama sebagai &lt;a href=&quot;https://fedoraproject.org/wiki/Join_the_package_collection_maintainers&quot;&gt;&lt;em&gt;package maintainer&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;hardware-yang-anda-gunakan&quot;&gt;Hardware yang anda gunakan?&lt;/h3&gt;
+&lt;p&gt;Sehari-hari  saya menggunakan &lt;a href=&quot;https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-t-series/c/thinkpadt&quot;&gt;Lenovo Thinkpad T-series&lt;/a&gt; dan &lt;a href=&quot;https://en.wikipedia.org/wiki/Dell_XPS&quot;&gt;Dell XPS&lt;/a&gt; 13, keduanya menjalankan &lt;a href=&quot;https://getfedora.org/&quot;&gt;Fedora&lt;/a&gt;. Sebagai penggemar &lt;a href=&quot;https://en.wikipedia.org/wiki/Keyboard_technology#Mechanical-switch_keyboard&quot;&gt;mechanical keyboard&lt;/a&gt;, sekarang saya menggunakan &lt;a href=&quot;https://aziocorp.com/products/retro-classic-bt?variant=10731896602667&quot;&gt;Azio Retro Classic BT&lt;/a&gt; mechanical keyboard, dipadukan dengan &lt;a href=&quot;https://evoluent.com/products/vm4r/&quot;&gt;Evoluent Vertical Mouse&lt;/a&gt; (untuk mengurangi RSI) dan &lt;a href=&quot;https://www.microsoft.com/accessories/en-us/products/mice/arc-touch-mouse/rvf-00052&quot;&gt;Microsoft Arc Touch&lt;/a&gt; mouse dalam perjalanan, karena bisa dilipat.&lt;/p&gt;
+
+&lt;p&gt;Untuk meeting dan interview saya memilih menggunakan pen and paper, menggunakan pen rollerball &lt;a href=&quot;https://www.amazon.com/gp/product/B00140T52Y/&quot;&gt;Lamy Safari&lt;/a&gt; rollerball pen dan &lt;a href=&quot;https://getrocketbook.com/collections/all-products/products/rocketbook-one&quot;&gt;Rocketbook One&lt;/a&gt; smart notebook untuk mempermudah digitisasi hasil catatan. Smartphone pribadi saya Moto x4 (edisi Android One), pengganti &lt;a href=&quot;https://en.wikipedia.org/wiki/Nexus_6P&quot;&gt;Nexus 6P&lt;/a&gt; yang rusak selagi menunggu ada Pixel yang bezelnya tipis.&lt;/p&gt;
+
+&lt;h3 id=&quot;software-yang-anda-gunakan&quot;&gt;Software yang anda gunakan?&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Linux distribution: Fedora&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ide.atom.io/&quot;&gt;Atom IDE&lt;/a&gt; + &lt;a href=&quot;https://nuclide.io/&quot;&gt;Nuclide&lt;/a&gt;, &lt;a href=&quot;https://www.gnu.org/software/emacs/&quot;&gt;Emacs&lt;/a&gt; + &lt;a href=&quot;http://spacemacs.org/&quot;&gt;Spacemacs&lt;/a&gt;, &lt;a href=&quot;https://neovim.io/&quot;&gt;Neovim&lt;/a&gt; untuk coding&lt;/li&gt;
+  &lt;li&gt;Chrome &amp;amp; Firefox&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://todoist.com/&quot;&gt;Todoist&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://kanban.ist/&quot;&gt;Kanban.ist&lt;/a&gt; sebagai todo planner&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mosh.org/&quot;&gt;mosh&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://mistertea.github.io/EternalTerminal/&quot;&gt;Eternal Terminal&lt;/a&gt;, &lt;a href=&quot;https://www.zsh.org/&quot;&gt;Zsh&lt;/a&gt; shell&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hexchat.github.io/&quot;&gt;HexChat&lt;/a&gt; untuk IRC, Franz sebagai portal untuk messaging apps,  Work Chat, Messenger, WhatsApp, Telegram&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;apa-isi-tas-anda&quot;&gt;Apa isi tas anda?&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;tas &lt;a href=&quot;https://www.nomatic.com/pages/nomatic-backpack&quot;&gt;Nomatic Travel Pack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-t-series/ThinkPad-T480/p/22TP2TT4800&quot;&gt;ThinkPad T480s&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kindle Oasis ebook reader&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thetileapp.com/en-us/products/sport&quot;&gt;Tile Sport&lt;/a&gt; tracker&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.microsoft.com/accessories/en-us/products/mice/arc-touch-mouse/rvf-00052&quot;&gt;Microsoft Arc Touch mouse&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B000NNNRVI/&quot;&gt;Kokuyo pen case&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;smartphone-homescreen&quot;&gt;Smartphone homescreen&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;/images/people/michel-alexandre-salim/homescreen-michel.png&quot;&gt;&lt;img src=&quot;/images/people/michel-alexandre-salim/homescreen-michel.png&quot; alt=&quot;homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Endy Muhardin</title>

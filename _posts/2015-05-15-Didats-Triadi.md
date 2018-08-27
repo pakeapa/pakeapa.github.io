@@ -5,7 +5,6 @@ excerpt: Developer, Founder <a href="http://rimbunesia.com/">Rimbunesia</a>
 desc: "Developer, Founder Rimbunesia, web dan mobile app studio"
 image: '/images/people/didats/didats2.png'
 tags:
-- interview
 - developer
 - startup
 
