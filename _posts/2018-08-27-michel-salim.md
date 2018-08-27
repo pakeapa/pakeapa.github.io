@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Michel Alexandre Salim"
-excerpt: "<i>Production Engineer</i> di Facebook. Dan sebelumnya <i>System engineeer</i> di Traveloka bidang infrastructure dan <i>cloud infrastructure</i>."
-desc: "<i>Production Engineer di Facebook. Dan sebelumnya <i>System engineeer</i> di Traveloka bidang infrastructure dan cloud infrastructure."
+excerpt: "Production Engineer di Facebook."
+desc: "Production Engineer di Facebook."
 image: "/images/people/michel-alexandre-salim/michel-alexandre-salim.jpg"
 category: interview
 tags: [developer, engineer]
